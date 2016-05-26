@@ -1,0 +1,30 @@
+{
+	"first_name": "Bob", 
+	"last_name": "Jones",
+	"address": {
+		"street_number": "100",
+		"street_name": "Capital One Way",
+		"city": "McLean",T
+		"state": "VA",
+		"zip": "00000"
+	}
+}
+
+//Bob Jones ID: 574728178a710f8e12324ee7
+//Bob Jones purchase: http://api.reimaginebanking.com/accounts/574728178a710f8e12324ee7/purchases?key=ef036cbe3a2bb3381f912a82a8b767b8
+
+
+{
+	"first_name": "Timothy", 
+	"last_name": "Smith",
+	"address": {
+		"street_number": "400",
+		"street_name": "Field Avenue",
+		"city": "Richmond",
+		"state": "VA",
+		"zip": "00200"
+	}
+}
+
+//Timothy Smith ID: 574728b28a710f8e12324ee9
+//Timothy Smith purchase: http://api.reimaginebanking.com/accounts/574728b28a710f8e12324ee9/purchases?key=ef036cbe3a2bb3381f912a82a8b767b8
