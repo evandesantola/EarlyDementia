@@ -1,0 +1,9153 @@
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "100000",
+"purchase_date": "2011-01-02",
+"amount": 8,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "99992",
+"purchase_date": "2011-01-02",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98992",
+"purchase_date": "2011-01-02",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98952",
+"purchase_date": "2011-01-02",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98852",
+"purchase_date": "2011-01-02",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98772",
+"purchase_date": "2011-01-04",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98732",
+"purchase_date": "2011-01-05",
+"amount": 50,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98682",
+"purchase_date": "2011-01-06",
+"amount": 9,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98673",
+"purchase_date": "2011-01-08",
+"amount": 31,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "98642",
+"purchase_date": "2011-01-09",
+"amount": 45,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98597",
+"purchase_date": "2011-01-11",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98557",
+"purchase_date": "2011-01-11",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98553",
+"purchase_date": "2011-01-12",
+"amount": 24,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "98529",
+"purchase_date": "2011-01-12",
+"amount": 1,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98528",
+"purchase_date": "2011-01-13",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98522",
+"purchase_date": "2011-01-15",
+"amount": 43,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "98479",
+"purchase_date": "2011-01-16",
+"amount": 88,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "98391",
+"purchase_date": "2011-01-16",
+"amount": 54,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98337",
+"purchase_date": "2011-01-18",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98297",
+"purchase_date": "2011-01-19",
+"amount": 28,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98269",
+"purchase_date": "2011-01-20",
+"amount": 11,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98258",
+"purchase_date": "2011-01-22",
+"amount": 13,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "98245",
+"purchase_date": "2011-01-23",
+"amount": 70,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98175",
+"purchase_date": "2011-01-25",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98135",
+"purchase_date": "2011-01-25",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98130",
+"purchase_date": "2011-01-26",
+"amount": 8,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "98122",
+"purchase_date": "2011-01-27",
+"amount": 34,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98088",
+"purchase_date": "2011-01-27",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "98078",
+"purchase_date": "2011-01-29",
+"amount": 29,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "98049",
+"purchase_date": "2011-02-01",
+"amount": 36,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "98013",
+"purchase_date": "2011-02-03",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "97973",
+"purchase_date": "2011-02-03",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "97893",
+"purchase_date": "2011-02-04",
+"amount": 48,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "97845",
+"purchase_date": "2011-02-04",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96845",
+"purchase_date": "2011-02-04",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96805",
+"purchase_date": "2011-02-04",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96705",
+"purchase_date": "2011-02-05",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96702",
+"purchase_date": "2011-02-07",
+"amount": 18,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "96684",
+"purchase_date": "2011-02-08",
+"amount": 34,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96650",
+"purchase_date": "2011-02-10",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96610",
+"purchase_date": "2011-02-10",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96605",
+"purchase_date": "2011-02-11",
+"amount": 50,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96555",
+"purchase_date": "2011-02-12",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "96533",
+"purchase_date": "2011-02-13",
+"amount": 8,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96525",
+"purchase_date": "2011-02-14",
+"amount": 23,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "96502",
+"purchase_date": "2011-02-15",
+"amount": 37,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "96465",
+"purchase_date": "2011-02-17",
+"amount": 36,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96429",
+"purchase_date": "2011-02-17",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96389",
+"purchase_date": "2011-02-18",
+"amount": 46,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96343",
+"purchase_date": "2011-02-19",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96341",
+"purchase_date": "2011-02-21",
+"amount": 45,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "96296",
+"purchase_date": "2011-02-22",
+"amount": 2,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96294",
+"purchase_date": "2011-02-24",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96254",
+"purchase_date": "2011-02-24",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96250",
+"purchase_date": "2011-02-25",
+"amount": 9,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "96241",
+"purchase_date": "2011-02-26",
+"amount": 29,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "96212",
+"purchase_date": "2011-02-28",
+"amount": 41,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "96171",
+"purchase_date": "2011-02-28",
+"amount": 147,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "96024",
+"purchase_date": "2011-02-29",
+"amount": 31,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "95993",
+"purchase_date": "2011-03-02",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "95953",
+"purchase_date": "2011-03-03",
+"amount": 4,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "95949",
+"purchase_date": "2011-03-04",
+"amount": 17,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "95932",
+"purchase_date": "2011-03-04",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "95852",
+"purchase_date": "2011-03-06",
+"amount": 50,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "95802",
+"purchase_date": "2011-03-06",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94802",
+"purchase_date": "2011-03-06",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94762",
+"purchase_date": "2011-03-06",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "94662",
+"purchase_date": "2011-03-07",
+"amount": 2,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94660",
+"purchase_date": "2011-03-09",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94620",
+"purchase_date": "2011-03-09",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94616",
+"purchase_date": "2011-03-10",
+"amount": 28,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94588",
+"purchase_date": "2011-03-11",
+"amount": 19,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94569",
+"purchase_date": "2011-03-13",
+"amount": 34,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "94535",
+"purchase_date": "2011-03-14",
+"amount": 82,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "94453",
+"purchase_date": "2011-03-14",
+"amount": 36,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94417",
+"purchase_date": "2011-03-16",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94377",
+"purchase_date": "2011-03-17",
+"amount": 14,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "94363",
+"purchase_date": "2011-03-18",
+"amount": 65,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94298",
+"purchase_date": "2011-03-18",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94274",
+"purchase_date": "2011-03-20",
+"amount": 37,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "94237",
+"purchase_date": "2011-03-21",
+"amount": 70,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94167",
+"purchase_date": "2011-03-23",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94127",
+"purchase_date": "2011-03-23",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94126",
+"purchase_date": "2011-03-24",
+"amount": 45,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "94081",
+"purchase_date": "2011-03-25",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "94079",
+"purchase_date": "2011-03-27",
+"amount": 18,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "94061",
+"purchase_date": "2011-03-28",
+"amount": 6,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "94055",
+"purchase_date": "2011-03-29",
+"amount": 105,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93950",
+"purchase_date": "2011-04-01",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "93910",
+"purchase_date": "2011-04-02",
+"amount": 2,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93908",
+"purchase_date": "2011-04-03",
+"amount": 19,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "93889",
+"purchase_date": "2011-04-05",
+"amount": 24,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93865",
+"purchase_date": "2011-04-05",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "93785",
+"purchase_date": "2011-04-06",
+"amount": 83,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93702",
+"purchase_date": "2011-04-08",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93662",
+"purchase_date": "2011-04-08",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "93659",
+"purchase_date": "2011-04-08",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92659",
+"purchase_date": "2011-04-08",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92619",
+"purchase_date": "2011-04-08",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92519",
+"purchase_date": "2011-04-09",
+"amount": 17,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92502",
+"purchase_date": "2011-04-10",
+"amount": 28,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92474",
+"purchase_date": "2011-04-12",
+"amount": 39,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "92435",
+"purchase_date": "2011-04-13",
+"amount": 2,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "92433",
+"purchase_date": "2011-04-15",
+"amount": 18,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92415",
+"purchase_date": "2011-04-15",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92375",
+"purchase_date": "2011-04-16",
+"amount": 22,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92353",
+"purchase_date": "2011-04-17",
+"amount": 18,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92335",
+"purchase_date": "2011-04-19",
+"amount": 9,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "92326",
+"purchase_date": "2011-04-19",
+"amount": 148,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "92178",
+"purchase_date": "2011-04-20",
+"amount": 95,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92083",
+"purchase_date": "2011-04-22",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92043",
+"purchase_date": "2011-04-22",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92038",
+"purchase_date": "2011-04-23",
+"amount": 10,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "92028",
+"purchase_date": "2011-04-24",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "92022",
+"purchase_date": "2011-04-26",
+"amount": 26,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "91996",
+"purchase_date": "2011-04-27",
+"amount": 99,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91897",
+"purchase_date": "2011-04-29",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "91857",
+"purchase_date": "2011-05-01",
+"amount": 43,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "91814",
+"purchase_date": "2011-05-01",
+"amount": 69,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91745",
+"purchase_date": "2011-05-02",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "91742",
+"purchase_date": "2011-05-04",
+"amount": 11,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "91731",
+"purchase_date": "2011-05-05",
+"amount": 95,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91636",
+"purchase_date": "2011-05-06",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91556",
+"purchase_date": "2011-05-07",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91516",
+"purchase_date": "2011-05-07",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "91512",
+"purchase_date": "2011-05-08",
+"amount": 46,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91466",
+"purchase_date": "2011-05-09",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "91442",
+"purchase_date": "2011-05-10",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "90442",
+"purchase_date": "2011-05-10",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "90402",
+"purchase_date": "2011-05-10",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "90302",
+"purchase_date": "2011-05-11",
+"amount": 31,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "90271",
+"purchase_date": "2011-05-12",
+"amount": 63,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "90208",
+"purchase_date": "2011-05-14",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "90168",
+"purchase_date": "2011-05-15",
+"amount": 43,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "90125",
+"purchase_date": "2011-05-16",
+"amount": 3,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "90122",
+"purchase_date": "2011-05-16",
+"amount": 23,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "90099",
+"purchase_date": "2011-05-18",
+"amount": 18,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "90081",
+"purchase_date": "2011-05-19",
+"amount": 96,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "89985",
+"purchase_date": "2011-05-20",
+"amount": 113,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89872",
+"purchase_date": "2011-05-21",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89832",
+"purchase_date": "2011-05-21",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89830",
+"purchase_date": "2011-05-22",
+"amount": 2,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89828",
+"purchase_date": "2011-05-23",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89806",
+"purchase_date": "2011-05-25",
+"amount": 39,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "89767",
+"purchase_date": "2011-05-26",
+"amount": 17,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89750",
+"purchase_date": "2011-05-28",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89710",
+"purchase_date": "2011-05-29",
+"amount": 41,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89669",
+"purchase_date": "2011-06-01",
+"amount": 20,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "89649",
+"purchase_date": "2011-06-02",
+"amount": 36,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89613",
+"purchase_date": "2011-06-03",
+"amount": 7,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "89606",
+"purchase_date": "2011-06-04",
+"amount": 99,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89507",
+"purchase_date": "2011-06-06",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89467",
+"purchase_date": "2011-06-06",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89466",
+"purchase_date": "2011-06-07",
+"amount": 20,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89446",
+"purchase_date": "2011-06-07",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89366",
+"purchase_date": "2011-06-08",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "89342",
+"purchase_date": "2011-06-10",
+"amount": 40,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "89302",
+"purchase_date": "2011-06-11",
+"amount": 6,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "89296",
+"purchase_date": "2011-06-12",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "88296",
+"purchase_date": "2011-06-12",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "88256",
+"purchase_date": "2011-06-12",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "88156",
+"purchase_date": "2011-06-13",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "88116",
+"purchase_date": "2011-06-14",
+"amount": 27,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "88089",
+"purchase_date": "2011-06-15",
+"amount": 27,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "88062",
+"purchase_date": "2011-06-17",
+"amount": 14,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "88048",
+"purchase_date": "2011-06-17",
+"amount": 39,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "88009",
+"purchase_date": "2011-06-18",
+"amount": 95,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87914",
+"purchase_date": "2011-06-20",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87874",
+"purchase_date": "2011-06-20",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87873",
+"purchase_date": "2011-06-21",
+"amount": 45,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "87828",
+"purchase_date": "2011-06-21",
+"amount": 35,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87793",
+"purchase_date": "2011-06-22",
+"amount": 27,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87766",
+"purchase_date": "2011-06-24",
+"amount": 45,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "87721",
+"purchase_date": "2011-06-25",
+"amount": 39,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87682",
+"purchase_date": "2011-06-27",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87642",
+"purchase_date": "2011-06-28",
+"amount": 45,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87597",
+"purchase_date": "2011-06-29",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87576",
+"purchase_date": "2011-07-02",
+"amount": 10,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "87566",
+"purchase_date": "2011-07-03",
+"amount": 48,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "87518",
+"purchase_date": "2011-07-03",
+"amount": 86,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87432",
+"purchase_date": "2011-07-05",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87392",
+"purchase_date": "2011-07-05",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87389",
+"purchase_date": "2011-07-06",
+"amount": 23,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87366",
+"purchase_date": "2011-07-07",
+"amount": 18,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87348",
+"purchase_date": "2011-07-08",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87268",
+"purchase_date": "2011-07-09",
+"amount": 36,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "87232",
+"purchase_date": "2011-07-10",
+"amount": 86,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87146",
+"purchase_date": "2011-07-12",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "87106",
+"purchase_date": "2011-07-13",
+"amount": 24,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87082",
+"purchase_date": "2011-07-14",
+"amount": 15,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "87067",
+"purchase_date": "2011-07-14",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "86067",
+"purchase_date": "2011-07-14",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "86027",
+"purchase_date": "2011-07-14",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85927",
+"purchase_date": "2011-07-16",
+"amount": 19,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "85908",
+"purchase_date": "2011-07-17",
+"amount": 16,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "85892",
+"purchase_date": "2011-07-18",
+"amount": 26,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85866",
+"purchase_date": "2011-07-19",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85826",
+"purchase_date": "2011-07-19",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85821",
+"purchase_date": "2011-07-20",
+"amount": 43,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85778",
+"purchase_date": "2011-07-21",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "85768",
+"purchase_date": "2011-07-22",
+"amount": 103,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85665",
+"purchase_date": "2011-07-23",
+"amount": 45,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "85620",
+"purchase_date": "2011-07-24",
+"amount": 19,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85601",
+"purchase_date": "2011-07-26",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85561",
+"purchase_date": "2011-07-27",
+"amount": 47,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85514",
+"purchase_date": "2011-07-28",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85498",
+"purchase_date": "2011-08-01",
+"amount": 42,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "85456",
+"purchase_date": "2011-08-02",
+"amount": 70,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "85386",
+"purchase_date": "2011-08-04",
+"amount": 98,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85288",
+"purchase_date": "2011-08-04",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85248",
+"purchase_date": "2011-08-04",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85244",
+"purchase_date": "2011-08-05",
+"amount": 48,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85196",
+"purchase_date": "2011-08-06",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85175",
+"purchase_date": "2011-08-08",
+"amount": 13,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "85162",
+"purchase_date": "2011-08-09",
+"amount": 9,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85153",
+"purchase_date": "2011-08-09",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85073",
+"purchase_date": "2011-08-11",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "85033",
+"purchase_date": "2011-08-12",
+"amount": 28,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "85005",
+"purchase_date": "2011-08-13",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "84989",
+"purchase_date": "2011-08-15",
+"amount": 36,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "84953",
+"purchase_date": "2011-08-16",
+"amount": 96,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "84857",
+"purchase_date": "2011-08-16",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83857",
+"purchase_date": "2011-08-16",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83817",
+"purchase_date": "2011-08-16",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83717",
+"purchase_date": "2011-08-18",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83677",
+"purchase_date": "2011-08-18",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83675",
+"purchase_date": "2011-08-19",
+"amount": 18,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "83657",
+"purchase_date": "2011-08-19",
+"amount": 35,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83622",
+"purchase_date": "2011-08-20",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83600",
+"purchase_date": "2011-08-22",
+"amount": 7,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "83593",
+"purchase_date": "2011-08-23",
+"amount": 73,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "83520",
+"purchase_date": "2011-08-23",
+"amount": 111,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83409",
+"purchase_date": "2011-08-25",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83369",
+"purchase_date": "2011-08-26",
+"amount": 45,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83324",
+"purchase_date": "2011-08-27",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83318",
+"purchase_date": "2011-08-29",
+"amount": 40,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "83278",
+"purchase_date": "2011-09-01",
+"amount": 16,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83262",
+"purchase_date": "2011-09-03",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83222",
+"purchase_date": "2011-09-03",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83218",
+"purchase_date": "2011-09-04",
+"amount": 20,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "83198",
+"purchase_date": "2011-09-05",
+"amount": 56,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83142",
+"purchase_date": "2011-09-05",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "83126",
+"purchase_date": "2011-09-07",
+"amount": 7,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "83119",
+"purchase_date": "2011-09-08",
+"amount": 3,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83116",
+"purchase_date": "2011-09-10",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "83076",
+"purchase_date": "2011-09-10",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "82996",
+"purchase_date": "2011-09-11",
+"amount": 27,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "82969",
+"purchase_date": "2011-09-12",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "82959",
+"purchase_date": "2011-09-14",
+"amount": 32,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "82927",
+"purchase_date": "2011-09-15",
+"amount": 39,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "82888",
+"purchase_date": "2011-09-17",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "82848",
+"purchase_date": "2011-09-17",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "82844",
+"purchase_date": "2011-09-18",
+"amount": 48,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "82796",
+"purchase_date": "2011-09-18",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81796",
+"purchase_date": "2011-09-18",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81756",
+"purchase_date": "2011-09-18",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81656",
+"purchase_date": "2011-09-19",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "81646",
+"purchase_date": "2011-09-20",
+"amount": 4,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81642",
+"purchase_date": "2011-09-21",
+"amount": 32,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "81610",
+"purchase_date": "2011-09-22",
+"amount": 15,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "81595",
+"purchase_date": "2011-09-24",
+"amount": 120,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81475",
+"purchase_date": "2011-09-24",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81435",
+"purchase_date": "2011-09-25",
+"amount": 26,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81409",
+"purchase_date": "2011-09-26",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81408",
+"purchase_date": "2011-09-28",
+"amount": 30,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "81378",
+"purchase_date": "2011-09-29",
+"amount": 55,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81323",
+"purchase_date": "2011-10-02",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81283",
+"purchase_date": "2011-10-02",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81282",
+"purchase_date": "2011-10-03",
+"amount": 38,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81244",
+"purchase_date": "2011-10-04",
+"amount": 28,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81216",
+"purchase_date": "2011-10-06",
+"amount": 26,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "81190",
+"purchase_date": "2011-10-06",
+"amount": 57,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "81133",
+"purchase_date": "2011-10-07",
+"amount": 65,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "81068",
+"purchase_date": "2011-10-09",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "81028",
+"purchase_date": "2011-10-10",
+"amount": 48,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80980",
+"purchase_date": "2011-10-11",
+"amount": 25,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80955",
+"purchase_date": "2011-10-11",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "80875",
+"purchase_date": "2011-10-13",
+"amount": 1,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "80874",
+"purchase_date": "2011-10-14",
+"amount": 77,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80797",
+"purchase_date": "2011-10-16",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80757",
+"purchase_date": "2011-10-16",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "80754",
+"purchase_date": "2011-10-17",
+"amount": 5,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80749",
+"purchase_date": "2011-10-18",
+"amount": 15,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "80734",
+"purchase_date": "2011-10-20",
+"amount": 32,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "80702",
+"purchase_date": "2011-10-20",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79702",
+"purchase_date": "2011-10-20",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79662",
+"purchase_date": "2011-10-20",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "79562",
+"purchase_date": "2011-10-21",
+"amount": 66,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "79496",
+"purchase_date": "2011-10-21",
+"amount": 19,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79477",
+"purchase_date": "2011-10-23",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "79437",
+"purchase_date": "2011-10-24",
+"amount": 50,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "79387",
+"purchase_date": "2011-10-25",
+"amount": 80,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79307",
+"purchase_date": "2011-10-25",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "79303",
+"purchase_date": "2011-10-27",
+"amount": 34,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "79269",
+"purchase_date": "2011-10-28",
+"amount": 8,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79261",
+"purchase_date": "2011-11-01",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79221",
+"purchase_date": "2011-11-01",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "79217",
+"purchase_date": "2011-11-02",
+"amount": 23,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79194",
+"purchase_date": "2011-11-03",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "79187",
+"purchase_date": "2011-11-05",
+"amount": 4,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "79183",
+"purchase_date": "2011-11-06",
+"amount": 31,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "79152",
+"purchase_date": "2011-11-07",
+"amount": 117,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "79035",
+"purchase_date": "2011-11-08",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "78995",
+"purchase_date": "2011-11-09",
+"amount": 1,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78994",
+"purchase_date": "2011-11-10",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "78973",
+"purchase_date": "2011-11-12",
+"amount": 36,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78937",
+"purchase_date": "2011-11-12",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "78857",
+"purchase_date": "2011-11-13",
+"amount": 99,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78758",
+"purchase_date": "2011-11-15",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78718",
+"purchase_date": "2011-11-15",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "78717",
+"purchase_date": "2011-11-16",
+"amount": 34,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78683",
+"purchase_date": "2011-11-17",
+"amount": 27,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "78656",
+"purchase_date": "2011-11-19",
+"amount": 29,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "78627",
+"purchase_date": "2011-11-20",
+"amount": 58,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "78569",
+"purchase_date": "2011-11-22",
+"amount": 32,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78537",
+"purchase_date": "2011-11-22",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "78497",
+"purchase_date": "2011-11-22",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77497",
+"purchase_date": "2011-11-22",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77457",
+"purchase_date": "2011-11-22",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "77357",
+"purchase_date": "2011-11-23",
+"amount": 29,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77328",
+"purchase_date": "2011-11-24",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "77318",
+"purchase_date": "2011-11-26",
+"amount": 38,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "77280",
+"purchase_date": "2011-11-26",
+"amount": 42,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "77238",
+"purchase_date": "2011-11-27",
+"amount": 21,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77217",
+"purchase_date": "2011-11-29",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77177",
+"purchase_date": "2011-11-29",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "77174",
+"purchase_date": "2011-12-01",
+"amount": 34,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77140",
+"purchase_date": "2011-12-02",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "77118",
+"purchase_date": "2011-12-04",
+"amount": 39,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "77079",
+"purchase_date": "2011-12-05",
+"amount": 74,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "77005",
+"purchase_date": "2011-12-07",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "76965",
+"purchase_date": "2011-12-08",
+"amount": 28,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "76937",
+"purchase_date": "2011-12-08",
+"amount": 109,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76828",
+"purchase_date": "2011-12-09",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "76827",
+"purchase_date": "2011-12-11",
+"amount": 5,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "76822",
+"purchase_date": "2011-12-12",
+"amount": 16,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76806",
+"purchase_date": "2011-12-13",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76726",
+"purchase_date": "2011-12-14",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76686",
+"purchase_date": "2011-12-14",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "76683",
+"purchase_date": "2011-12-15",
+"amount": 31,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76652",
+"purchase_date": "2011-12-16",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "76636",
+"purchase_date": "2011-12-18",
+"amount": 47,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "76589",
+"purchase_date": "2011-12-19",
+"amount": 39,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76550",
+"purchase_date": "2011-12-21",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "76510",
+"purchase_date": "2011-12-22",
+"amount": 1,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "76509",
+"purchase_date": "2011-12-23",
+"amount": 36,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76473",
+"purchase_date": "2011-12-23",
+"amount": 28,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "76445",
+"purchase_date": "2011-12-24",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "75445",
+"purchase_date": "2011-12-24",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "75405",
+"purchase_date": "2011-12-24",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "75305",
+"purchase_date": "2011-12-25",
+"amount": 14,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "75291",
+"purchase_date": "2011-12-26",
+"amount": 94,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "75197",
+"purchase_date": "2011-12-27",
+"amount": 111,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "75086",
+"purchase_date": "2011-12-28",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "75046",
+"purchase_date": "2011-12-28",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "75041",
+"purchase_date": "2011-12-29",
+"amount": 19,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "75022",
+"purchase_date": "2011-01-01",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "75006",
+"purchase_date": "2011-01-03",
+"amount": 30,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "74976",
+"purchase_date": "2011-01-04",
+"amount": 64,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74912",
+"purchase_date": "2011-01-06",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74872",
+"purchase_date": "2011-01-07",
+"amount": 3,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74869",
+"purchase_date": "2011-01-08",
+"amount": 14,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "74855",
+"purchase_date": "2011-01-09",
+"amount": 20,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74835",
+"purchase_date": "2011-01-10",
+"amount": 18,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "74817",
+"purchase_date": "2011-01-11",
+"amount": 70,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74747",
+"purchase_date": "2011-01-13",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74707",
+"purchase_date": "2011-01-13",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74706",
+"purchase_date": "2011-01-14",
+"amount": 4,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74702",
+"purchase_date": "2011-01-14",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74622",
+"purchase_date": "2011-01-15",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74618",
+"purchase_date": "2011-01-17",
+"amount": 49,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "74569",
+"purchase_date": "2011-01-18",
+"amount": 59,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74510",
+"purchase_date": "2012-01-20",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74470",
+"purchase_date": "2012-01-21",
+"amount": 10,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74460",
+"purchase_date": "2012-01-22",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "74439",
+"purchase_date": "2012-01-24",
+"amount": 25,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "74414",
+"purchase_date": "2012-01-24",
+"amount": 14,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "74400",
+"purchase_date": "2012-01-25",
+"amount": 4,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "74396",
+"purchase_date": "2012-01-26",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73396",
+"purchase_date": "2012-01-26",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73356",
+"purchase_date": "2012-01-26",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73256",
+"purchase_date": "2012-01-27",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73216",
+"purchase_date": "2012-01-27",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "73213",
+"purchase_date": "2012-01-28",
+"amount": 21,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "73192",
+"purchase_date": "2012-01-28",
+"amount": 82,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73110",
+"purchase_date": "2012-01-29",
+"amount": 11,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "73099",
+"purchase_date": "2012-02-02",
+"amount": 4,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "73095",
+"purchase_date": "2012-02-03",
+"amount": 21,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73074",
+"purchase_date": "2012-02-05",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "73034",
+"purchase_date": "2012-02-06",
+"amount": 34,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "73000",
+"purchase_date": "2012-02-07",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72976",
+"purchase_date": "2012-02-09",
+"amount": 27,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "72949",
+"purchase_date": "2012-02-10",
+"amount": 35,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "72914",
+"purchase_date": "2012-02-10",
+"amount": 81,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72833",
+"purchase_date": "2012-02-12",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72793",
+"purchase_date": "2012-02-12",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72788",
+"purchase_date": "2012-02-13",
+"amount": 33,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72755",
+"purchase_date": "2012-02-14",
+"amount": 20,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72735",
+"purchase_date": "2012-02-15",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72655",
+"purchase_date": "2012-02-16",
+"amount": 43,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "72612",
+"purchase_date": "2012-02-17",
+"amount": 72,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72540",
+"purchase_date": "2012-02-19",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72500",
+"purchase_date": "2012-02-20",
+"amount": 11,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72489",
+"purchase_date": "2012-02-21",
+"amount": 14,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72475",
+"purchase_date": "2012-02-23",
+"amount": 21,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "72454",
+"purchase_date": "2012-02-24",
+"amount": 24,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "72430",
+"purchase_date": "2012-02-25",
+"amount": 11,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72419",
+"purchase_date": "2012-02-26",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72379",
+"purchase_date": "2012-02-26",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "72377",
+"purchase_date": "2012-02-27",
+"amount": 30,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72347",
+"purchase_date": "2012-02-28",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "72340",
+"purchase_date": "2012-02-28",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "71340",
+"purchase_date": "2012-02-28",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "71300",
+"purchase_date": "2012-02-28",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "71200",
+"purchase_date": "2012-02-29",
+"amount": 150,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "71050",
+"purchase_date": "2012-03-01",
+"amount": 31,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "71019",
+"purchase_date": "2012-03-02",
+"amount": 77,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70942",
+"purchase_date": "2012-03-04",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70902",
+"purchase_date": "2012-03-05",
+"amount": 25,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70877",
+"purchase_date": "2012-03-06",
+"amount": 9,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70868",
+"purchase_date": "2012-03-08",
+"amount": 47,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "70821",
+"purchase_date": "2012-03-09",
+"amount": 65,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "70756",
+"purchase_date": "2012-03-11",
+"amount": 111,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70645",
+"purchase_date": "2012-03-11",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70605",
+"purchase_date": "2012-03-11",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70601",
+"purchase_date": "2012-03-12",
+"amount": 2,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70599",
+"purchase_date": "2012-03-13",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70575",
+"purchase_date": "2012-03-15",
+"amount": 2,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "70573",
+"purchase_date": "2012-03-16",
+"amount": 6,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70567",
+"purchase_date": "2012-03-16",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70487",
+"purchase_date": "2012-03-18",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70447",
+"purchase_date": "2012-03-19",
+"amount": 31,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70416",
+"purchase_date": "2012-03-20",
+"amount": 15,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70401",
+"purchase_date": "2012-03-22",
+"amount": 50,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "70351",
+"purchase_date": "2012-03-23",
+"amount": 21,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70330",
+"purchase_date": "2012-03-25",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70290",
+"purchase_date": "2012-03-25",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70289",
+"purchase_date": "2012-03-26",
+"amount": 13,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "70276",
+"purchase_date": "2012-03-26",
+"amount": 29,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70247",
+"purchase_date": "2012-03-27",
+"amount": 18,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "70229",
+"purchase_date": "2012-03-29",
+"amount": 9,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "70220",
+"purchase_date": "2012-04-01",
+"amount": 25,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "70195",
+"purchase_date": "2012-04-01",
+"amount": 46,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "70149",
+"purchase_date": "2012-04-01",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "69149",
+"purchase_date": "2012-04-01",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "69109",
+"purchase_date": "2012-04-01",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "69009",
+"purchase_date": "2012-04-03",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68969",
+"purchase_date": "2012-04-04",
+"amount": 8,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68961",
+"purchase_date": "2012-04-05",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68960",
+"purchase_date": "2012-04-07",
+"amount": 17,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "68943",
+"purchase_date": "2012-04-08",
+"amount": 94,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68849",
+"purchase_date": "2012-04-10",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68809",
+"purchase_date": "2012-04-10",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68805",
+"purchase_date": "2012-04-11",
+"amount": 16,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "68789",
+"purchase_date": "2012-04-12",
+"amount": 93,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68696",
+"purchase_date": "2012-04-12",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68672",
+"purchase_date": "2012-04-14",
+"amount": 3,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "68669",
+"purchase_date": "2012-04-15",
+"amount": 42,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68627",
+"purchase_date": "2012-04-17",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68587",
+"purchase_date": "2012-04-17",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68507",
+"purchase_date": "2012-04-18",
+"amount": 11,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68496",
+"purchase_date": "2012-04-19",
+"amount": 30,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68466",
+"purchase_date": "2012-04-21",
+"amount": 28,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "68438",
+"purchase_date": "2012-04-22",
+"amount": 88,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68350",
+"purchase_date": "2012-04-24",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68310",
+"purchase_date": "2012-04-24",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68305",
+"purchase_date": "2012-04-25",
+"amount": 26,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68279",
+"purchase_date": "2012-04-26",
+"amount": 28,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "68251",
+"purchase_date": "2012-04-27",
+"amount": 29,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "68222",
+"purchase_date": "2012-04-28",
+"amount": 43,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "68179",
+"purchase_date": "2012-04-29",
+"amount": 75,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "68104",
+"purchase_date": "2012-05-02",
+"amount": 96,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "68008",
+"purchase_date": "2012-05-02",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "67968",
+"purchase_date": "2012-05-03",
+"amount": 24,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "67944",
+"purchase_date": "2012-05-03",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66944",
+"purchase_date": "2012-05-03",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66904",
+"purchase_date": "2012-05-03",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66804",
+"purchase_date": "2012-05-04",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66802",
+"purchase_date": "2012-05-06",
+"amount": 40,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "66762",
+"purchase_date": "2012-05-07",
+"amount": 6,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66756",
+"purchase_date": "2012-05-09",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66716",
+"purchase_date": "2012-05-09",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66711",
+"purchase_date": "2012-05-10",
+"amount": 4,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66707",
+"purchase_date": "2012-05-11",
+"amount": 17,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66690",
+"purchase_date": "2012-05-13",
+"amount": 7,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "66683",
+"purchase_date": "2012-05-13",
+"amount": 111,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "66572",
+"purchase_date": "2012-05-14",
+"amount": 99,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66473",
+"purchase_date": "2012-05-16",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66433",
+"purchase_date": "2012-05-17",
+"amount": 43,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66390",
+"purchase_date": "2012-05-18",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66383",
+"purchase_date": "2012-05-18",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66303",
+"purchase_date": "2012-05-20",
+"amount": 31,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "66272",
+"purchase_date": "2012-05-21",
+"amount": 53,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66219",
+"purchase_date": "2012-05-23",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66179",
+"purchase_date": "2012-05-23",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66174",
+"purchase_date": "2012-05-24",
+"amount": 49,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66125",
+"purchase_date": "2012-05-25",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "66103",
+"purchase_date": "2012-05-27",
+"amount": 17,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "66086",
+"purchase_date": "2012-05-28",
+"amount": 72,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "66014",
+"purchase_date": "2012-05-28",
+"amount": 9,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "66005",
+"purchase_date": "2012-06-01",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "65965",
+"purchase_date": "2012-06-02",
+"amount": 22,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "65943",
+"purchase_date": "2012-06-03",
+"amount": 46,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "65897",
+"purchase_date": "2012-06-03",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "65896",
+"purchase_date": "2012-06-05",
+"amount": 41,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "65855",
+"purchase_date": "2012-06-05",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64855",
+"purchase_date": "2012-06-05",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64815",
+"purchase_date": "2012-06-05",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "64715",
+"purchase_date": "2012-06-06",
+"amount": 54,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64661",
+"purchase_date": "2012-06-08",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64621",
+"purchase_date": "2012-06-08",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64618",
+"purchase_date": "2012-06-09",
+"amount": 1,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64617",
+"purchase_date": "2012-06-10",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64593",
+"purchase_date": "2012-06-12",
+"amount": 45,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "64548",
+"purchase_date": "2012-06-13",
+"amount": 28,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "64520",
+"purchase_date": "2012-06-14",
+"amount": 128,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64392",
+"purchase_date": "2012-06-15",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64352",
+"purchase_date": "2012-06-16",
+"amount": 46,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64306",
+"purchase_date": "2012-06-17",
+"amount": 23,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64283",
+"purchase_date": "2012-06-19",
+"amount": 17,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64266",
+"purchase_date": "2012-06-19",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "64186",
+"purchase_date": "2012-06-20",
+"amount": 16,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64170",
+"purchase_date": "2012-06-22",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64130",
+"purchase_date": "2012-06-22",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64125",
+"purchase_date": "2012-06-23",
+"amount": 2,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64123",
+"purchase_date": "2012-06-24",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64121",
+"purchase_date": "2012-06-26",
+"amount": 4,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "64117",
+"purchase_date": "2012-06-27",
+"amount": 9,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "64108",
+"purchase_date": "2012-06-29",
+"amount": 17,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64091",
+"purchase_date": "2012-06-29",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64051",
+"purchase_date": "2012-07-01",
+"amount": 32,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "64019",
+"purchase_date": "2012-07-02",
+"amount": 11,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "64008",
+"purchase_date": "2012-07-04",
+"amount": 17,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "63991",
+"purchase_date": "2012-07-04",
+"amount": 124,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "63867",
+"purchase_date": "2012-07-05",
+"amount": 82,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "63785",
+"purchase_date": "2012-07-07",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "63745",
+"purchase_date": "2012-07-07",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "63744",
+"purchase_date": "2012-07-07",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62744",
+"purchase_date": "2012-07-07",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62704",
+"purchase_date": "2012-07-07",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62604",
+"purchase_date": "2012-07-08",
+"amount": 42,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62562",
+"purchase_date": "2012-07-09",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62556",
+"purchase_date": "2012-07-11",
+"amount": 28,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "62528",
+"purchase_date": "2012-07-12",
+"amount": 29,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62499",
+"purchase_date": "2012-07-14",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62459",
+"purchase_date": "2012-07-15",
+"amount": 26,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "62433",
+"purchase_date": "2012-07-15",
+"amount": 18,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62415",
+"purchase_date": "2012-07-16",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62405",
+"purchase_date": "2012-07-18",
+"amount": 27,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "62378",
+"purchase_date": "2012-07-19",
+"amount": 77,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62301",
+"purchase_date": "2012-07-20",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62221",
+"purchase_date": "2012-07-21",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62181",
+"purchase_date": "2012-07-21",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62179",
+"purchase_date": "2012-07-22",
+"amount": 18,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62161",
+"purchase_date": "2012-07-23",
+"amount": 5,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62156",
+"purchase_date": "2012-07-25",
+"amount": 42,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "62114",
+"purchase_date": "2012-07-26",
+"amount": 59,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "62055",
+"purchase_date": "2012-07-28",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "62015",
+"purchase_date": "2012-07-29",
+"amount": 12,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "62003",
+"purchase_date": "2012-08-01",
+"amount": 39,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "61964",
+"purchase_date": "2012-08-01",
+"amount": 29,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "61935",
+"purchase_date": "2012-08-03",
+"amount": 35,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "61900",
+"purchase_date": "2012-08-04",
+"amount": 68,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "61832",
+"purchase_date": "2012-08-05",
+"amount": 40,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "61792",
+"purchase_date": "2012-08-06",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "61752",
+"purchase_date": "2012-08-06",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "61748",
+"purchase_date": "2012-08-07",
+"amount": 15,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "61733",
+"purchase_date": "2012-08-08",
+"amount": 19,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "61714",
+"purchase_date": "2012-08-09",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60714",
+"purchase_date": "2012-08-09",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60674",
+"purchase_date": "2012-08-09",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60574",
+"purchase_date": "2012-08-10",
+"amount": 29,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "60545",
+"purchase_date": "2012-08-11",
+"amount": 35,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60510",
+"purchase_date": "2012-08-13",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60470",
+"purchase_date": "2012-08-14",
+"amount": 28,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60442",
+"purchase_date": "2012-08-15",
+"amount": 5,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "60437",
+"purchase_date": "2012-08-16",
+"amount": 41,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60396",
+"purchase_date": "2012-08-17",
+"amount": 47,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "60349",
+"purchase_date": "2012-08-18",
+"amount": 84,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60265",
+"purchase_date": "2012-08-20",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60225",
+"purchase_date": "2012-08-20",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60221",
+"purchase_date": "2012-08-21",
+"amount": 16,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60205",
+"purchase_date": "2012-08-21",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60125",
+"purchase_date": "2012-08-22",
+"amount": 13,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60112",
+"purchase_date": "2012-08-24",
+"amount": 15,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "60097",
+"purchase_date": "2012-08-25",
+"amount": 38,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "60059",
+"purchase_date": "2012-08-27",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "60019",
+"purchase_date": "2012-08-28",
+"amount": 26,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "59993",
+"purchase_date": "2012-08-29",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "59992",
+"purchase_date": "2012-09-02",
+"amount": 16,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "59976",
+"purchase_date": "2012-09-02",
+"amount": 31,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "59945",
+"purchase_date": "2012-09-03",
+"amount": 48,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "59897",
+"purchase_date": "2012-09-05",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "59857",
+"purchase_date": "2012-09-05",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "59854",
+"purchase_date": "2012-09-06",
+"amount": 50,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "59804",
+"purchase_date": "2012-09-06",
+"amount": 16,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "59788",
+"purchase_date": "2012-09-07",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "59784",
+"purchase_date": "2012-09-09",
+"amount": 30,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "59754",
+"purchase_date": "2012-09-10",
+"amount": 65,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "59689",
+"purchase_date": "2012-09-11",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58689",
+"purchase_date": "2012-09-11",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58649",
+"purchase_date": "2012-09-11",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58549",
+"purchase_date": "2012-09-12",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58509",
+"purchase_date": "2012-09-13",
+"amount": 30,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58479",
+"purchase_date": "2012-09-14",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58473",
+"purchase_date": "2012-09-16",
+"amount": 40,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "58433",
+"purchase_date": "2012-09-17",
+"amount": 34,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "58399",
+"purchase_date": "2012-09-17",
+"amount": 1,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58398",
+"purchase_date": "2012-09-19",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58358",
+"purchase_date": "2012-09-19",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58353",
+"purchase_date": "2012-09-20",
+"amount": 21,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58332",
+"purchase_date": "2012-09-21",
+"amount": 27,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58305",
+"purchase_date": "2012-09-22",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58225",
+"purchase_date": "2012-09-23",
+"amount": 39,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "58186",
+"purchase_date": "2012-09-24",
+"amount": 39,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58147",
+"purchase_date": "2012-09-26",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58107",
+"purchase_date": "2012-09-27",
+"amount": 37,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "58070",
+"purchase_date": "2012-09-28",
+"amount": 30,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "58040",
+"purchase_date": "2012-10-01",
+"amount": 47,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "57993",
+"purchase_date": "2012-10-02",
+"amount": 89,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "57904",
+"purchase_date": "2012-10-03",
+"amount": 40,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57864",
+"purchase_date": "2012-10-04",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57824",
+"purchase_date": "2012-10-04",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "57821",
+"purchase_date": "2012-10-05",
+"amount": 36,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57785",
+"purchase_date": "2012-10-06",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "57782",
+"purchase_date": "2012-10-07",
+"amount": 135,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "57647",
+"purchase_date": "2012-10-08",
+"amount": 40,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "57607",
+"purchase_date": "2012-10-09",
+"amount": 35,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57572",
+"purchase_date": "2012-10-11",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "57532",
+"purchase_date": "2012-10-12",
+"amount": 18,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57514",
+"purchase_date": "2012-10-13",
+"amount": 6,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "57508",
+"purchase_date": "2012-10-13",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56508",
+"purchase_date": "2012-10-13",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56468",
+"purchase_date": "2012-10-13",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "56368",
+"purchase_date": "2012-10-15",
+"amount": 46,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "56322",
+"purchase_date": "2012-10-16",
+"amount": 62,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "56260",
+"purchase_date": "2012-10-18",
+"amount": 26,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56234",
+"purchase_date": "2012-10-18",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56194",
+"purchase_date": "2012-10-18",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "56189",
+"purchase_date": "2012-10-19",
+"amount": 32,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56157",
+"purchase_date": "2012-10-20",
+"amount": 29,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "56128",
+"purchase_date": "2012-10-22",
+"amount": 49,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "56079",
+"purchase_date": "2012-10-23",
+"amount": 5,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "56074",
+"purchase_date": "2012-10-23",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55994",
+"purchase_date": "2012-10-25",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55954",
+"purchase_date": "2012-10-26",
+"amount": 4,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55950",
+"purchase_date": "2012-10-27",
+"amount": 26,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55924",
+"purchase_date": "2012-10-29",
+"amount": 42,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "55882",
+"purchase_date": "2012-11-01",
+"amount": 25,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55857",
+"purchase_date": "2012-11-03",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55817",
+"purchase_date": "2012-11-03",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55816",
+"purchase_date": "2012-11-04",
+"amount": 22,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "55794",
+"purchase_date": "2012-11-04",
+"amount": 27,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55767",
+"purchase_date": "2012-11-05",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55746",
+"purchase_date": "2012-11-07",
+"amount": 4,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "55742",
+"purchase_date": "2012-11-08",
+"amount": 33,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "55709",
+"purchase_date": "2012-11-08",
+"amount": 92,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55617",
+"purchase_date": "2012-11-10",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55577",
+"purchase_date": "2012-11-11",
+"amount": 5,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55572",
+"purchase_date": "2012-11-12",
+"amount": 8,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "55564",
+"purchase_date": "2012-11-14",
+"amount": 1,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "55563",
+"purchase_date": "2012-11-15",
+"amount": 66,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "55497",
+"purchase_date": "2012-11-15",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54497",
+"purchase_date": "2012-11-15",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54457",
+"purchase_date": "2012-11-15",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54357",
+"purchase_date": "2012-11-17",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54317",
+"purchase_date": "2012-11-17",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "54314",
+"purchase_date": "2012-11-18",
+"amount": 23,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "54291",
+"purchase_date": "2012-11-19",
+"amount": 118,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54173",
+"purchase_date": "2012-11-19",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "54166",
+"purchase_date": "2012-11-21",
+"amount": 49,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "54117",
+"purchase_date": "2012-11-22",
+"amount": 30,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54087",
+"purchase_date": "2012-11-24",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "54047",
+"purchase_date": "2012-11-24",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53967",
+"purchase_date": "2012-11-25",
+"amount": 40,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53927",
+"purchase_date": "2012-11-26",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53903",
+"purchase_date": "2012-11-28",
+"amount": 8,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "53895",
+"purchase_date": "2012-11-29",
+"amount": 53,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53842",
+"purchase_date": "2012-12-02",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53802",
+"purchase_date": "2012-12-02",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53800",
+"purchase_date": "2012-12-03",
+"amount": 22,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53778",
+"purchase_date": "2012-12-04",
+"amount": 27,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "53751",
+"purchase_date": "2012-12-05",
+"amount": 36,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53715",
+"purchase_date": "2012-12-06",
+"amount": 31,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "53684",
+"purchase_date": "2012-12-07",
+"amount": 56,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "53628",
+"purchase_date": "2012-12-09",
+"amount": 122,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53506",
+"purchase_date": "2012-12-09",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53466",
+"purchase_date": "2012-12-10",
+"amount": 13,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53453",
+"purchase_date": "2012-12-11",
+"amount": 18,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53435",
+"purchase_date": "2012-12-13",
+"amount": 33,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "53402",
+"purchase_date": "2012-12-14",
+"amount": 92,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53310",
+"purchase_date": "2012-12-16",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53270",
+"purchase_date": "2012-12-16",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "53266",
+"purchase_date": "2012-12-17",
+"amount": 3,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "53263",
+"purchase_date": "2012-12-17",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "52263",
+"purchase_date": "2012-12-17",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "52223",
+"purchase_date": "2012-12-17",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "52123",
+"purchase_date": "2012-12-18",
+"amount": 11,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "52112",
+"purchase_date": "2012-12-20",
+"amount": 4,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "52108",
+"purchase_date": "2012-12-20",
+"amount": 15,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "52093",
+"purchase_date": "2012-12-21",
+"amount": 100,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51993",
+"purchase_date": "2012-12-23",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51953",
+"purchase_date": "2012-12-24",
+"amount": 17,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51936",
+"purchase_date": "2012-12-25",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51934",
+"purchase_date": "2012-12-25",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51854",
+"purchase_date": "2012-12-27",
+"amount": 44,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "51810",
+"purchase_date": "2012-12-28",
+"amount": 87,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51723",
+"purchase_date": "2012-01-01",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51683",
+"purchase_date": "2012-01-01",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51678",
+"purchase_date": "2012-01-02",
+"amount": 1,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51677",
+"purchase_date": "2012-01-03",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51673",
+"purchase_date": "2012-01-05",
+"amount": 20,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "51653",
+"purchase_date": "2012-01-06",
+"amount": 44,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "51609",
+"purchase_date": "2012-01-06",
+"amount": 32,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51577",
+"purchase_date": "2012-01-08",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51537",
+"purchase_date": "2012-01-09",
+"amount": 32,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "51505",
+"purchase_date": "2012-01-10",
+"amount": 117,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51388",
+"purchase_date": "2012-01-10",
+"amount": 20,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51368",
+"purchase_date": "2012-01-12",
+"amount": 22,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "51346",
+"purchase_date": "2012-01-13",
+"amount": 71,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51275",
+"purchase_date": "2012-01-15",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51235",
+"purchase_date": "2012-01-15",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51233",
+"purchase_date": "2012-01-16",
+"amount": 42,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51191",
+"purchase_date": "2012-01-17",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "51187",
+"purchase_date": "2012-01-19",
+"amount": 29,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "51158",
+"purchase_date": "2012-01-19",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "50158",
+"purchase_date": "2012-01-19",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "50118",
+"purchase_date": "2012-01-19",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "50018",
+"purchase_date": "2012-01-20",
+"amount": 11,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "50007",
+"purchase_date": "2012-01-21",
+"amount": 84,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49923",
+"purchase_date": "2012-01-22",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49883",
+"purchase_date": "2012-01-23",
+"amount": 27,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49856",
+"purchase_date": "2012-01-24",
+"amount": 22,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49834",
+"purchase_date": "2012-01-26",
+"amount": 35,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49799",
+"purchase_date": "2012-01-26",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "49719",
+"purchase_date": "2012-01-27",
+"amount": 5,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49714",
+"purchase_date": "2012-01-29",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49674",
+"purchase_date": "2012-01-29",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49672",
+"purchase_date": "2012-02-01",
+"amount": 42,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49630",
+"purchase_date": "2012-02-02",
+"amount": 23,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49607",
+"purchase_date": "2012-02-04",
+"amount": 15,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "49592",
+"purchase_date": "2012-02-05",
+"amount": 85,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "49507",
+"purchase_date": "2013-02-07",
+"amount": 14,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49493",
+"purchase_date": "2013-02-07",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49453",
+"purchase_date": "2013-02-08",
+"amount": 42,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49411",
+"purchase_date": "2013-02-09",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49401",
+"purchase_date": "2013-02-11",
+"amount": 35,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "49366",
+"purchase_date": "2013-02-11",
+"amount": 71,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "49295",
+"purchase_date": "2013-02-12",
+"amount": 62,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49233",
+"purchase_date": "2013-02-14",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49193",
+"purchase_date": "2013-02-14",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49191",
+"purchase_date": "2013-02-15",
+"amount": 16,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49175",
+"purchase_date": "2013-02-16",
+"amount": 23,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "49152",
+"purchase_date": "2013-02-18",
+"amount": 33,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "49119",
+"purchase_date": "2013-02-19",
+"amount": 60,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49059",
+"purchase_date": "2013-02-21",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "49019",
+"purchase_date": "2013-02-21",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "48019",
+"purchase_date": "2013-02-21",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47979",
+"purchase_date": "2013-02-21",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47879",
+"purchase_date": "2013-02-22",
+"amount": 48,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "47831",
+"purchase_date": "2013-02-22",
+"amount": 63,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47768",
+"purchase_date": "2013-02-23",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47747",
+"purchase_date": "2013-02-25",
+"amount": 20,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "47727",
+"purchase_date": "2013-02-26",
+"amount": 78,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47649",
+"purchase_date": "2013-02-27",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47569",
+"purchase_date": "2013-02-28",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47529",
+"purchase_date": "2013-02-28",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47527",
+"purchase_date": "2013-02-29",
+"amount": 37,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47490",
+"purchase_date": "2013-03-01",
+"amount": 30,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47460",
+"purchase_date": "2013-03-03",
+"amount": 13,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "47447",
+"purchase_date": "2013-03-04",
+"amount": 57,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47390",
+"purchase_date": "2013-03-06",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47350",
+"purchase_date": "2013-03-07",
+"amount": 41,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "47309",
+"purchase_date": "2013-03-08",
+"amount": 9,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47300",
+"purchase_date": "2013-03-08",
+"amount": 5,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47295",
+"purchase_date": "2013-03-10",
+"amount": 45,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "47250",
+"purchase_date": "2013-03-11",
+"amount": 51,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "47199",
+"purchase_date": "2013-03-12",
+"amount": 102,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47097",
+"purchase_date": "2013-03-13",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47057",
+"purchase_date": "2013-03-13",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47056",
+"purchase_date": "2013-03-14",
+"amount": 22,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "47034",
+"purchase_date": "2013-03-15",
+"amount": 12,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "47022",
+"purchase_date": "2013-03-17",
+"amount": 46,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "46976",
+"purchase_date": "2013-03-18",
+"amount": 58,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "46918",
+"purchase_date": "2013-03-20",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "46878",
+"purchase_date": "2013-03-21",
+"amount": 11,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "46867",
+"purchase_date": "2013-03-22",
+"amount": 16,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "46851",
+"purchase_date": "2013-03-23",
+"amount": 74,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "46777",
+"purchase_date": "2013-03-23",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45777",
+"purchase_date": "2013-03-23",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45737",
+"purchase_date": "2013-03-23",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45637",
+"purchase_date": "2013-03-24",
+"amount": 38,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "45599",
+"purchase_date": "2013-03-25",
+"amount": 97,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45502",
+"purchase_date": "2013-03-27",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45462",
+"purchase_date": "2013-03-27",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45458",
+"purchase_date": "2013-03-28",
+"amount": 22,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45436",
+"purchase_date": "2013-03-28",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45356",
+"purchase_date": "2013-03-29",
+"amount": 9,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45347",
+"purchase_date": "2013-04-02",
+"amount": 1,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "45346",
+"purchase_date": "2013-04-03",
+"amount": 63,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45283",
+"purchase_date": "2013-04-05",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45243",
+"purchase_date": "2013-04-06",
+"amount": 5,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45238",
+"purchase_date": "2013-04-07",
+"amount": 14,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45224",
+"purchase_date": "2013-04-09",
+"amount": 40,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "45184",
+"purchase_date": "2013-04-09",
+"amount": 16,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "45168",
+"purchase_date": "2013-04-10",
+"amount": 16,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45152",
+"purchase_date": "2013-04-12",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "45112",
+"purchase_date": "2013-04-12",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "45107",
+"purchase_date": "2013-04-13",
+"amount": 45,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "45062",
+"purchase_date": "2013-04-13",
+"amount": 109,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "44953",
+"purchase_date": "2013-04-14",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "44950",
+"purchase_date": "2013-04-16",
+"amount": 43,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "44907",
+"purchase_date": "2013-04-17",
+"amount": 15,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "44892",
+"purchase_date": "2013-04-19",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "44852",
+"purchase_date": "2013-04-20",
+"amount": 21,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "44831",
+"purchase_date": "2013-04-21",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "44830",
+"purchase_date": "2013-04-23",
+"amount": 19,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "44811",
+"purchase_date": "2013-04-24",
+"amount": 48,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "44763",
+"purchase_date": "2013-04-24",
+"amount": 47,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "44716",
+"purchase_date": "2013-04-25",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43716",
+"purchase_date": "2013-04-25",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43676",
+"purchase_date": "2013-04-25",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43576",
+"purchase_date": "2013-04-26",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43536",
+"purchase_date": "2013-04-26",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "43533",
+"purchase_date": "2013-04-27",
+"amount": 2,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43531",
+"purchase_date": "2013-04-28",
+"amount": 29,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43502",
+"purchase_date": "2013-04-29",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "43422",
+"purchase_date": "2013-05-01",
+"amount": 22,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "43400",
+"purchase_date": "2013-05-02",
+"amount": 76,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43324",
+"purchase_date": "2013-05-04",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "43284",
+"purchase_date": "2013-05-05",
+"amount": 4,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43280",
+"purchase_date": "2013-05-06",
+"amount": 20,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "43260",
+"purchase_date": "2013-05-08",
+"amount": 44,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "43216",
+"purchase_date": "2013-05-09",
+"amount": 72,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "43144",
+"purchase_date": "2013-05-10",
+"amount": 21,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43123",
+"purchase_date": "2013-05-11",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43083",
+"purchase_date": "2013-05-11",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "43078",
+"purchase_date": "2013-05-12",
+"amount": 30,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "43048",
+"purchase_date": "2013-05-13",
+"amount": 11,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "43037",
+"purchase_date": "2013-05-14",
+"amount": 131,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "42906",
+"purchase_date": "2013-05-15",
+"amount": 14,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "42892",
+"purchase_date": "2013-05-16",
+"amount": 39,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42853",
+"purchase_date": "2013-05-18",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "42813",
+"purchase_date": "2013-05-19",
+"amount": 33,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42780",
+"purchase_date": "2013-05-20",
+"amount": 19,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "42761",
+"purchase_date": "2013-05-22",
+"amount": 44,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "42717",
+"purchase_date": "2013-05-23",
+"amount": 81,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "42636",
+"purchase_date": "2013-05-25",
+"amount": 51,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42585",
+"purchase_date": "2013-05-25",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42545",
+"purchase_date": "2013-05-25",
+"amount": 2,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "42543",
+"purchase_date": "2013-05-26",
+"amount": 48,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42495",
+"purchase_date": "2013-05-27",
+"amount": 8,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "42487",
+"purchase_date": "2013-05-27",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41487",
+"purchase_date": "2013-05-27",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41447",
+"purchase_date": "2013-05-27",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "41347",
+"purchase_date": "2013-05-29",
+"amount": 44,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "41303",
+"purchase_date": "2013-06-01",
+"amount": 53,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41250",
+"purchase_date": "2013-06-01",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41170",
+"purchase_date": "2013-06-03",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "41130",
+"purchase_date": "2013-06-04",
+"amount": 12,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41118",
+"purchase_date": "2013-06-05",
+"amount": 1,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "41117",
+"purchase_date": "2013-06-07",
+"amount": 31,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "41086",
+"purchase_date": "2013-06-08",
+"amount": 58,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "41028",
+"purchase_date": "2013-06-10",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40988",
+"purchase_date": "2013-06-10",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40984",
+"purchase_date": "2013-06-11",
+"amount": 49,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "40935",
+"purchase_date": "2013-06-11",
+"amount": 6,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40929",
+"purchase_date": "2013-06-12",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40926",
+"purchase_date": "2013-06-14",
+"amount": 10,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "40916",
+"purchase_date": "2013-06-15",
+"amount": 50,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "40866",
+"purchase_date": "2013-06-15",
+"amount": 119,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40747",
+"purchase_date": "2013-06-17",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40707",
+"purchase_date": "2013-06-18",
+"amount": 41,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40666",
+"purchase_date": "2013-06-19",
+"amount": 4,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40662",
+"purchase_date": "2013-06-21",
+"amount": 6,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "40656",
+"purchase_date": "2013-06-22",
+"amount": 35,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40621",
+"purchase_date": "2013-06-24",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40581",
+"purchase_date": "2013-06-24",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40580",
+"purchase_date": "2013-06-25",
+"amount": 22,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "40558",
+"purchase_date": "2013-06-26",
+"amount": 27,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40531",
+"purchase_date": "2013-06-26",
+"amount": 12,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "40519",
+"purchase_date": "2013-06-28",
+"amount": 10,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "40509",
+"purchase_date": "2013-06-29",
+"amount": 15,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "40494",
+"purchase_date": "2013-06-29",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39494",
+"purchase_date": "2013-06-29",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39454",
+"purchase_date": "2013-06-29",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39354",
+"purchase_date": "2013-07-02",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39314",
+"purchase_date": "2013-07-02",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "39234",
+"purchase_date": "2013-07-03",
+"amount": 38,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39196",
+"purchase_date": "2013-07-04",
+"amount": 29,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "39167",
+"purchase_date": "2013-07-06",
+"amount": 1,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "39166",
+"purchase_date": "2013-07-07",
+"amount": 86,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39080",
+"purchase_date": "2013-07-09",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39040",
+"purchase_date": "2013-07-09",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "39036",
+"purchase_date": "2013-07-10",
+"amount": 35,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "39001",
+"purchase_date": "2013-07-11",
+"amount": 26,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "38975",
+"purchase_date": "2013-07-12",
+"amount": 1,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38974",
+"purchase_date": "2013-07-13",
+"amount": 18,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "38956",
+"purchase_date": "2013-07-14",
+"amount": 8,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "38948",
+"purchase_date": "2013-07-16",
+"amount": 117,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38831",
+"purchase_date": "2013-07-16",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38791",
+"purchase_date": "2013-07-17",
+"amount": 29,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38762",
+"purchase_date": "2013-07-18",
+"amount": 14,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38748",
+"purchase_date": "2013-07-20",
+"amount": 20,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "38728",
+"purchase_date": "2013-07-21",
+"amount": 24,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38704",
+"purchase_date": "2013-07-23",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38664",
+"purchase_date": "2013-07-23",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38660",
+"purchase_date": "2013-07-24",
+"amount": 14,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38646",
+"purchase_date": "2013-07-25",
+"amount": 21,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38625",
+"purchase_date": "2013-07-27",
+"amount": 41,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "38584",
+"purchase_date": "2013-07-27",
+"amount": 1,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "38583",
+"purchase_date": "2013-07-28",
+"amount": 95,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38488",
+"purchase_date": "2013-08-01",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "38448",
+"purchase_date": "2013-08-02",
+"amount": 8,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "38440",
+"purchase_date": "2013-08-02",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37440",
+"purchase_date": "2013-08-02",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37400",
+"purchase_date": "2013-08-02",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37300",
+"purchase_date": "2013-08-03",
+"amount": 12,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37288",
+"purchase_date": "2013-08-03",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "37208",
+"purchase_date": "2013-08-05",
+"amount": 37,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "37171",
+"purchase_date": "2013-08-06",
+"amount": 45,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37126",
+"purchase_date": "2013-08-08",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37086",
+"purchase_date": "2013-08-08",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "37081",
+"purchase_date": "2013-08-09",
+"amount": 27,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "37054",
+"purchase_date": "2013-08-10",
+"amount": 13,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "37041",
+"purchase_date": "2013-08-12",
+"amount": 9,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "37032",
+"purchase_date": "2013-08-13",
+"amount": 55,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "36977",
+"purchase_date": "2013-08-13",
+"amount": 20,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36957",
+"purchase_date": "2013-08-15",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36917",
+"purchase_date": "2013-08-16",
+"amount": 29,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "36888",
+"purchase_date": "2013-08-17",
+"amount": 71,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36817",
+"purchase_date": "2013-08-17",
+"amount": 24,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36793",
+"purchase_date": "2013-08-19",
+"amount": 48,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "36745",
+"purchase_date": "2013-08-20",
+"amount": 44,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36701",
+"purchase_date": "2013-08-22",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36661",
+"purchase_date": "2013-08-22",
+"amount": 5,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36656",
+"purchase_date": "2013-08-23",
+"amount": 9,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36647",
+"purchase_date": "2013-08-24",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36644",
+"purchase_date": "2013-08-26",
+"amount": 39,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "36605",
+"purchase_date": "2013-08-27",
+"amount": 60,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "36545",
+"purchase_date": "2013-08-28",
+"amount": 120,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36425",
+"purchase_date": "2013-08-29",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36385",
+"purchase_date": "2013-09-01",
+"amount": 30,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36355",
+"purchase_date": "2013-09-02",
+"amount": 12,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "36343",
+"purchase_date": "2013-09-04",
+"amount": 38,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "36305",
+"purchase_date": "2013-09-04",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "35305",
+"purchase_date": "2013-09-04",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "35265",
+"purchase_date": "2013-09-04",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "35165",
+"purchase_date": "2013-09-04",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "35085",
+"purchase_date": "2013-09-05",
+"amount": 100,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34985",
+"purchase_date": "2013-09-07",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34945",
+"purchase_date": "2013-09-07",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34941",
+"purchase_date": "2013-09-08",
+"amount": 45,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34896",
+"purchase_date": "2013-09-09",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34889",
+"purchase_date": "2013-09-11",
+"amount": 34,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "34855",
+"purchase_date": "2013-09-12",
+"amount": 37,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "34818",
+"purchase_date": "2013-09-14",
+"amount": 30,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34788",
+"purchase_date": "2013-09-14",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34748",
+"purchase_date": "2013-09-15",
+"amount": 18,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34730",
+"purchase_date": "2013-09-16",
+"amount": 30,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34700",
+"purchase_date": "2013-09-18",
+"amount": 35,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "34665",
+"purchase_date": "2013-09-18",
+"amount": 150,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "34515",
+"purchase_date": "2013-09-19",
+"amount": 67,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34448",
+"purchase_date": "2013-09-21",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34408",
+"purchase_date": "2013-09-21",
+"amount": 3,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34405",
+"purchase_date": "2013-09-22",
+"amount": 11,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34394",
+"purchase_date": "2013-09-23",
+"amount": 8,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34386",
+"purchase_date": "2013-09-25",
+"amount": 24,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "34362",
+"purchase_date": "2013-09-26",
+"amount": 96,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34266",
+"purchase_date": "2013-09-28",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34226",
+"purchase_date": "2013-09-29",
+"amount": 37,
+"status": "pending",
+"description": "Wendy's"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "34189",
+"purchase_date": "2013-09-29",
+"amount": 136,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "34053",
+"purchase_date": "2013-10-01",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "34051",
+"purchase_date": "2013-10-03",
+"amount": 23,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "34028",
+"purchase_date": "2013-10-04",
+"amount": 99,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "33929",
+"purchase_date": "2013-10-05",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "33849",
+"purchase_date": "2013-10-06",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "33809",
+"purchase_date": "2013-10-06",
+"amount": 1,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "33808",
+"purchase_date": "2013-10-06",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32808",
+"purchase_date": "2013-10-06",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32768",
+"purchase_date": "2013-10-06",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32668",
+"purchase_date": "2013-10-07",
+"amount": 38,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32630",
+"purchase_date": "2013-10-08",
+"amount": 20,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32610",
+"purchase_date": "2013-10-10",
+"amount": 47,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "32563",
+"purchase_date": "2013-10-11",
+"amount": 12,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32551",
+"purchase_date": "2013-10-13",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32511",
+"purchase_date": "2013-10-14",
+"amount": 13,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "5747500fcb410085213e72d0",
+"medium": "32498",
+"purchase_date": "2013-10-15",
+"amount": 33,
+"status": "pending",
+"description": "Bar"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32465",
+"purchase_date": "2013-10-15",
+"amount": 2,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32463",
+"purchase_date": "2013-10-17",
+"amount": 2,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "32461",
+"purchase_date": "2013-10-18",
+"amount": 22,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "32439",
+"purchase_date": "2013-10-19",
+"amount": 64,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32375",
+"purchase_date": "2013-10-20",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32335",
+"purchase_date": "2013-10-20",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32331",
+"purchase_date": "2013-10-21",
+"amount": 1,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32330",
+"purchase_date": "2013-10-22",
+"amount": 10,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32320",
+"purchase_date": "2013-10-24",
+"amount": 5,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "32315",
+"purchase_date": "2013-10-25",
+"amount": 95,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32220",
+"purchase_date": "2013-10-27",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32180",
+"purchase_date": "2013-10-28",
+"amount": 31,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "32149",
+"purchase_date": "2013-10-29",
+"amount": 30,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57475001cb410085213e72cf",
+"medium": "32119",
+"purchase_date": "2013-11-01",
+"amount": 28,
+"status": "pending",
+"description": "Tysons Mall"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "32091",
+"purchase_date": "2013-11-02",
+"amount": 30,
+"status": "pending",
+"description": "Del Taco"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "32061",
+"purchase_date": "2013-11-03",
+"amount": 73,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "31988",
+"purchase_date": "2013-11-05",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "31948",
+"purchase_date": "2013-11-05",
+"amount": 4,
+"status": "pending",
+"description": "iTunes"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "31944",
+"purchase_date": "2013-11-06",
+"amount": 32,
+"status": "pending",
+"description": "Coldstone"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "31912",
+"purchase_date": "2013-11-06",
+"amount": 80,
+"status": "pending",
+"description": "Water bill"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "31832",
+"purchase_date": "2013-11-07",
+"amount": 3,
+"status": "pending",
+"description": "Amazon"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "31829",
+"purchase_date": "2013-11-08",
+"amount": 1000,
+"status": "pending",
+"description": "Rent"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "30829",
+"purchase_date": "2013-11-08",
+"amount": 40,
+"status": "pending",
+"description": "Edison"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "30789",
+"purchase_date": "2013-11-08",
+"amount": 100,
+"status": "pending",
+"description": "Geico"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "30689",
+"purchase_date": "2013-11-09",
+"amount": 22,
+"status": "pending",
+"description": "Taco Bell"
+}
+
+{
+"merchant_id": "57474bdccb410085213e72b2",
+"balance": "30667",
+"purchase_date": "2013-11-10",
+"amount": 19,
+"status": "pending",
+"description": "Walmart"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "30648",
+"purchase_date": "2013-11-12",
+"amount": 40,
+"status": "pending",
+"description": "Costco gas"
+}
+
+{
+"merchant_id": "57474dcccb410085213e72bc",
+"medium": "30608",
+"purchase_date": "2013-11-13",
+"amount": 42,
+"status": "pending",
+"description": "Burger King"
+}
+
+{
+"merchant_id": "57474d75cb410085213e72b9",
+"medium": "30566",
+"purchase_date": "2013-11-14",
+"amount": 7,
+"status": "pending",
+"description": "Amazon"
+}
+

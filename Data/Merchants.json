@@ -1,0 +1,96 @@
+{
+  "name": "Walmart",
+  "category": "Groceries",
+  "address": {
+    "street_number": "1",
+    "street_name": "Blah Drive",
+    "city": "McLean",
+    "state": "VA",
+    "zip": "00000"
+  },
+  "geocode": {
+    "lat": 0,
+    "lng": 0
+  }
+}
+
+//NORMAL
+Walmart : 57474bdccb410085213e72b2
+Rent: 57474d10cb410085213e72b5
+Edison: 57474d32cb410085213e72b6
+Geico: 57474d47cb410085213e72b7
+Water bill: 57474d5ccb410085213e72b8
+Costco gas: 57474d75cb410085213e72b9
+Coldstone: 57474d97cb410085213e72ba
+Amazon: 57474dabcb410085213e72bb
+Del Taco: 57474dcccb410085213e72bc
+McDonalds: 57474f1acb410085213e72be
+Burger King: 57474f2acb410085213e72bf
+Taco Bell: 57474f41cb410085213e72c0
+Del Taco: 57474f51cb410085213e72c1
+Coldstone: 57474f75cb410085213e72c2
+Wendy's: 57474ff0cb410085213e72ce
+Tysons Mall:57475001cb410085213e72cf
+Bar:5747500fcb410085213e72d0
+iTunes: 57475018cb410085213e72d1
+
+
+//ALZHEIMERS:
+Kay Jewelers: 57475026cb410085213e72d2
+Gas station: 57475032cb410085213e72d3
+Art store: 5747503ecb410085213e72d4
+Club: 5747504fcb410085213e72d5
+BMW: 57475064cb410085213e72d6
+Tesla: 5747508fcb410085213e72d7
+Bird: 574750a5cb410085213e72d8
+Dog: 574750afcb410085213e72d9
+Dog food: 574750bdcb410085213e72da
+Cat food: 574750c5cb410085213e72db
+Xbox: 574750d0cb410085213e72dc
+Target: 574750d7cb410085213e72dd
+Concert: 574750dfcb410085213e72de
+Redskins: 574750e7cb410085213e72df
+Nationals: 574750f1cb410085213e72e0
+Bosley: 574750facb410085213e72e1
+Diamond Jewelers: 57475105cb410085213e72e2
+Guitar: 57475111cb410085213e72e3
+Scam: 57475118cb410085213e72e4
+iPhone: 5747511fcb410085213e72e5
+Credit card:57475128cb410085213e72e6
+Chocolate: 57475131cb410085213e72e7
+Phone: 57475139cb410085213e72e8
+Fish: 57475145cb410085213e72e9
+Blender: 57475150cb410085213e72ea
+Rat: 57475158cb410085213e72eb
+PS4: 57475163cb410085213e72ec
+MLB: 5747516ccb410085213e72ed
+Front row seats: 57475177cb410085213e72ee
+Nats: 57475183cb410085213e72ef
+Home App: 5747518ccb410085213e72f0
+Dance: 57475193cb410085213e72f1
+
+
+
+
+
+{
+  "message": "Created merchant",
+  "code": 201,
+  "objectCreated": {
+    "name": "Walmart",
+    "category": "Groceries",
+    "address": {
+      "street_number": "1",
+      "street_name": "Blah Drive",
+      "city": "McLean",
+      "state": "VA",
+      "zip": "00000"
+    },
+    "geocode": {
+      "lat": 0,
+      "lng": 0
+    },
+    "creation_date": "2016-05-26",
+    "_id": "57474bdccb410085213e72b2"
+  }
+}
