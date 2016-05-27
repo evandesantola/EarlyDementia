@@ -1,19 +1,38 @@
 package rl2745.earlydementiadetection;
 
+import android.Manifest;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Location;
+import android.location.LocationListener;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.telephony.SmsManager;
+import android.util.Log;
 import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationRequest;
+import com.google.android.gms.location.LocationServices;
+
 
 /**
  * Created by Richard Lopez on 5/26/2016.
  */
-public class AnalyzingActivity extends AppCompatActivity {
+public class AnalyzingActivity extends AppCompatActivity implements GoogleApiClient.ConnectionCallbacks,
+        GoogleApiClient.OnConnectionFailedListener, com.google.android.gms.location.LocationListener {
+
+
+    private static final String TAG = "AnalyzingActivity";
+    private GoogleApiClient mGoogleApiClient;
+    private Location mLastLocation;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +45,12 @@ public class AnalyzingActivity extends AppCompatActivity {
         textView.setTextSize(20);
         textView.setText(standardMessage);
 
+        mGoogleApiClient = new GoogleApiClient.Builder(this)
+                .addConnectionCallbacks(this)
+                .addOnConnectionFailedListener(this)
+                .addApi(LocationServices.API)
+                .build();
+
         RelativeLayout layout = (RelativeLayout) findViewById(R.id.standardMessage);
         layout.addView(textView);
         backEndProcesses();
@@ -33,13 +58,13 @@ public class AnalyzingActivity extends AppCompatActivity {
 
     }
 
-    public void backEndProcesses(){
+    public void backEndProcesses() {
         //connect to backend here
 
     }
 
     /**Sends SMS message to doctor*/
-    public void sendSMS(){
+    public void sendSMS() {
         //http://www.mkyong.com/android/how-to-send-sms-message-in-android/
 
         Intent intent = getIntent();
@@ -66,6 +91,63 @@ public class AnalyzingActivity extends AppCompatActivity {
 
     }
 
+    @Override
+    public void onConnected(@Nullable Bundle bundle) {
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            mLastLocation = LocationServices.FusedLocationApi.getLastLocation(
+                    mGoogleApiClient);
+        }
+        if (mLastLocation != null) {
+            Log.d(TAG, mLastLocation.getLatitude() + " In OnConnected");
+            Log.d(TAG, mLastLocation.getLongitude() + "In OnConnected");
+        } else {
+            Log.d(TAG, "Location was null in onConnected");
+            createLocationRequest();
+        }
+    }
+
+    @Override
+    protected void onStart(){
+        mGoogleApiClient.connect();
+        super.onStart();
+    }
+
+    @Override
+    protected void onStop() {
+        mGoogleApiClient.disconnect();
+        super.onStop();
+    }
+
+
+
+    protected void createLocationRequest() {
+        LocationRequest mLocationRequest = new LocationRequest();
+        mLocationRequest.setInterval(10000);
+        mLocationRequest.setFastestInterval(5000);
+        mLocationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
+
+        LocationServices.FusedLocationApi.requestLocationUpdates(
+                mGoogleApiClient, mLocationRequest, this);
+    }
+
+    @Override
+    public void onConnectionSuspended(int i) {
+        Log.d(TAG, "Connection suspended");
+    }
+
+    @Override
+    public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
+        Log.d(TAG, "Connection failed");
+    }
+
+    @Override
+    public void onLocationChanged(Location location) {
+        mLastLocation = location;
+        if (mLastLocation != null) {
+            Log.d(TAG, mLastLocation.getLatitude() + "");
+            Log.d(TAG, mLastLocation.getLongitude() + "");
+        }
+    }
     /**
      * Called when the Back-End spots an anomaly
      */
