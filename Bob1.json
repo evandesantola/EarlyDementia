@@ -1,0 +1,8171 @@
+{
+"id":1,
+"content":[
+{
+"balance": "100000",
+"purchase_date": "2011-01-02",
+"amount": "8",
+"description": 1
+}
+],"id":2,
+"content":[
+{
+"balance": "99992",
+"purchase_date": "2011-01-02",
+"amount": "1000",
+"description": 13
+}
+],"id":3,
+"content":[
+{
+"balance": "98992",
+"purchase_date": "2011-01-02",
+"amount": "40",
+"description": 14
+}
+],"id":4,
+"content":[
+{
+"balance": "98952",
+"purchase_date": "2011-01-02",
+"amount": "100",
+"description": 15
+}
+],
+"id":5,
+"content":[
+{
+"balance": "98852",
+"purchase_date": "2011-01-02",
+"amount": "80",
+"description": 16
+}
+],"id":6,
+"content":[
+{
+"balance": "98772",
+"purchase_date": "2011-01-04",
+"amount": "40",
+"description": 10
+}
+],"id":7,
+"content":[
+{
+"balance": "98732",
+"purchase_date": "2011-01-05",
+"amount": "50",
+"description": 6
+}
+],"id":8,
+"content":[
+{
+"balance": "98682",
+"purchase_date": "2011-01-06",
+"amount": "9",
+"description": 11
+}
+],"id":9,
+"content":[
+{
+"balance": "98673",
+"purchase_date": "2011-01-08",
+"amount": "31",
+"description": 5
+}
+],"id":10,
+"content":[
+{
+"balance": "98642",
+"purchase_date": "2011-01-09",
+"amount": "45",
+"description": 1
+}
+],"id":11,
+"content":[
+{
+"balance": "98597",
+"purchase_date": "2011-01-11",
+"amount": "40",
+"description": 10
+}
+],"id":12,
+"content":[
+{
+"balance": "98557",
+"purchase_date": "2011-01-11",
+"amount": "4",
+"description": 12
+}
+],"id":13,
+"content":[
+{
+"balance": "98553",
+"purchase_date": "2011-01-12",
+"amount": "24",
+"description": 7
+}
+],"id":14,
+"content":[
+{
+"balance": "98529",
+"purchase_date": "2011-01-12",
+"amount": "1",
+"description": 9
+}
+],"id":15,
+"content":[
+{
+"balance": "98528",
+"purchase_date": "2011-01-13",
+"amount": "6",
+"description": 11
+}
+],"id":16,
+"content":[
+{
+"balance": "98522",
+"purchase_date": "2011-01-15",
+"amount": "43",
+"description": 5
+}
+],"id":17,
+"content":[
+{
+"balance": "98479",
+"purchase_date": "2011-01-16",
+"amount": "88",
+"description": 1
+}
+],"id":18,
+"content":[
+{
+"balance": "98391",
+"purchase_date": "2011-01-16",
+"amount": "54",
+"description": 8
+}
+],"id":19,
+"content":[
+{
+"balance": "98337",
+"purchase_date": "2011-01-18",
+"amount": "40",
+"description": 10
+}
+],"id":20,
+"content":[
+{
+"balance": "98297",
+"purchase_date": "2011-01-19",
+"amount": "28",
+"description": 7
+}
+],"id":21,
+"content":[
+{
+"balance": "98269",
+"purchase_date": "2011-01-20",
+"amount": "11",
+"description": 11
+}
+],"id":22,
+"content":[
+{
+"balance": "98258",
+"purchase_date": "2011-01-22",
+"amount": "13",
+"description": 6
+}
+],"id":23,
+"content":[
+{
+"balance": "98245",
+"purchase_date": "2011-01-23",
+"amount": "70",
+"description": 1
+}
+],"id":24,
+"content":[
+{
+"balance": "98175",
+"purchase_date": "2011-01-25",
+"amount": "40",
+"description": 10
+}
+],"id":25,
+"content":[
+{
+"balance": "98135",
+"purchase_date": "2011-01-25",
+"amount": "5",
+"description": 12
+}
+],"id":26,
+"content":[
+{
+"balance": "98130",
+"purchase_date": "2011-01-26",
+"amount": "8",
+"description": 3
+}
+],"id":27,
+"content":[
+{
+"balance": "98122",
+"purchase_date": "2011-01-27",
+"amount": "34",
+"description": 8
+}
+],"id":28,
+"content":[
+{
+"balance": "98088",
+"purchase_date": "2011-01-27",
+"amount": "10",
+"description": 11
+}
+],"id":29,
+"content":[
+{
+"balance": "98078",
+"purchase_date": "2011-01-29",
+"amount": "29",
+"description": 4
+}
+],"id":30,
+"content":[
+{
+"balance": "98049",
+"purchase_date": "2011-02-01",
+"amount": "36",
+"description": 1
+}
+],"id":31,
+"content":[
+{
+"balance": "98013",
+"purchase_date": "2011-02-03",
+"amount": "40",
+"description": 10
+}
+],"id":32,
+"content":[
+{
+"balance": "97973",
+"purchase_date": "2011-02-03",
+"amount": "80",
+"description": 16
+}
+],"id":33,
+"content":[
+{
+"balance": "97893",
+"purchase_date": "2011-02-04",
+"amount": "48",
+"description": 4
+}
+],"id":34,
+"content":[
+{
+"balance": "97845",
+"purchase_date": "2011-02-04",
+"amount": "1000",
+"description": 13
+}
+],"id":35,
+"content":[
+{
+"balance": "96845",
+"purchase_date": "2011-02-04",
+"amount": "40",
+"description": 14
+}
+],"id":36,
+"content":[
+{
+"balance": "96805",
+"purchase_date": "2011-02-04",
+"amount": "100",
+"description": 15
+}
+],
+"id":37,
+"content":[
+{
+"balance": "96705",
+"purchase_date": "2011-02-05",
+"amount": "3",
+"description": 11
+}
+],"id":38,
+"content":[
+{
+"balance": "96702",
+"purchase_date": "2011-02-07",
+"amount": "18",
+"description": 3
+}
+],"id":39,
+"content":[
+{
+"balance": "96684",
+"purchase_date": "2011-02-08",
+"amount": "34",
+"description": 1
+}
+],"id":40,
+"content":[
+{
+"balance": "96650",
+"purchase_date": "2011-02-10",
+"amount": "40",
+"description": 10
+}
+],"id":41,
+"content":[
+{
+"balance": "96610",
+"purchase_date": "2011-02-10",
+"amount": "5",
+"description": 12
+}
+],"id":42,
+"content":[
+{
+"balance": "96605",
+"purchase_date": "2011-02-11",
+"amount": "50",
+"description": 7
+}
+],"id":43,
+"content":[
+{
+"balance": "96555",
+"purchase_date": "2011-02-12",
+"amount": "22",
+"description": 11
+}
+],"id":44,
+"content":[
+{
+"balance": "96533",
+"purchase_date": "2011-02-13",
+"amount": "8",
+"description": 9
+}
+],"id":45,
+"content":[
+{
+"balance": "96525",
+"purchase_date": "2011-02-14",
+"amount": "23",
+"description": 6
+}
+],"id":46,
+"content":[
+{
+"balance": "96502",
+"purchase_date": "2011-02-15",
+"amount": "37",
+"description": 1
+}
+],"id":47,
+"content":[
+{
+"balance": "96465",
+"purchase_date": "2011-02-17",
+"amount": "36",
+"description": 8
+}
+],"id":48,
+"content":[
+{
+"balance": "96429",
+"purchase_date": "2011-02-17",
+"amount": "40",
+"description": 10
+}
+],"id":49,
+"content":[
+{
+"balance": "96389",
+"purchase_date": "2011-02-18",
+"amount": "46",
+"description": 6
+}
+],"id":50,
+"content":[
+{
+"balance": "96343",
+"purchase_date": "2011-02-19",
+"amount": "2",
+"description": 11
+}
+],"id":51,
+"content":[
+{
+"balance": "96341",
+"purchase_date": "2011-02-21",
+"amount": "45",
+"description": 5
+}
+],"id":52,
+"content":[
+{
+"balance": "96296",
+"purchase_date": "2011-02-22",
+"amount": "2",
+"description": 1
+}
+],"id":53,
+"content":[
+{
+"balance": "96294",
+"purchase_date": "2011-02-24",
+"amount": "40",
+"description": 10
+}
+],"id":54,
+"content":[
+{
+"balance": "96254",
+"purchase_date": "2011-02-24",
+"amount": "4",
+"description": 12
+}
+],"id":55,
+"content":[
+{
+"balance": "96250",
+"purchase_date": "2011-02-25",
+"amount": "9",
+"description": 7
+}
+],"id":56,
+"content":[
+{
+"balance": "96241",
+"purchase_date": "2011-02-26",
+"amount": "29",
+"description": 11
+}
+],"id":57,
+"content":[
+{
+"balance": "96212",
+"purchase_date": "2011-02-28",
+"amount": "41",
+"description": 7
+}
+],"id":58,
+"content":[
+{
+"balance": "96171",
+"purchase_date": "2011-02-28",
+"amount": "147",
+"description": 8
+}
+],"id":59,
+"content":[
+{
+"balance": "96024",
+"purchase_date": "2011-02-29",
+"amount": "31",
+"description": 1
+}
+],"id":60,
+"content":[
+{
+"balance": "95993",
+"purchase_date": "2011-03-02",
+"amount": "40",
+"description": 10
+}
+],"id":61,
+"content":[
+{
+"balance": "95953",
+"purchase_date": "2011-03-03",
+"amount": "4",
+"description": 5
+}
+],"id":62,
+"content":[
+{
+"balance": "95949",
+"purchase_date": "2011-03-04",
+"amount": "17",
+"description": 11
+}
+],"id":63,
+"content":[
+{
+"balance": "95932",
+"purchase_date": "2011-03-04",
+"amount": "80",
+"description": 16
+}
+],"id":64,
+"content":[
+{
+"balance": "95852",
+"purchase_date": "2011-03-06",
+"amount": "50",
+"description": 7
+}
+],"id":65,
+"content":[
+{
+"balance": "95802",
+"purchase_date": "2011-03-06",
+"amount": "1000",
+"description": 13
+}
+],"id":66,
+"content":[
+{
+"balance": "94802",
+"purchase_date": "2011-03-06",
+"amount": "40",
+"description": 14
+}
+],"id":67,
+"content":[
+{
+"balance": "94762",
+"purchase_date": "2011-03-06",
+"amount": "100",
+"description": 15
+}
+],
+"id":68,
+"content":[
+{
+"balance": "94662",
+"purchase_date": "2011-03-07",
+"amount": "2",
+"description": 1
+}
+],"id":69,
+"content":[
+{
+"balance": "94660",
+"purchase_date": "2011-03-09",
+"amount": "40",
+"description": 10
+}
+],"id":70,
+"content":[
+{
+"balance": "94620",
+"purchase_date": "2011-03-09",
+"amount": "4",
+"description": 12
+}
+],"id":71,
+"content":[
+{
+"balance": "94616",
+"purchase_date": "2011-03-10",
+"amount": "28",
+"description": 6
+}
+],"id":72,
+"content":[
+{
+"balance": "94588",
+"purchase_date": "2011-03-11",
+"amount": "19",
+"description": 11
+}
+],"id":73,
+"content":[
+{
+"balance": "94569",
+"purchase_date": "2011-03-13",
+"amount": "34",
+"description": 6
+}
+],"id":74,
+"content":[
+{
+"balance": "94535",
+"purchase_date": "2011-03-14",
+"amount": "82",
+"description": 1
+}
+],"id":75,
+"content":[
+{
+"balance": "94453",
+"purchase_date": "2011-03-14",
+"amount": "36",
+"description": 9
+}
+],"id":76,
+"content":[
+{
+"balance": "94417",
+"purchase_date": "2011-03-16",
+"amount": "40",
+"description": 10
+}
+],"id":77,
+"content":[
+{
+"balance": "94377",
+"purchase_date": "2011-03-17",
+"amount": "14",
+"description": 3
+}
+],"id":78,
+"content":[
+{
+"balance": "94363",
+"purchase_date": "2011-03-18",
+"amount": "65",
+"description": 8
+}
+],"id":79,
+"content":[
+{
+"balance": "94298",
+"purchase_date": "2011-03-18",
+"amount": "24",
+"description": 11
+}
+],"id":80,
+"content":[
+{
+"balance": "94274",
+"purchase_date": "2011-03-20",
+"amount": "37",
+"description": 3
+}
+],"id":81,
+"content":[
+{
+"balance": "94237",
+"purchase_date": "2011-03-21",
+"amount": "70",
+"description": 1
+}
+],"id":82,
+"content":[
+{
+"balance": "94167",
+"purchase_date": "2011-03-23",
+"amount": "40",
+"description": 10
+}
+],"id":83,
+"content":[
+{
+"balance": "94127",
+"purchase_date": "2011-03-23",
+"amount": "1",
+"description": 12
+}
+],"id":84,
+"content":[
+{
+"balance": "94126",
+"purchase_date": "2011-03-24",
+"amount": "45",
+"description": 7
+}
+],"id":85,
+"content":[
+{
+"balance": "94081",
+"purchase_date": "2011-03-25",
+"amount": "2",
+"description": 11
+}
+],"id":86,
+"content":[
+{
+"balance": "94079",
+"purchase_date": "2011-03-27",
+"amount": "18",
+"description": 3
+}
+],"id":87,
+"content":[
+{
+"balance": "94061",
+"purchase_date": "2011-03-28",
+"amount": "6",
+"description": 1
+}
+],"id":88,
+"content":[
+{
+"balance": "94055",
+"purchase_date": "2011-03-29",
+"amount": "105",
+"description": 8
+}
+],"id":89,
+"content":[
+{
+"balance": "93950",
+"purchase_date": "2011-04-01",
+"amount": "40",
+"description": 10
+}
+],"id":90,
+"content":[
+{
+"balance": "93910",
+"purchase_date": "2011-04-02",
+"amount": "2",
+"description": 6
+}
+],"id":91,
+"content":[
+{
+"balance": "93908",
+"purchase_date": "2011-04-03",
+"amount": "19",
+"description": 11
+}
+],"id":92,
+"content":[
+{
+"balance": "93889",
+"purchase_date": "2011-04-05",
+"amount": "24",
+"description": 3
+}
+],"id":93,
+"content":[
+{
+"balance": "93865",
+"purchase_date": "2011-04-05",
+"amount": "80",
+"description": 16
+}
+],"id":94,
+"content":[
+{
+"balance": "93785",
+"purchase_date": "2011-04-06",
+"amount": "83",
+"description": 1
+}
+],"id":95,
+"content":[
+{
+"balance": "93702",
+"purchase_date": "2011-04-08",
+"amount": "40",
+"description": 10
+}
+],"id":96,
+"content":[
+{
+"balance": "93662",
+"purchase_date": "2011-04-08",
+"amount": "3",
+"description": 12
+}
+],"id":97,
+"content":[
+{
+"balance": "93659",
+"purchase_date": "2011-04-08",
+"amount": "1000",
+"description": 13
+}
+],"id":98,
+"content":[
+{
+"balance": "92659",
+"purchase_date": "2011-04-08",
+"amount": "40",
+"description": 14
+}
+],"id":99,
+"content":[
+{
+"balance": "92619",
+"purchase_date": "2011-04-08",
+"amount": "100",
+"description": 15
+}
+],
+"id":100,
+"content":[
+{
+"balance": "92519",
+"purchase_date": "2011-04-09",
+"amount": "17",
+"description": 4
+}
+],"id":101,
+"content":[
+{
+"balance": "92502",
+"purchase_date": "2011-04-10",
+"amount": "28",
+"description": 11
+}
+],"id":102,
+"content":[
+{
+"balance": "92474",
+"purchase_date": "2011-04-12",
+"amount": "39",
+"description": 7
+}
+],"id":103,
+"content":[
+{
+"balance": "92435",
+"purchase_date": "2011-04-13",
+"amount": "2",
+"description": 1
+}
+],"id":104,
+"content":[
+{
+"balance": "92433",
+"purchase_date": "2011-04-15",
+"amount": "18",
+"description": 9
+}
+],"id":105,
+"content":[
+{
+"balance": "92415",
+"purchase_date": "2011-04-15",
+"amount": "40",
+"description": 10
+}
+],"id":106,
+"content":[
+{
+"balance": "92375",
+"purchase_date": "2011-04-16",
+"amount": "22",
+"description": 6
+}
+],"id":107,
+"content":[
+{
+"balance": "92353",
+"purchase_date": "2011-04-17",
+"amount": "18",
+"description": 11
+}
+],"id":108,
+"content":[
+{
+"balance": "92335",
+"purchase_date": "2011-04-19",
+"amount": "9",
+"description": 5
+}
+],"id":109,
+"content":[
+{
+"balance": "92326",
+"purchase_date": "2011-04-19",
+"amount": "148",
+"description": 8
+}
+],"id":110,
+"content":[
+{
+"balance": "92178",
+"purchase_date": "2011-04-20",
+"amount": "95",
+"description": 1
+}
+],"id":111,
+"content":[
+{
+"balance": "92083",
+"purchase_date": "2011-04-22",
+"amount": "40",
+"description": 10
+}
+],"id":112,
+"content":[
+{
+"balance": "92043",
+"purchase_date": "2011-04-22",
+"amount": "5",
+"description": 12
+}
+],"id":113,
+"content":[
+{
+"balance": "92038",
+"purchase_date": "2011-04-23",
+"amount": "10",
+"description": 4
+}
+],"id":114,
+"content":[
+{
+"balance": "92028",
+"purchase_date": "2011-04-24",
+"amount": "6",
+"description": 11
+}
+],"id":115,
+"content":[
+{
+"balance": "92022",
+"purchase_date": "2011-04-26",
+"amount": "26",
+"description": 3
+}
+],"id":116,
+"content":[
+{
+"balance": "91996",
+"purchase_date": "2011-04-27",
+"amount": "99",
+"description": 1
+}
+],"id":117,
+"content":[
+{
+"balance": "91897",
+"purchase_date": "2011-04-29",
+"amount": "40",
+"description": 10
+}
+],"id":118,
+"content":[
+{
+"balance": "91857",
+"purchase_date": "2011-05-01",
+"amount": "43",
+"description": 7
+}
+],"id":119,
+"content":[
+{
+"balance": "91814",
+"purchase_date": "2011-05-01",
+"amount": "69",
+"description": 8
+}
+],"id":120,
+"content":[
+{
+"balance": "91745",
+"purchase_date": "2011-05-02",
+"amount": "3",
+"description": 11
+}
+],"id":121,
+"content":[
+{
+"balance": "91742",
+"purchase_date": "2011-05-04",
+"amount": "11",
+"description": 5
+}
+],"id":122,
+"content":[
+{
+"balance": "91731",
+"purchase_date": "2011-05-05",
+"amount": "95",
+"description": 1
+}
+],"id":123,
+"content":[
+{
+"balance": "91636",
+"purchase_date": "2011-05-06",
+"amount": "80",
+"description": 16
+}
+],"id":124,
+"content":[
+{
+"balance": "91556",
+"purchase_date": "2011-05-07",
+"amount": "40",
+"description": 10
+}
+],"id":125,
+"content":[
+{
+"balance": "91516",
+"purchase_date": "2011-05-07",
+"amount": "4",
+"description": 12
+}
+],"id":126,
+"content":[
+{
+"balance": "91512",
+"purchase_date": "2011-05-08",
+"amount": "46",
+"description": 6
+}
+],"id":127,
+"content":[
+{
+"balance": "91466",
+"purchase_date": "2011-05-09",
+"amount": "24",
+"description": 11
+}
+],"id":128,
+"content":[
+{
+"balance": "91442",
+"purchase_date": "2011-05-10",
+"amount": "1000",
+"description": 13
+}
+],"id":129,
+"content":[
+{
+"balance": "90442",
+"purchase_date": "2011-05-10",
+"amount": "40",
+"description": 14
+}
+],"id":130,
+"content":[
+{
+"balance": "90402",
+"purchase_date": "2011-05-10",
+"amount": "100",
+"description": 15
+}
+],
+"id":131,
+"content":[
+{
+"balance": "90302",
+"purchase_date": "2011-05-11",
+"amount": "31",
+"description": 4
+}
+],"id":132,
+"content":[
+{
+"balance": "90271",
+"purchase_date": "2011-05-12",
+"amount": "63",
+"description": 1
+}
+],"id":133,
+"content":[
+{
+"balance": "90208",
+"purchase_date": "2011-05-14",
+"amount": "40",
+"description": 10
+}
+],"id":134,
+"content":[
+{
+"balance": "90168",
+"purchase_date": "2011-05-15",
+"amount": "43",
+"description": 3
+}
+],"id":135,
+"content":[
+{
+"balance": "90125",
+"purchase_date": "2011-05-16",
+"amount": "3",
+"description": 9
+}
+],"id":136,
+"content":[
+{
+"balance": "90122",
+"purchase_date": "2011-05-16",
+"amount": "23",
+"description": 11
+}
+],"id":137,
+"content":[
+{
+"balance": "90099",
+"purchase_date": "2011-05-18",
+"amount": "18",
+"description": 4
+}
+],"id":138,
+"content":[
+{
+"balance": "90081",
+"purchase_date": "2011-05-19",
+"amount": "96",
+"description": 1
+}
+],"id":139,
+"content":[
+{
+"balance": "89985",
+"purchase_date": "2011-05-20",
+"amount": "113",
+"description": 8
+}
+],"id":140,
+"content":[
+{
+"balance": "89872",
+"purchase_date": "2011-05-21",
+"amount": "40",
+"description": 10
+}
+],"id":141,
+"content":[
+{
+"balance": "89832",
+"purchase_date": "2011-05-21",
+"amount": "2",
+"description": 12
+}
+],"id":142,
+"content":[
+{
+"balance": "89830",
+"purchase_date": "2011-05-22",
+"amount": "2",
+"description": 3
+}
+],"id":143,
+"content":[
+{
+"balance": "89828",
+"purchase_date": "2011-05-23",
+"amount": "22",
+"description": 11
+}
+],"id":144,
+"content":[
+{
+"balance": "89806",
+"purchase_date": "2011-05-25",
+"amount": "39",
+"description": 5
+}
+],"id":145,
+"content":[
+{
+"balance": "89767",
+"purchase_date": "2011-05-26",
+"amount": "17",
+"description": 1
+}
+],"id":146,
+"content":[
+{
+"balance": "89750",
+"purchase_date": "2011-05-28",
+"amount": "40",
+"description": 10
+}
+],"id":147,
+"content":[
+{
+"balance": "89710",
+"purchase_date": "2011-05-29",
+"amount": "41",
+"description": 3
+}
+],"id":148,
+"content":[
+{
+"balance": "89669",
+"purchase_date": "2011-06-01",
+"amount": "20",
+"description": 11
+}
+],"id":149,
+"content":[
+{
+"balance": "89649",
+"purchase_date": "2011-06-02",
+"amount": "36",
+"description": 8
+}
+],"id":150,
+"content":[
+{
+"balance": "89613",
+"purchase_date": "2011-06-03",
+"amount": "7",
+"description": 5
+}
+],"id":151,
+"content":[
+{
+"balance": "89606",
+"purchase_date": "2011-06-04",
+"amount": "99",
+"description": 1
+}
+],"id":152,
+"content":[
+{
+"balance": "89507",
+"purchase_date": "2011-06-06",
+"amount": "40",
+"description": 10
+}
+],"id":153,
+"content":[
+{
+"balance": "89467",
+"purchase_date": "2011-06-06",
+"amount": "1",
+"description": 12
+}
+],"id":154,
+"content":[
+{
+"balance": "89466",
+"purchase_date": "2011-06-07",
+"amount": "20",
+"description": 7
+}
+],"id":155,
+"content":[
+{
+"balance": "89446",
+"purchase_date": "2011-06-07",
+"amount": "80",
+"description": 16
+}
+],"id":156,
+"content":[
+{
+"balance": "89366",
+"purchase_date": "2011-06-08",
+"amount": "24",
+"description": 11
+}
+],"id":157,
+"content":[
+{
+"balance": "89342",
+"purchase_date": "2011-06-10",
+"amount": "40",
+"description": 3
+}
+],"id":158,
+"content":[
+{
+"balance": "89302",
+"purchase_date": "2011-06-11",
+"amount": "6",
+"description": 1
+}
+],"id":159,
+"content":[
+{
+"balance": "89296",
+"purchase_date": "2011-06-12",
+"amount": "1000",
+"description": 13
+}
+],"id":160,
+"content":[
+{
+"balance": "88296",
+"purchase_date": "2011-06-12",
+"amount": "40",
+"description": 14
+}
+],"id":161,
+"content":[
+{
+"balance": "88256",
+"purchase_date": "2011-06-12",
+"amount": "100",
+"description": 15
+}
+],
+"id":162,
+"content":[
+{
+"balance": "88156",
+"purchase_date": "2011-06-13",
+"amount": "40",
+"description": 10
+}
+],"id":163,
+"content":[
+{
+"balance": "88116",
+"purchase_date": "2011-06-14",
+"amount": "27",
+"description": 6
+}
+],"id":164,
+"content":[
+{
+"balance": "88089",
+"purchase_date": "2011-06-15",
+"amount": "27",
+"description": 11
+}
+],"id":165,
+"content":[
+{
+"balance": "88062",
+"purchase_date": "2011-06-17",
+"amount": "14",
+"description": 3
+}
+],"id":166,
+"content":[
+{
+"balance": "88048",
+"purchase_date": "2011-06-17",
+"amount": "39",
+"description": 9
+}
+],"id":167,
+"content":[
+{
+"balance": "88009",
+"purchase_date": "2011-06-18",
+"amount": "95",
+"description": 1
+}
+],"id":168,
+"content":[
+{
+"balance": "87914",
+"purchase_date": "2011-06-20",
+"amount": "40",
+"description": 10
+}
+],"id":169,
+"content":[
+{
+"balance": "87874",
+"purchase_date": "2011-06-20",
+"amount": "1",
+"description": 12
+}
+],"id":170,
+"content":[
+{
+"balance": "87873",
+"purchase_date": "2011-06-21",
+"amount": "45",
+"description": 4
+}
+],"id":171,
+"content":[
+{
+"balance": "87828",
+"purchase_date": "2011-06-21",
+"amount": "35",
+"description": 8
+}
+],"id":172,
+"content":[
+{
+"balance": "87793",
+"purchase_date": "2011-06-22",
+"amount": "27",
+"description": 11
+}
+],"id":173,
+"content":[
+{
+"balance": "87766",
+"purchase_date": "2011-06-24",
+"amount": "45",
+"description": 6
+}
+],"id":174,
+"content":[
+{
+"balance": "87721",
+"purchase_date": "2011-06-25",
+"amount": "39",
+"description": 1
+}
+],"id":175,
+"content":[
+{
+"balance": "87682",
+"purchase_date": "2011-06-27",
+"amount": "40",
+"description": 10
+}
+],"id":176,
+"content":[
+{
+"balance": "87642",
+"purchase_date": "2011-06-28",
+"amount": "45",
+"description": 3
+}
+],"id":177,
+"content":[
+{
+"balance": "87597",
+"purchase_date": "2011-06-29",
+"amount": "21",
+"description": 11
+}
+],"id":178,
+"content":[
+{
+"balance": "87576",
+"purchase_date": "2011-07-02",
+"amount": "10",
+"description": 6
+}
+],"id":179,
+"content":[
+{
+"balance": "87566",
+"purchase_date": "2011-07-03",
+"amount": "48",
+"description": 1
+}
+],"id":180,
+"content":[
+{
+"balance": "87518",
+"purchase_date": "2011-07-03",
+"amount": "86",
+"description": 8
+}
+],"id":181,
+"content":[
+{
+"balance": "87432",
+"purchase_date": "2011-07-05",
+"amount": "40",
+"description": 10
+}
+],"id":182,
+"content":[
+{
+"balance": "87392",
+"purchase_date": "2011-07-05",
+"amount": "3",
+"description": 12
+}
+],"id":183,
+"content":[
+{
+"balance": "87389",
+"purchase_date": "2011-07-06",
+"amount": "23",
+"description": 7
+}
+],"id":184,
+"content":[
+{
+"balance": "87366",
+"purchase_date": "2011-07-07",
+"amount": "18",
+"description": 11
+}
+],"id":185,
+"content":[
+{
+"balance": "87348",
+"purchase_date": "2011-07-08",
+"amount": "80",
+"description": 16
+}
+],"id":186,
+"content":[
+{
+"balance": "87268",
+"purchase_date": "2011-07-09",
+"amount": "36",
+"description": 4
+}
+],"id":187,
+"content":[
+{
+"balance": "87232",
+"purchase_date": "2011-07-10",
+"amount": "86",
+"description": 1
+}
+],"id":188,
+"content":[
+{
+"balance": "87146",
+"purchase_date": "2011-07-12",
+"amount": "40",
+"description": 10
+}
+],"id":189,
+"content":[
+{
+"balance": "87106",
+"purchase_date": "2011-07-13",
+"amount": "24",
+"description": 3
+}
+],"id":190,
+"content":[
+{
+"balance": "87082",
+"purchase_date": "2011-07-14",
+"amount": "15",
+"description": 11
+}
+],"id":191,
+"content":[
+{
+"balance": "87067",
+"purchase_date": "2011-07-14",
+"amount": "1000",
+"description": 13
+}
+],"id":192,
+"content":[
+{
+"balance": "86067",
+"purchase_date": "2011-07-14",
+"amount": "40",
+"description": 14
+}
+],"id":193,
+"content":[
+{
+"balance": "86027",
+"purchase_date": "2011-07-14",
+"amount": "100",
+"description": 15
+}
+],
+"id":194,
+"content":[
+{
+"balance": "85927",
+"purchase_date": "2011-07-16",
+"amount": "19",
+"description": 3
+}
+],"id":195,
+"content":[
+{
+"balance": "85908",
+"purchase_date": "2011-07-17",
+"amount": "16",
+"description": 1
+}
+],"id":196,
+"content":[
+{
+"balance": "85892",
+"purchase_date": "2011-07-18",
+"amount": "26",
+"description": 9
+}
+],"id":197,
+"content":[
+{
+"balance": "85866",
+"purchase_date": "2011-07-19",
+"amount": "40",
+"description": 10
+}
+],"id":198,
+"content":[
+{
+"balance": "85826",
+"purchase_date": "2011-07-19",
+"amount": "5",
+"description": 12
+}
+],"id":199,
+"content":[
+{
+"balance": "85821",
+"purchase_date": "2011-07-20",
+"amount": "43",
+"description": 4
+}
+],"id":200,
+"content":[
+{
+"balance": "85778",
+"purchase_date": "2011-07-21",
+"amount": "10",
+"description": 11
+}
+],"id":201,
+"content":[
+{
+"balance": "85768",
+"purchase_date": "2011-07-22",
+"amount": "103",
+"description": 8
+}
+],"id":202,
+"content":[
+{
+"balance": "85665",
+"purchase_date": "2011-07-23",
+"amount": "45",
+"description": 3
+}
+],"id":203,
+"content":[
+{
+"balance": "85620",
+"purchase_date": "2011-07-24",
+"amount": "19",
+"description": 1
+}
+],"id":204,
+"content":[
+{
+"balance": "85601",
+"purchase_date": "2011-07-26",
+"amount": "40",
+"description": 10
+}
+],"id":205,
+"content":[
+{
+"balance": "85561",
+"purchase_date": "2011-07-27",
+"amount": "47",
+"description": 5
+}
+],"id":206,
+"content":[
+{
+"balance": "85514",
+"purchase_date": "2011-07-28",
+"amount": "16",
+"description": 11
+}
+],"id":207,
+"content":[
+{
+"balance": "85498",
+"purchase_date": "2011-08-01",
+"amount": "42",
+"description": 6
+}
+],"id":208,
+"content":[
+{
+"balance": "85456",
+"purchase_date": "2011-08-02",
+"amount": "70",
+"description": 1
+}
+],"id":209,
+"content":[
+{
+"balance": "85386",
+"purchase_date": "2011-08-04",
+"amount": "98",
+"description": 8
+}
+],"id":210,
+"content":[
+{
+"balance": "85288",
+"purchase_date": "2011-08-04",
+"amount": "40",
+"description": 10
+}
+],"id":211,
+"content":[
+{
+"balance": "85248",
+"purchase_date": "2011-08-04",
+"amount": "4",
+"description": 12
+}
+],"id":212,
+"content":[
+{
+"balance": "85244",
+"purchase_date": "2011-08-05",
+"amount": "48",
+"description": 3
+}
+],"id":213,
+"content":[
+{
+"balance": "85196",
+"purchase_date": "2011-08-06",
+"amount": "21",
+"description": 11
+}
+],"id":214,
+"content":[
+{
+"balance": "85175",
+"purchase_date": "2011-08-08",
+"amount": "13",
+"description": 4
+}
+],"id":215,
+"content":[
+{
+"balance": "85162",
+"purchase_date": "2011-08-09",
+"amount": "9",
+"description": 1
+}
+],"id":216,
+"content":[
+{
+"balance": "85153",
+"purchase_date": "2011-08-09",
+"amount": "80",
+"description": 16
+}
+],"id":217,
+"content":[
+{
+"balance": "85073",
+"purchase_date": "2011-08-11",
+"amount": "40",
+"description": 10
+}
+],"id":218,
+"content":[
+{
+"balance": "85033",
+"purchase_date": "2011-08-12",
+"amount": "28",
+"description": 4
+}
+],"id":219,
+"content":[
+{
+"balance": "85005",
+"purchase_date": "2011-08-13",
+"amount": "16",
+"description": 11
+}
+],"id":220,
+"content":[
+{
+"balance": "84989",
+"purchase_date": "2011-08-15",
+"amount": "36",
+"description": 6
+}
+],"id":221,
+"content":[
+{
+"balance": "84953",
+"purchase_date": "2011-08-16",
+"amount": "96",
+"description": 1
+}
+],"id":222,
+"content":[
+{
+"balance": "84857",
+"purchase_date": "2011-08-16",
+"amount": "1000",
+"description": 13
+}
+],"id":223,
+"content":[
+{
+"balance": "83857",
+"purchase_date": "2011-08-16",
+"amount": "40",
+"description": 14
+}
+],"id":224,
+"content":[
+{
+"balance": "83817",
+"purchase_date": "2011-08-16",
+"amount": "100",
+"description": 15
+}
+],
+"id":225,
+"content":[
+{
+"balance": "83717",
+"purchase_date": "2011-08-18",
+"amount": "40",
+"description": 10
+}
+],"id":226,
+"content":[
+{
+"balance": "83677",
+"purchase_date": "2011-08-18",
+"amount": "2",
+"description": 12
+}
+],"id":227,
+"content":[
+{
+"balance": "83675",
+"purchase_date": "2011-08-19",
+"amount": "18",
+"description": 7
+}
+],"id":228,
+"content":[
+{
+"balance": "83657",
+"purchase_date": "2011-08-19",
+"amount": "35",
+"description": 9
+}
+],"id":229,
+"content":[
+{
+"balance": "83622",
+"purchase_date": "2011-08-20",
+"amount": "22",
+"description": 11
+}
+],"id":230,
+"content":[
+{
+"balance": "83600",
+"purchase_date": "2011-08-22",
+"amount": "7",
+"description": 4
+}
+],"id":231,
+"content":[
+{
+"balance": "83593",
+"purchase_date": "2011-08-23",
+"amount": "73",
+"description": 1
+}
+],"id":232,
+"content":[
+{
+"balance": "83520",
+"purchase_date": "2011-08-23",
+"amount": "111",
+"description": 8
+}
+],"id":233,
+"content":[
+{
+"balance": "83409",
+"purchase_date": "2011-08-25",
+"amount": "40",
+"description": 10
+}
+],"id":234,
+"content":[
+{
+"balance": "83369",
+"purchase_date": "2011-08-26",
+"amount": "45",
+"description": 7
+}
+],"id":235,
+"content":[
+{
+"balance": "83324",
+"purchase_date": "2011-08-27",
+"amount": "6",
+"description": 11
+}
+],"id":236,
+"content":[
+{
+"balance": "83318",
+"purchase_date": "2011-08-29",
+"amount": "40",
+"description": 5
+}
+],"id":237,
+"content":[
+{
+"balance": "83278",
+"purchase_date": "2011-09-01",
+"amount": "16",
+"description": 1
+}
+],"id":238,
+"content":[
+{
+"balance": "83262",
+"purchase_date": "2011-09-03",
+"amount": "40",
+"description": 10
+}
+],"id":239,
+"content":[
+{
+"balance": "83222",
+"purchase_date": "2011-09-03",
+"amount": "4",
+"description": 12
+}
+],"id":240,
+"content":[
+{
+"balance": "83218",
+"purchase_date": "2011-09-04",
+"amount": "20",
+"description": 3
+}
+],"id":241,
+"content":[
+{
+"balance": "83198",
+"purchase_date": "2011-09-05",
+"amount": "56",
+"description": 8
+}
+],"id":242,
+"content":[
+{
+"balance": "83142",
+"purchase_date": "2011-09-05",
+"amount": "16",
+"description": 11
+}
+],"id":243,
+"content":[
+{
+"balance": "83126",
+"purchase_date": "2011-09-07",
+"amount": "7",
+"description": 6
+}
+],"id":244,
+"content":[
+{
+"balance": "83119",
+"purchase_date": "2011-09-08",
+"amount": "3",
+"description": 1
+}
+],"id":245,
+"content":[
+{
+"balance": "83116",
+"purchase_date": "2011-09-10",
+"amount": "40",
+"description": 10
+}
+],"id":246,
+"content":[
+{
+"balance": "83076",
+"purchase_date": "2011-09-10",
+"amount": "80",
+"description": 16
+}
+],"id":247,
+"content":[
+{
+"balance": "82996",
+"purchase_date": "2011-09-11",
+"amount": "27",
+"description": 6
+}
+],"id":248,
+"content":[
+{
+"balance": "82969",
+"purchase_date": "2011-09-12",
+"amount": "10",
+"description": 11
+}
+],"id":249,
+"content":[
+{
+"balance": "82959",
+"purchase_date": "2011-09-14",
+"amount": "32",
+"description": 7
+}
+],"id":250,
+"content":[
+{
+"balance": "82927",
+"purchase_date": "2011-09-15",
+"amount": "39",
+"description": 1
+}
+],"id":251,
+"content":[
+{
+"balance": "82888",
+"purchase_date": "2011-09-17",
+"amount": "40",
+"description": 10
+}
+],"id":252,
+"content":[
+{
+"balance": "82848",
+"purchase_date": "2011-09-17",
+"amount": "4",
+"description": 12
+}
+],"id":253,
+"content":[
+{
+"balance": "82844",
+"purchase_date": "2011-09-18",
+"amount": "48",
+"description": 4
+}
+],"id":254,
+"content":[
+{
+"balance": "82796",
+"purchase_date": "2011-09-18",
+"amount": "1000",
+"description": 13
+}
+],"id":255,
+"content":[
+{
+"balance": "81796",
+"purchase_date": "2011-09-18",
+"amount": "40",
+"description": 14
+}
+],"id":256,
+"content":[
+{
+"balance": "81756",
+"purchase_date": "2011-09-18",
+"amount": "100",
+"description": 15
+}
+],
+"id":257,
+"content":[
+{
+"balance": "81656",
+"purchase_date": "2011-09-19",
+"amount": "10",
+"description": 11
+}
+],"id":258,
+"content":[
+{
+"balance": "81646",
+"purchase_date": "2011-09-20",
+"amount": "4",
+"description": 9
+}
+],"id":259,
+"content":[
+{
+"balance": "81642",
+"purchase_date": "2011-09-21",
+"amount": "32",
+"description": 4
+}
+],"id":260,
+"content":[
+{
+"balance": "81610",
+"purchase_date": "2011-09-22",
+"amount": "15",
+"description": 1
+}
+],"id":261,
+"content":[
+{
+"balance": "81595",
+"purchase_date": "2011-09-24",
+"amount": "120",
+"description": 8
+}
+],"id":262,
+"content":[
+{
+"balance": "81475",
+"purchase_date": "2011-09-24",
+"amount": "40",
+"description": 10
+}
+],"id":263,
+"content":[
+{
+"balance": "81435",
+"purchase_date": "2011-09-25",
+"amount": "26",
+"description": 7
+}
+],"id":264,
+"content":[
+{
+"balance": "81409",
+"purchase_date": "2011-09-26",
+"amount": "1",
+"description": 11
+}
+],"id":265,
+"content":[
+{
+"balance": "81408",
+"purchase_date": "2011-09-28",
+"amount": "30",
+"description": 6
+}
+],"id":266,
+"content":[
+{
+"balance": "81378",
+"purchase_date": "2011-09-29",
+"amount": "55",
+"description": 1
+}
+],"id":267,
+"content":[
+{
+"balance": "81323",
+"purchase_date": "2011-10-02",
+"amount": "40",
+"description": 10
+}
+],"id":268,
+"content":[
+{
+"balance": "81283",
+"purchase_date": "2011-10-02",
+"amount": "1",
+"description": 12
+}
+],"id":269,
+"content":[
+{
+"balance": "81282",
+"purchase_date": "2011-10-03",
+"amount": "38",
+"description": 3
+}
+],"id":270,
+"content":[
+{
+"balance": "81244",
+"purchase_date": "2011-10-04",
+"amount": "28",
+"description": 11
+}
+],"id":271,
+"content":[
+{
+"balance": "81216",
+"purchase_date": "2011-10-06",
+"amount": "26",
+"description": 3
+}
+],"id":272,
+"content":[
+{
+"balance": "81190",
+"purchase_date": "2011-10-06",
+"amount": "57",
+"description": 8
+}
+],"id":273,
+"content":[
+{
+"balance": "81133",
+"purchase_date": "2011-10-07",
+"amount": "65",
+"description": 1
+}
+],"id":274,
+"content":[
+{
+"balance": "81068",
+"purchase_date": "2011-10-09",
+"amount": "40",
+"description": 10
+}
+],"id":275,
+"content":[
+{
+"balance": "81028",
+"purchase_date": "2011-10-10",
+"amount": "48",
+"description": 6
+}
+],"id":276,
+"content":[
+{
+"balance": "80980",
+"purchase_date": "2011-10-11",
+"amount": "25",
+"description": 11
+}
+],"id":277,
+"content":[
+{
+"balance": "80955",
+"purchase_date": "2011-10-11",
+"amount": "80",
+"description": 16
+}
+],"id":278,
+"content":[
+{
+"balance": "80875",
+"purchase_date": "2011-10-13",
+"amount": "1",
+"description": 3
+}
+],"id":279,
+"content":[
+{
+"balance": "80874",
+"purchase_date": "2011-10-14",
+"amount": "77",
+"description": 1
+}
+],"id":280,
+"content":[
+{
+"balance": "80797",
+"purchase_date": "2011-10-16",
+"amount": "40",
+"description": 10
+}
+],"id":281,
+"content":[
+{
+"balance": "80757",
+"purchase_date": "2011-10-16",
+"amount": "3",
+"description": 12
+}
+],"id":282,
+"content":[
+{
+"balance": "80754",
+"purchase_date": "2011-10-17",
+"amount": "5",
+"description": 5
+}
+],"id":283,
+"content":[
+{
+"balance": "80749",
+"purchase_date": "2011-10-18",
+"amount": "15",
+"description": 11
+}
+],"id":284,
+"content":[
+{
+"balance": "80734",
+"purchase_date": "2011-10-20",
+"amount": "32",
+"description": 6
+}
+],"id":285,
+"content":[
+{
+"balance": "80702",
+"purchase_date": "2011-10-20",
+"amount": "1000",
+"description": 13
+}
+],"id":286,
+"content":[
+{
+"balance": "79702",
+"purchase_date": "2011-10-20",
+"amount": "40",
+"description": 14
+}
+],"id":287,
+"content":[
+{
+"balance": "79662",
+"purchase_date": "2011-10-20",
+"amount": "100",
+"description": 15
+}
+],
+"id":288,
+"content":[
+{
+"balance": "79562",
+"purchase_date": "2011-10-21",
+"amount": "66",
+"description": 1
+}
+],"id":289,
+"content":[
+{
+"balance": "79496",
+"purchase_date": "2011-10-21",
+"amount": "19",
+"description": 9
+}
+],"id":290,
+"content":[
+{
+"balance": "79477",
+"purchase_date": "2011-10-23",
+"amount": "40",
+"description": 10
+}
+],"id":291,
+"content":[
+{
+"balance": "79437",
+"purchase_date": "2011-10-24",
+"amount": "50",
+"description": 7
+}
+],"id":292,
+"content":[
+{
+"balance": "79387",
+"purchase_date": "2011-10-25",
+"amount": "80",
+"description": 8
+}
+],"id":293,
+"content":[
+{
+"balance": "79307",
+"purchase_date": "2011-10-25",
+"amount": "4",
+"description": 11
+}
+],"id":294,
+"content":[
+{
+"balance": "79303",
+"purchase_date": "2011-10-27",
+"amount": "34",
+"description": 5
+}
+],"id":295,
+"content":[
+{
+"balance": "79269",
+"purchase_date": "2011-10-28",
+"amount": "8",
+"description": 1
+}
+],"id":296,
+"content":[
+{
+"balance": "79261",
+"purchase_date": "2011-11-01",
+"amount": "40",
+"description": 10
+}
+],"id":297,
+"content":[
+{
+"balance": "79221",
+"purchase_date": "2011-11-01",
+"amount": "4",
+"description": 12
+}
+],"id":298,
+"content":[
+{
+"balance": "79217",
+"purchase_date": "2011-11-02",
+"amount": "23",
+"description": 3
+}
+],"id":299,
+"content":[
+{
+"balance": "79194",
+"purchase_date": "2011-11-03",
+"amount": "7",
+"description": 11
+}
+],"id":300,
+"content":[
+{
+"balance": "79187",
+"purchase_date": "2011-11-05",
+"amount": "4",
+"description": 7
+}
+],"id":301,
+"content":[
+{
+"balance": "79183",
+"purchase_date": "2011-11-06",
+"amount": "31",
+"description": 1
+}
+],"id":302,
+"content":[
+{
+"balance": "79152",
+"purchase_date": "2011-11-07",
+"amount": "117",
+"description": 8
+}
+],"id":303,
+"content":[
+{
+"balance": "79035",
+"purchase_date": "2011-11-08",
+"amount": "40",
+"description": 10
+}
+],"id":304,
+"content":[
+{
+"balance": "78995",
+"purchase_date": "2011-11-09",
+"amount": "1",
+"description": 7
+}
+],"id":305,
+"content":[
+{
+"balance": "78994",
+"purchase_date": "2011-11-10",
+"amount": "21",
+"description": 11
+}
+],"id":306,
+"content":[
+{
+"balance": "78973",
+"purchase_date": "2011-11-12",
+"amount": "36",
+"description": 4
+}
+],"id":307,
+"content":[
+{
+"balance": "78937",
+"purchase_date": "2011-11-12",
+"amount": "80",
+"description": 16
+}
+],"id":308,
+"content":[
+{
+"balance": "78857",
+"purchase_date": "2011-11-13",
+"amount": "99",
+"description": 1
+}
+],"id":309,
+"content":[
+{
+"balance": "78758",
+"purchase_date": "2011-11-15",
+"amount": "40",
+"description": 10
+}
+],"id":310,
+"content":[
+{
+"balance": "78718",
+"purchase_date": "2011-11-15",
+"amount": "1",
+"description": 12
+}
+],"id":311,
+"content":[
+{
+"balance": "78717",
+"purchase_date": "2011-11-16",
+"amount": "34",
+"description": 5
+}
+],"id":312,
+"content":[
+{
+"balance": "78683",
+"purchase_date": "2011-11-17",
+"amount": "27",
+"description": 11
+}
+],"id":313,
+"content":[
+{
+"balance": "78656",
+"purchase_date": "2011-11-19",
+"amount": "29",
+"description": 4
+}
+],"id":314,
+"content":[
+{
+"balance": "78627",
+"purchase_date": "2011-11-20",
+"amount": "58",
+"description": 1
+}
+],"id":315,
+"content":[
+{
+"balance": "78569",
+"purchase_date": "2011-11-22",
+"amount": "32",
+"description": 9
+}
+],"id":316,
+"content":[
+{
+"balance": "78537",
+"purchase_date": "2011-11-22",
+"amount": "40",
+"description": 10
+}
+],"id":317,
+"content":[
+{
+"balance": "78497",
+"purchase_date": "2011-11-22",
+"amount": "1000",
+"description": 13
+}
+],"id":318,
+"content":[
+{
+"balance": "77497",
+"purchase_date": "2011-11-22",
+"amount": "40",
+"description": 14
+}
+],"id":319,
+"content":[
+{
+"balance": "77457",
+"purchase_date": "2011-11-22",
+"amount": "100",
+"description": 15
+}
+],
+"id":320,
+"content":[
+{
+"balance": "77357",
+"purchase_date": "2011-11-23",
+"amount": "29",
+"description": 7
+}
+],"id":321,
+"content":[
+{
+"balance": "77328",
+"purchase_date": "2011-11-24",
+"amount": "10",
+"description": 11
+}
+],"id":322,
+"content":[
+{
+"balance": "77318",
+"purchase_date": "2011-11-26",
+"amount": "38",
+"description": 6
+}
+],"id":323,
+"content":[
+{
+"balance": "77280",
+"purchase_date": "2011-11-26",
+"amount": "42",
+"description": 8
+}
+],"id":324,
+"content":[
+{
+"balance": "77238",
+"purchase_date": "2011-11-27",
+"amount": "21",
+"description": 1
+}
+],"id":325,
+"content":[
+{
+"balance": "77217",
+"purchase_date": "2011-11-29",
+"amount": "40",
+"description": 10
+}
+],"id":326,
+"content":[
+{
+"balance": "77177",
+"purchase_date": "2011-11-29",
+"amount": "3",
+"description": 12
+}
+],"id":327,
+"content":[
+{
+"balance": "77174",
+"purchase_date": "2011-12-01",
+"amount": "34",
+"description": 5
+}
+],"id":328,
+"content":[
+{
+"balance": "77140",
+"purchase_date": "2011-12-02",
+"amount": "22",
+"description": 11
+}
+],"id":329,
+"content":[
+{
+"balance": "77118",
+"purchase_date": "2011-12-04",
+"amount": "39",
+"description": 7
+}
+],"id":330,
+"content":[
+{
+"balance": "77079",
+"purchase_date": "2011-12-05",
+"amount": "74",
+"description": 1
+}
+],"id":331,
+"content":[
+{
+"balance": "77005",
+"purchase_date": "2011-12-07",
+"amount": "40",
+"description": 10
+}
+],"id":332,
+"content":[
+{
+"balance": "76965",
+"purchase_date": "2011-12-08",
+"amount": "28",
+"description": 7
+}
+],"id":333,
+"content":[
+{
+"balance": "76937",
+"purchase_date": "2011-12-08",
+"amount": "109",
+"description": 8
+}
+],"id":334,
+"content":[
+{
+"balance": "76828",
+"purchase_date": "2011-12-09",
+"amount": "1",
+"description": 11
+}
+],"id":335,
+"content":[
+{
+"balance": "76827",
+"purchase_date": "2011-12-11",
+"amount": "5",
+"description": 3
+}
+],"id":336,
+"content":[
+{
+"balance": "76822",
+"purchase_date": "2011-12-12",
+"amount": "16",
+"description": 1
+}
+],"id":337,
+"content":[
+{
+"balance": "76806",
+"purchase_date": "2011-12-13",
+"amount": "80",
+"description": 16
+}
+],"id":338,
+"content":[
+{
+"balance": "76726",
+"purchase_date": "2011-12-14",
+"amount": "40",
+"description": 10
+}
+],"id":339,
+"content":[
+{
+"balance": "76686",
+"purchase_date": "2011-12-14",
+"amount": "3",
+"description": 12
+}
+],"id":340,
+"content":[
+{
+"balance": "76683",
+"purchase_date": "2011-12-15",
+"amount": "31",
+"description": 3
+}
+],"id":341,
+"content":[
+{
+"balance": "76652",
+"purchase_date": "2011-12-16",
+"amount": "16",
+"description": 11
+}
+],"id":342,
+"content":[
+{
+"balance": "76636",
+"purchase_date": "2011-12-18",
+"amount": "47",
+"description": 5
+}
+],"id":343,
+"content":[
+{
+"balance": "76589",
+"purchase_date": "2011-12-19",
+"amount": "39",
+"description": 1
+}
+],"id":344,
+"content":[
+{
+"balance": "76550",
+"purchase_date": "2011-12-21",
+"amount": "40",
+"description": 10
+}
+],"id":345,
+"content":[
+{
+"balance": "76510",
+"purchase_date": "2011-12-22",
+"amount": "1",
+"description": 4
+}
+],"id":346,
+"content":[
+{
+"balance": "76509",
+"purchase_date": "2011-12-23",
+"amount": "36",
+"description": 9
+}
+],"id":347,
+"content":[
+{
+"balance": "76473",
+"purchase_date": "2011-12-23",
+"amount": "28",
+"description": 11
+}
+],"id":348,
+"content":[
+{
+"balance": "76445",
+"purchase_date": "2011-12-24",
+"amount": "1000",
+"description": 13
+}
+],"id":349,
+"content":[
+{
+"balance": "75445",
+"purchase_date": "2011-12-24",
+"amount": "40",
+"description": 14
+}
+],"id":350,
+"content":[
+{
+"balance": "75405",
+"purchase_date": "2011-12-24",
+"amount": "100",
+"description": 15
+}
+],
+"id":351,
+"content":[
+{
+"balance": "75305",
+"purchase_date": "2011-12-25",
+"amount": "14",
+"description": 7
+}
+],"id":352,
+"content":[
+{
+"balance": "75291",
+"purchase_date": "2011-12-26",
+"amount": "94",
+"description": 1
+}
+],"id":353,
+"content":[
+{
+"balance": "75197",
+"purchase_date": "2011-12-27",
+"amount": "111",
+"description": 8
+}
+],"id":354,
+"content":[
+{
+"balance": "75086",
+"purchase_date": "2011-12-28",
+"amount": "40",
+"description": 10
+}
+],"id":355,
+"content":[
+{
+"balance": "75046",
+"purchase_date": "2011-12-28",
+"amount": "5",
+"description": 12
+}
+],"id":356,
+"content":[
+{
+"balance": "75041",
+"purchase_date": "2011-12-29",
+"amount": "19",
+"description": 5
+}
+],"id":357,
+"content":[
+{
+"balance": "75022",
+"purchase_date": "2011-01-01",
+"amount": "16",
+"description": 11
+}
+],"id":358,
+"content":[
+{
+"balance": "75006",
+"purchase_date": "2011-01-03",
+"amount": "30",
+"description": 3
+}
+],"id":359,
+"content":[
+{
+"balance": "74976",
+"purchase_date": "2011-01-04",
+"amount": "64",
+"description": 1
+}
+],"id":360,
+"content":[
+{
+"balance": "74912",
+"purchase_date": "2011-01-06",
+"amount": "40",
+"description": 10
+}
+],"id":361,
+"content":[
+{
+"balance": "74872",
+"purchase_date": "2011-01-07",
+"amount": "3",
+"description": 5
+}
+],"id":362,
+"content":[
+{
+"balance": "74869",
+"purchase_date": "2011-01-08",
+"amount": "14",
+"description": 11
+}
+],"id":363,
+"content":[
+{
+"balance": "74855",
+"purchase_date": "2011-01-09",
+"amount": "20",
+"description": 8
+}
+],"id":364,
+"content":[
+{
+"balance": "74835",
+"purchase_date": "2011-01-10",
+"amount": "18",
+"description": 5
+}
+],"id":365,
+"content":[
+{
+"balance": "74817",
+"purchase_date": "2011-01-11",
+"amount": "70",
+"description": 1
+}
+],"id":366,
+"content":[
+{
+"balance": "74747",
+"purchase_date": "2011-01-13",
+"amount": "40",
+"description": 10
+}
+],"id":367,
+"content":[
+{
+"balance": "74707",
+"purchase_date": "2011-01-13",
+"amount": "1",
+"description": 12
+}
+],"id":368,
+"content":[
+{
+"balance": "74706",
+"purchase_date": "2011-01-14",
+"amount": "4",
+"description": 6
+}
+],"id":369,
+"content":[
+{
+"balance": "74702",
+"purchase_date": "2011-01-14",
+"amount": "80",
+"description": 16
+}
+],"id":370,
+"content":[
+{
+"balance": "74622",
+"purchase_date": "2011-01-15",
+"amount": "4",
+"description": 11
+}
+],"id":371,
+"content":[
+{
+"balance": "74618",
+"purchase_date": "2011-01-17",
+"amount": "49",
+"description": 3
+}
+],"id":372,
+"content":[
+{
+"balance": "74569",
+"purchase_date": "2011-01-18",
+"amount": "59",
+"description": 1
+}
+],"id":373,
+"content":[
+{
+"balance": "74510",
+"purchase_date": "2012-01-20",
+"amount": "40",
+"description": 10
+}
+],"id":374,
+"content":[
+{
+"balance": "74470",
+"purchase_date": "2012-01-21",
+"amount": "10",
+"description": 4
+}
+],"id":375,
+"content":[
+{
+"balance": "74460",
+"purchase_date": "2012-01-22",
+"amount": "21",
+"description": 11
+}
+],"id":376,
+"content":[
+{
+"balance": "74439",
+"purchase_date": "2012-01-24",
+"amount": "25",
+"description": 5
+}
+],"id":377,
+"content":[
+{
+"balance": "74414",
+"purchase_date": "2012-01-24",
+"amount": "14",
+"description": 9
+}
+],"id":378,
+"content":[
+{
+"balance": "74400",
+"purchase_date": "2012-01-25",
+"amount": "4",
+"description": 1
+}
+],"id":379,
+"content":[
+{
+"balance": "74396",
+"purchase_date": "2012-01-26",
+"amount": "1000",
+"description": 13
+}
+],"id":380,
+"content":[
+{
+"balance": "73396",
+"purchase_date": "2012-01-26",
+"amount": "40",
+"description": 14
+}
+],"id":381,
+"content":[
+{
+"balance": "73356",
+"purchase_date": "2012-01-26",
+"amount": "100",
+"description": 15
+}
+],
+"id":382,
+"content":[
+{
+"balance": "73256",
+"purchase_date": "2012-01-27",
+"amount": "40",
+"description": 10
+}
+],"id":383,
+"content":[
+{
+"balance": "73216",
+"purchase_date": "2012-01-27",
+"amount": "3",
+"description": 12
+}
+],"id":384,
+"content":[
+{
+"balance": "73213",
+"purchase_date": "2012-01-28",
+"amount": "21",
+"description": 3
+}
+],"id":385,
+"content":[
+{
+"balance": "73192",
+"purchase_date": "2012-01-28",
+"amount": "82",
+"description": 8
+}
+],"id":386,
+"content":[
+{
+"balance": "73110",
+"purchase_date": "2012-01-29",
+"amount": "11",
+"description": 11
+}
+],"id":387,
+"content":[
+{
+"balance": "73099",
+"purchase_date": "2012-02-02",
+"amount": "4",
+"description": 3
+}
+],"id":388,
+"content":[
+{
+"balance": "73095",
+"purchase_date": "2012-02-03",
+"amount": "21",
+"description": 1
+}
+],"id":389,
+"content":[
+{
+"balance": "73074",
+"purchase_date": "2012-02-05",
+"amount": "40",
+"description": 10
+}
+],"id":390,
+"content":[
+{
+"balance": "73034",
+"purchase_date": "2012-02-06",
+"amount": "34",
+"description": 6
+}
+],"id":391,
+"content":[
+{
+"balance": "73000",
+"purchase_date": "2012-02-07",
+"amount": "24",
+"description": 11
+}
+],"id":392,
+"content":[
+{
+"balance": "72976",
+"purchase_date": "2012-02-09",
+"amount": "27",
+"description": 3
+}
+],"id":393,
+"content":[
+{
+"balance": "72949",
+"purchase_date": "2012-02-10",
+"amount": "35",
+"description": 1
+}
+],"id":394,
+"content":[
+{
+"balance": "72914",
+"purchase_date": "2012-02-10",
+"amount": "81",
+"description": 8
+}
+],"id":395,
+"content":[
+{
+"balance": "72833",
+"purchase_date": "2012-02-12",
+"amount": "40",
+"description": 10
+}
+],"id":396,
+"content":[
+{
+"balance": "72793",
+"purchase_date": "2012-02-12",
+"amount": "5",
+"description": 12
+}
+],"id":397,
+"content":[
+{
+"balance": "72788",
+"purchase_date": "2012-02-13",
+"amount": "33",
+"description": 7
+}
+],"id":398,
+"content":[
+{
+"balance": "72755",
+"purchase_date": "2012-02-14",
+"amount": "20",
+"description": 11
+}
+],"id":399,
+"content":[
+{
+"balance": "72735",
+"purchase_date": "2012-02-15",
+"amount": "80",
+"description": 16
+}
+],"id":400,
+"content":[
+{
+"balance": "72655",
+"purchase_date": "2012-02-16",
+"amount": "43",
+"description": 7
+}
+],"id":401,
+"content":[
+{
+"balance": "72612",
+"purchase_date": "2012-02-17",
+"amount": "72",
+"description": 1
+}
+],"id":402,
+"content":[
+{
+"balance": "72540",
+"purchase_date": "2012-02-19",
+"amount": "40",
+"description": 10
+}
+],"id":403,
+"content":[
+{
+"balance": "72500",
+"purchase_date": "2012-02-20",
+"amount": "11",
+"description": 7
+}
+],"id":404,
+"content":[
+{
+"balance": "72489",
+"purchase_date": "2012-02-21",
+"amount": "14",
+"description": 11
+}
+],"id":405,
+"content":[
+{
+"balance": "72475",
+"purchase_date": "2012-02-23",
+"amount": "21",
+"description": 3
+}
+],"id":406,
+"content":[
+{
+"balance": "72454",
+"purchase_date": "2012-02-24",
+"amount": "24",
+"description": 1
+}
+],"id":407,
+"content":[
+{
+"balance": "72430",
+"purchase_date": "2012-02-25",
+"amount": "11",
+"description": 9
+}
+],"id":408,
+"content":[
+{
+"balance": "72419",
+"purchase_date": "2012-02-26",
+"amount": "40",
+"description": 10
+}
+],"id":409,
+"content":[
+{
+"balance": "72379",
+"purchase_date": "2012-02-26",
+"amount": "2",
+"description": 12
+}
+],"id":410,
+"content":[
+{
+"balance": "72377",
+"purchase_date": "2012-02-27",
+"amount": "30",
+"description": 6
+}
+],"id":411,
+"content":[
+{
+"balance": "72347",
+"purchase_date": "2012-02-28",
+"amount": "7",
+"description": 11
+}
+],"id":412,
+"content":[
+{
+"balance": "72340",
+"purchase_date": "2012-02-28",
+"amount": "1000",
+"description": 13
+}
+],"id":413,
+"content":[
+{
+"balance": "71340",
+"purchase_date": "2012-02-28",
+"amount": "40",
+"description": 14
+}
+],"id":414,
+"content":[
+{
+"balance": "71300",
+"purchase_date": "2012-02-28",
+"amount": "100",
+"description": 15
+}
+],
+"id":415,
+"content":[
+{
+"balance": "71200",
+"purchase_date": "2012-02-29",
+"amount": "150",
+"description": 8
+}
+],"id":416,
+"content":[
+{
+"balance": "71050",
+"purchase_date": "2012-03-01",
+"amount": "31",
+"description": 4
+}
+],"id":417,
+"content":[
+{
+"balance": "71019",
+"purchase_date": "2012-03-02",
+"amount": "77",
+"description": 1
+}
+],"id":418,
+"content":[
+{
+"balance": "70942",
+"purchase_date": "2012-03-04",
+"amount": "40",
+"description": 10
+}
+],"id":419,
+"content":[
+{
+"balance": "70902",
+"purchase_date": "2012-03-05",
+"amount": "25",
+"description": 7
+}
+],"id":420,
+"content":[
+{
+"balance": "70877",
+"purchase_date": "2012-03-06",
+"amount": "9",
+"description": 11
+}
+],"id":421,
+"content":[
+{
+"balance": "70868",
+"purchase_date": "2012-03-08",
+"amount": "47",
+"description": 4
+}
+],"id":422,
+"content":[
+{
+"balance": "70821",
+"purchase_date": "2012-03-09",
+"amount": "65",
+"description": 1
+}
+],"id":423,
+"content":[
+{
+"balance": "70756",
+"purchase_date": "2012-03-11",
+"amount": "111",
+"description": 8
+}
+],"id":424,
+"content":[
+{
+"balance": "70645",
+"purchase_date": "2012-03-11",
+"amount": "40",
+"description": 10
+}
+],"id":425,
+"content":[
+{
+"balance": "70605",
+"purchase_date": "2012-03-11",
+"amount": "4",
+"description": 12
+}
+],"id":426,
+"content":[
+{
+"balance": "70601",
+"purchase_date": "2012-03-12",
+"amount": "2",
+"description": 3
+}
+],"id":427,
+"content":[
+{
+"balance": "70599",
+"purchase_date": "2012-03-13",
+"amount": "24",
+"description": 11
+}
+],"id":428,
+"content":[
+{
+"balance": "70575",
+"purchase_date": "2012-03-15",
+"amount": "2",
+"description": 4
+}
+],"id":429,
+"content":[
+{
+"balance": "70573",
+"purchase_date": "2012-03-16",
+"amount": "6",
+"description": 1
+}
+],"id":430,
+"content":[
+{
+"balance": "70567",
+"purchase_date": "2012-03-16",
+"amount": "80",
+"description": 16
+}
+],"id":431,
+"content":[
+{
+"balance": "70487",
+"purchase_date": "2012-03-18",
+"amount": "40",
+"description": 10
+}
+],"id":432,
+"content":[
+{
+"balance": "70447",
+"purchase_date": "2012-03-19",
+"amount": "31",
+"description": 6
+}
+],"id":433,
+"content":[
+{
+"balance": "70416",
+"purchase_date": "2012-03-20",
+"amount": "15",
+"description": 11
+}
+],"id":434,
+"content":[
+{
+"balance": "70401",
+"purchase_date": "2012-03-22",
+"amount": "50",
+"description": 6
+}
+],"id":435,
+"content":[
+{
+"balance": "70351",
+"purchase_date": "2012-03-23",
+"amount": "21",
+"description": 1
+}
+],"id":436,
+"content":[
+{
+"balance": "70330",
+"purchase_date": "2012-03-25",
+"amount": "40",
+"description": 10
+}
+],"id":437,
+"content":[
+{
+"balance": "70290",
+"purchase_date": "2012-03-25",
+"amount": "1",
+"description": 12
+}
+],"id":438,
+"content":[
+{
+"balance": "70289",
+"purchase_date": "2012-03-26",
+"amount": "13",
+"description": 6
+}
+],"id":439,
+"content":[
+{
+"balance": "70276",
+"purchase_date": "2012-03-26",
+"amount": "29",
+"description": 9
+}
+],"id":440,
+"content":[
+{
+"balance": "70247",
+"purchase_date": "2012-03-27",
+"amount": "18",
+"description": 11
+}
+],"id":441,
+"content":[
+{
+"balance": "70229",
+"purchase_date": "2012-03-29",
+"amount": "9",
+"description": 3
+}
+],"id":442,
+"content":[
+{
+"balance": "70220",
+"purchase_date": "2012-04-01",
+"amount": "25",
+"description": 1
+}
+],"id":443,
+"content":[
+{
+"balance": "70195",
+"purchase_date": "2012-04-01",
+"amount": "46",
+"description": 8
+}
+],"id":444,
+"content":[
+{
+"balance": "70149",
+"purchase_date": "2012-04-01",
+"amount": "1000",
+"description": 13
+}
+],"id":445,
+"content":[
+{
+"balance": "69149",
+"purchase_date": "2012-04-01",
+"amount": "40",
+"description": 14
+}
+],"id":446,
+"content":[
+{
+"balance": "69109",
+"purchase_date": "2012-04-01",
+"amount": "100",
+"description": 15
+}
+],
+"id":447,
+"content":[
+{
+"balance": "69009",
+"purchase_date": "2012-04-03",
+"amount": "40",
+"description": 10
+}
+],"id":448,
+"content":[
+{
+"balance": "68969",
+"purchase_date": "2012-04-04",
+"amount": "8",
+"description": 4
+}
+],"id":449,
+"content":[
+{
+"balance": "68961",
+"purchase_date": "2012-04-05",
+"amount": "1",
+"description": 11
+}
+],"id":450,
+"content":[
+{
+"balance": "68960",
+"purchase_date": "2012-04-07",
+"amount": "17",
+"description": 3
+}
+],"id":451,
+"content":[
+{
+"balance": "68943",
+"purchase_date": "2012-04-08",
+"amount": "94",
+"description": 1
+}
+],"id":452,
+"content":[
+{
+"balance": "68849",
+"purchase_date": "2012-04-10",
+"amount": "40",
+"description": 10
+}
+],"id":453,
+"content":[
+{
+"balance": "68809",
+"purchase_date": "2012-04-10",
+"amount": "4",
+"description": 12
+}
+],"id":454,
+"content":[
+{
+"balance": "68805",
+"purchase_date": "2012-04-11",
+"amount": "16",
+"description": 3
+}
+],"id":455,
+"content":[
+{
+"balance": "68789",
+"purchase_date": "2012-04-12",
+"amount": "93",
+"description": 8
+}
+],"id":456,
+"content":[
+{
+"balance": "68696",
+"purchase_date": "2012-04-12",
+"amount": "24",
+"description": 11
+}
+],"id":457,
+"content":[
+{
+"balance": "68672",
+"purchase_date": "2012-04-14",
+"amount": "3",
+"description": 5
+}
+],"id":458,
+"content":[
+{
+"balance": "68669",
+"purchase_date": "2012-04-15",
+"amount": "42",
+"description": 1
+}
+],"id":459,
+"content":[
+{
+"balance": "68627",
+"purchase_date": "2012-04-17",
+"amount": "40",
+"description": 10
+}
+],"id":460,
+"content":[
+{
+"balance": "68587",
+"purchase_date": "2012-04-17",
+"amount": "80",
+"description": 16
+}
+],"id":461,
+"content":[
+{
+"balance": "68507",
+"purchase_date": "2012-04-18",
+"amount": "11",
+"description": 3
+}
+],"id":462,
+"content":[
+{
+"balance": "68496",
+"purchase_date": "2012-04-19",
+"amount": "30",
+"description": 11
+}
+],"id":463,
+"content":[
+{
+"balance": "68466",
+"purchase_date": "2012-04-21",
+"amount": "28",
+"description": 4
+}
+],"id":464,
+"content":[
+{
+"balance": "68438",
+"purchase_date": "2012-04-22",
+"amount": "88",
+"description": 1
+}
+],"id":465,
+"content":[
+{
+"balance": "68350",
+"purchase_date": "2012-04-24",
+"amount": "40",
+"description": 10
+}
+],"id":466,
+"content":[
+{
+"balance": "68310",
+"purchase_date": "2012-04-24",
+"amount": "5",
+"description": 12
+}
+],"id":467,
+"content":[
+{
+"balance": "68305",
+"purchase_date": "2012-04-25",
+"amount": "26",
+"description": 4
+}
+],"id":468,
+"content":[
+{
+"balance": "68279",
+"purchase_date": "2012-04-26",
+"amount": "28",
+"description": 11
+}
+],"id":469,
+"content":[
+{
+"balance": "68251",
+"purchase_date": "2012-04-27",
+"amount": "29",
+"description": 9
+}
+],"id":470,
+"content":[
+{
+"balance": "68222",
+"purchase_date": "2012-04-28",
+"amount": "43",
+"description": 3
+}
+],"id":471,
+"content":[
+{
+"balance": "68179",
+"purchase_date": "2012-04-29",
+"amount": "75",
+"description": 1
+}
+],"id":472,
+"content":[
+{
+"balance": "68104",
+"purchase_date": "2012-05-02",
+"amount": "96",
+"description": 8
+}
+],"id":473,
+"content":[
+{
+"balance": "68008",
+"purchase_date": "2012-05-02",
+"amount": "40",
+"description": 10
+}
+],"id":474,
+"content":[
+{
+"balance": "67968",
+"purchase_date": "2012-05-03",
+"amount": "24",
+"description": 3
+}
+],"id":475,
+"content":[
+{
+"balance": "67944",
+"purchase_date": "2012-05-03",
+"amount": "1000",
+"description": 13
+}
+],"id":476,
+"content":[
+{
+"balance": "66944",
+"purchase_date": "2012-05-03",
+"amount": "40",
+"description": 14
+}
+],"id":477,
+"content":[
+{
+"balance": "66904",
+"purchase_date": "2012-05-03",
+"amount": "100",
+"description": 15
+}
+],
+"id":478,
+"content":[
+{
+"balance": "66804",
+"purchase_date": "2012-05-04",
+"amount": "2",
+"description": 11
+}
+],"id":479,
+"content":[
+{
+"balance": "66802",
+"purchase_date": "2012-05-06",
+"amount": "40",
+"description": 7
+}
+],"id":480,
+"content":[
+{
+"balance": "66762",
+"purchase_date": "2012-05-07",
+"amount": "6",
+"description": 1
+}
+],"id":481,
+"content":[
+{
+"balance": "66756",
+"purchase_date": "2012-05-09",
+"amount": "40",
+"description": 10
+}
+],"id":482,
+"content":[
+{
+"balance": "66716",
+"purchase_date": "2012-05-09",
+"amount": "5",
+"description": 12
+}
+],"id":483,
+"content":[
+{
+"balance": "66711",
+"purchase_date": "2012-05-10",
+"amount": "4",
+"description": 7
+}
+],"id":484,
+"content":[
+{
+"balance": "66707",
+"purchase_date": "2012-05-11",
+"amount": "17",
+"description": 11
+}
+],"id":485,
+"content":[
+{
+"balance": "66690",
+"purchase_date": "2012-05-13",
+"amount": "7",
+"description": 7
+}
+],"id":486,
+"content":[
+{
+"balance": "66683",
+"purchase_date": "2012-05-13",
+"amount": "111",
+"description": 8
+}
+],"id":487,
+"content":[
+{
+"balance": "66572",
+"purchase_date": "2012-05-14",
+"amount": "99",
+"description": 1
+}
+],"id":488,
+"content":[
+{
+"balance": "66473",
+"purchase_date": "2012-05-16",
+"amount": "40",
+"description": 10
+}
+],"id":489,
+"content":[
+{
+"balance": "66433",
+"purchase_date": "2012-05-17",
+"amount": "43",
+"description": 3
+}
+],"id":490,
+"content":[
+{
+"balance": "66390",
+"purchase_date": "2012-05-18",
+"amount": "7",
+"description": 11
+}
+],"id":491,
+"content":[
+{
+"balance": "66383",
+"purchase_date": "2012-05-18",
+"amount": "80",
+"description": 16
+}
+],"id":492,
+"content":[
+{
+"balance": "66303",
+"purchase_date": "2012-05-20",
+"amount": "31",
+"description": 5
+}
+],"id":493,
+"content":[
+{
+"balance": "66272",
+"purchase_date": "2012-05-21",
+"amount": "53",
+"description": 1
+}
+],"id":494,
+"content":[
+{
+"balance": "66219",
+"purchase_date": "2012-05-23",
+"amount": "40",
+"description": 10
+}
+],"id":495,
+"content":[
+{
+"balance": "66179",
+"purchase_date": "2012-05-23",
+"amount": "5",
+"description": 12
+}
+],"id":496,
+"content":[
+{
+"balance": "66174",
+"purchase_date": "2012-05-24",
+"amount": "49",
+"description": 4
+}
+],"id":497,
+"content":[
+{
+"balance": "66125",
+"purchase_date": "2012-05-25",
+"amount": "22",
+"description": 11
+}
+],"id":498,
+"content":[
+{
+"balance": "66103",
+"purchase_date": "2012-05-27",
+"amount": "17",
+"description": 4
+}
+],"id":499,
+"content":[
+{
+"balance": "66086",
+"purchase_date": "2012-05-28",
+"amount": "72",
+"description": 1
+}
+],"id":500,
+"content":[
+{
+"balance": "66014",
+"purchase_date": "2012-05-28",
+"amount": "9",
+"description": 9
+}
+],"id":501,
+"content":[
+{
+"balance": "66005",
+"purchase_date": "2012-06-01",
+"amount": "40",
+"description": 10
+}
+],"id":502,
+"content":[
+{
+"balance": "65965",
+"purchase_date": "2012-06-02",
+"amount": "22",
+"description": 4
+}
+],"id":503,
+"content":[
+{
+"balance": "65943",
+"purchase_date": "2012-06-03",
+"amount": "46",
+"description": 8
+}
+],"id":504,
+"content":[
+{
+"balance": "65897",
+"purchase_date": "2012-06-03",
+"amount": "1",
+"description": 11
+}
+],"id":505,
+"content":[
+{
+"balance": "65896",
+"purchase_date": "2012-06-05",
+"amount": "41",
+"description": 6
+}
+],"id":506,
+"content":[
+{
+"balance": "65855",
+"purchase_date": "2012-06-05",
+"amount": "1000",
+"description": 13
+}
+],"id":507,
+"content":[
+{
+"balance": "64855",
+"purchase_date": "2012-06-05",
+"amount": "40",
+"description": 14
+}
+],"id":508,
+"content":[
+{
+"balance": "64815",
+"purchase_date": "2012-06-05",
+"amount": "100",
+"description": 15
+}
+],
+"id":509,
+"content":[
+{
+"balance": "64715",
+"purchase_date": "2012-06-06",
+"amount": "54",
+"description": 1
+}
+],"id":510,
+"content":[
+{
+"balance": "64661",
+"purchase_date": "2012-06-08",
+"amount": "40",
+"description": 10
+}
+],"id":511,
+"content":[
+{
+"balance": "64621",
+"purchase_date": "2012-06-08",
+"amount": "3",
+"description": 12
+}
+],"id":512,
+"content":[
+{
+"balance": "64618",
+"purchase_date": "2012-06-09",
+"amount": "1",
+"description": 4
+}
+],"id":513,
+"content":[
+{
+"balance": "64617",
+"purchase_date": "2012-06-10",
+"amount": "24",
+"description": 11
+}
+],"id":514,
+"content":[
+{
+"balance": "64593",
+"purchase_date": "2012-06-12",
+"amount": "45",
+"description": 6
+}
+],"id":515,
+"content":[
+{
+"balance": "64548",
+"purchase_date": "2012-06-13",
+"amount": "28",
+"description": 1
+}
+],"id":516,
+"content":[
+{
+"balance": "64520",
+"purchase_date": "2012-06-14",
+"amount": "128",
+"description": 8
+}
+],"id":517,
+"content":[
+{
+"balance": "64392",
+"purchase_date": "2012-06-15",
+"amount": "40",
+"description": 10
+}
+],"id":518,
+"content":[
+{
+"balance": "64352",
+"purchase_date": "2012-06-16",
+"amount": "46",
+"description": 4
+}
+],"id":519,
+"content":[
+{
+"balance": "64306",
+"purchase_date": "2012-06-17",
+"amount": "23",
+"description": 11
+}
+],"id":520,
+"content":[
+{
+"balance": "64283",
+"purchase_date": "2012-06-19",
+"amount": "17",
+"description": 4
+}
+],"id":521,
+"content":[
+{
+"balance": "64266",
+"purchase_date": "2012-06-19",
+"amount": "80",
+"description": 16
+}
+],"id":522,
+"content":[
+{
+"balance": "64186",
+"purchase_date": "2012-06-20",
+"amount": "16",
+"description": 1
+}
+],"id":523,
+"content":[
+{
+"balance": "64170",
+"purchase_date": "2012-06-22",
+"amount": "40",
+"description": 10
+}
+],"id":524,
+"content":[
+{
+"balance": "64130",
+"purchase_date": "2012-06-22",
+"amount": "5",
+"description": 12
+}
+],"id":525,
+"content":[
+{
+"balance": "64125",
+"purchase_date": "2012-06-23",
+"amount": "2",
+"description": 5
+}
+],"id":526,
+"content":[
+{
+"balance": "64123",
+"purchase_date": "2012-06-24",
+"amount": "2",
+"description": 11
+}
+],"id":527,
+"content":[
+{
+"balance": "64121",
+"purchase_date": "2012-06-26",
+"amount": "4",
+"description": 7
+}
+],"id":528,
+"content":[
+{
+"balance": "64117",
+"purchase_date": "2012-06-27",
+"amount": "9",
+"description": 1
+}
+],"id":529,
+"content":[
+{
+"balance": "64108",
+"purchase_date": "2012-06-29",
+"amount": "17",
+"description": 9
+}
+],"id":530,
+"content":[
+{
+"balance": "64091",
+"purchase_date": "2012-06-29",
+"amount": "40",
+"description": 10
+}
+],"id":531,
+"content":[
+{
+"balance": "64051",
+"purchase_date": "2012-07-01",
+"amount": "32",
+"description": 3
+}
+],"id":532,
+"content":[
+{
+"balance": "64019",
+"purchase_date": "2012-07-02",
+"amount": "11",
+"description": 11
+}
+],"id":533,
+"content":[
+{
+"balance": "64008",
+"purchase_date": "2012-07-04",
+"amount": "17",
+"description": 3
+}
+],"id":534,
+"content":[
+{
+"balance": "63991",
+"purchase_date": "2012-07-04",
+"amount": "124",
+"description": 8
+}
+],"id":535,
+"content":[
+{
+"balance": "63867",
+"purchase_date": "2012-07-05",
+"amount": "82",
+"description": 1
+}
+],"id":536,
+"content":[
+{
+"balance": "63785",
+"purchase_date": "2012-07-07",
+"amount": "40",
+"description": 10
+}
+],"id":537,
+"content":[
+{
+"balance": "63745",
+"purchase_date": "2012-07-07",
+"amount": "1",
+"description": 12
+}
+],"id":538,
+"content":[
+{
+"balance": "63744",
+"purchase_date": "2012-07-07",
+"amount": "1000",
+"description": 13
+}
+],"id":539,
+"content":[
+{
+"balance": "62744",
+"purchase_date": "2012-07-07",
+"amount": "40",
+"description": 14
+}
+],"id":540,
+"content":[
+{
+"balance": "62704",
+"purchase_date": "2012-07-07",
+"amount": "100",
+"description": 15
+}
+],
+"id":541,
+"content":[
+{
+"balance": "62604",
+"purchase_date": "2012-07-08",
+"amount": "42",
+"description": 7
+}
+],"id":542,
+"content":[
+{
+"balance": "62562",
+"purchase_date": "2012-07-09",
+"amount": "6",
+"description": 11
+}
+],"id":543,
+"content":[
+{
+"balance": "62556",
+"purchase_date": "2012-07-11",
+"amount": "28",
+"description": 4
+}
+],"id":544,
+"content":[
+{
+"balance": "62528",
+"purchase_date": "2012-07-12",
+"amount": "29",
+"description": 1
+}
+],"id":545,
+"content":[
+{
+"balance": "62499",
+"purchase_date": "2012-07-14",
+"amount": "40",
+"description": 10
+}
+],"id":546,
+"content":[
+{
+"balance": "62459",
+"purchase_date": "2012-07-15",
+"amount": "26",
+"description": 7
+}
+],"id":547,
+"content":[
+{
+"balance": "62433",
+"purchase_date": "2012-07-15",
+"amount": "18",
+"description": 8
+}
+],"id":548,
+"content":[
+{
+"balance": "62415",
+"purchase_date": "2012-07-16",
+"amount": "10",
+"description": 11
+}
+],"id":549,
+"content":[
+{
+"balance": "62405",
+"purchase_date": "2012-07-18",
+"amount": "27",
+"description": 4
+}
+],"id":550,
+"content":[
+{
+"balance": "62378",
+"purchase_date": "2012-07-19",
+"amount": "77",
+"description": 1
+}
+],"id":551,
+"content":[
+{
+"balance": "62301",
+"purchase_date": "2012-07-20",
+"amount": "80",
+"description": 16
+}
+],"id":552,
+"content":[
+{
+"balance": "62221",
+"purchase_date": "2012-07-21",
+"amount": "40",
+"description": 10
+}
+],"id":553,
+"content":[
+{
+"balance": "62181",
+"purchase_date": "2012-07-21",
+"amount": "2",
+"description": 12
+}
+],"id":554,
+"content":[
+{
+"balance": "62179",
+"purchase_date": "2012-07-22",
+"amount": "18",
+"description": 3
+}
+],"id":555,
+"content":[
+{
+"balance": "62161",
+"purchase_date": "2012-07-23",
+"amount": "5",
+"description": 11
+}
+],"id":556,
+"content":[
+{
+"balance": "62156",
+"purchase_date": "2012-07-25",
+"amount": "42",
+"description": 3
+}
+],"id":557,
+"content":[
+{
+"balance": "62114",
+"purchase_date": "2012-07-26",
+"amount": "59",
+"description": 1
+}
+],"id":558,
+"content":[
+{
+"balance": "62055",
+"purchase_date": "2012-07-28",
+"amount": "40",
+"description": 10
+}
+],"id":559,
+"content":[
+{
+"balance": "62015",
+"purchase_date": "2012-07-29",
+"amount": "12",
+"description": 7
+}
+],"id":560,
+"content":[
+{
+"balance": "62003",
+"purchase_date": "2012-08-01",
+"amount": "39",
+"description": 9
+}
+],"id":561,
+"content":[
+{
+"balance": "61964",
+"purchase_date": "2012-08-01",
+"amount": "29",
+"description": 11
+}
+],"id":562,
+"content":[
+{
+"balance": "61935",
+"purchase_date": "2012-08-03",
+"amount": "35",
+"description": 3
+}
+],"id":563,
+"content":[
+{
+"balance": "61900",
+"purchase_date": "2012-08-04",
+"amount": "68",
+"description": 1
+}
+],"id":564,
+"content":[
+{
+"balance": "61832",
+"purchase_date": "2012-08-05",
+"amount": "40",
+"description": 8
+}
+],"id":565,
+"content":[
+{
+"balance": "61792",
+"purchase_date": "2012-08-06",
+"amount": "40",
+"description": 10
+}
+],"id":566,
+"content":[
+{
+"balance": "61752",
+"purchase_date": "2012-08-06",
+"amount": "4",
+"description": 12
+}
+],"id":567,
+"content":[
+{
+"balance": "61748",
+"purchase_date": "2012-08-07",
+"amount": "15",
+"description": 3
+}
+],"id":568,
+"content":[
+{
+"balance": "61733",
+"purchase_date": "2012-08-08",
+"amount": "19",
+"description": 11
+}
+],"id":569,
+"content":[
+{
+"balance": "61714",
+"purchase_date": "2012-08-09",
+"amount": "1000",
+"description": 13
+}
+],"id":570,
+"content":[
+{
+"balance": "60714",
+"purchase_date": "2012-08-09",
+"amount": "40",
+"description": 14
+}
+],"id":571,
+"content":[
+{
+"balance": "60674",
+"purchase_date": "2012-08-09",
+"amount": "100",
+"description": 15
+}
+],
+"id":572,
+"content":[
+{
+"balance": "60574",
+"purchase_date": "2012-08-10",
+"amount": "29",
+"description": 7
+}
+],"id":573,
+"content":[
+{
+"balance": "60545",
+"purchase_date": "2012-08-11",
+"amount": "35",
+"description": 1
+}
+],"id":574,
+"content":[
+{
+"balance": "60510",
+"purchase_date": "2012-08-13",
+"amount": "40",
+"description": 10
+}
+],"id":575,
+"content":[
+{
+"balance": "60470",
+"purchase_date": "2012-08-14",
+"amount": "28",
+"description": 3
+}
+],"id":576,
+"content":[
+{
+"balance": "60442",
+"purchase_date": "2012-08-15",
+"amount": "5",
+"description": 11
+}
+],"id":577,
+"content":[
+{
+"balance": "60437",
+"purchase_date": "2012-08-16",
+"amount": "41",
+"description": 8
+}
+],"id":578,
+"content":[
+{
+"balance": "60396",
+"purchase_date": "2012-08-17",
+"amount": "47",
+"description": 3
+}
+],"id":579,
+"content":[
+{
+"balance": "60349",
+"purchase_date": "2012-08-18",
+"amount": "84",
+"description": 1
+}
+],"id":580,
+"content":[
+{
+"balance": "60265",
+"purchase_date": "2012-08-20",
+"amount": "40",
+"description": 10
+}
+],"id":581,
+"content":[
+{
+"balance": "60225",
+"purchase_date": "2012-08-20",
+"amount": "4",
+"description": 12
+}
+],"id":582,
+"content":[
+{
+"balance": "60221",
+"purchase_date": "2012-08-21",
+"amount": "16",
+"description": 4
+}
+],"id":583,
+"content":[
+{
+"balance": "60205",
+"purchase_date": "2012-08-21",
+"amount": "80",
+"description": 16
+}
+],"id":584,
+"content":[
+{
+"balance": "60125",
+"purchase_date": "2012-08-22",
+"amount": "13",
+"description": 11
+}
+],"id":585,
+"content":[
+{
+"balance": "60112",
+"purchase_date": "2012-08-24",
+"amount": "15",
+"description": 4
+}
+],"id":586,
+"content":[
+{
+"balance": "60097",
+"purchase_date": "2012-08-25",
+"amount": "38",
+"description": 1
+}
+],"id":587,
+"content":[
+{
+"balance": "60059",
+"purchase_date": "2012-08-27",
+"amount": "40",
+"description": 10
+}
+],"id":588,
+"content":[
+{
+"balance": "60019",
+"purchase_date": "2012-08-28",
+"amount": "26",
+"description": 3
+}
+],"id":589,
+"content":[
+{
+"balance": "59993",
+"purchase_date": "2012-08-29",
+"amount": "1",
+"description": 11
+}
+],"id":590,
+"content":[
+{
+"balance": "59992",
+"purchase_date": "2012-09-02",
+"amount": "16",
+"description": 5
+}
+],"id":591,
+"content":[
+{
+"balance": "59976",
+"purchase_date": "2012-09-02",
+"amount": "31",
+"description": 9
+}
+],"id":592,
+"content":[
+{
+"balance": "59945",
+"purchase_date": "2012-09-03",
+"amount": "48",
+"description": 1
+}
+],"id":593,
+"content":[
+{
+"balance": "59897",
+"purchase_date": "2012-09-05",
+"amount": "40",
+"description": 10
+}
+],"id":594,
+"content":[
+{
+"balance": "59857",
+"purchase_date": "2012-09-05",
+"amount": "3",
+"description": 12
+}
+],"id":595,
+"content":[
+{
+"balance": "59854",
+"purchase_date": "2012-09-06",
+"amount": "50",
+"description": 5
+}
+],"id":596,
+"content":[
+{
+"balance": "59804",
+"purchase_date": "2012-09-06",
+"amount": "16",
+"description": 8
+}
+],"id":597,
+"content":[
+{
+"balance": "59788",
+"purchase_date": "2012-09-07",
+"amount": "4",
+"description": 11
+}
+],"id":598,
+"content":[
+{
+"balance": "59784",
+"purchase_date": "2012-09-09",
+"amount": "30",
+"description": 7
+}
+],"id":599,
+"content":[
+{
+"balance": "59754",
+"purchase_date": "2012-09-10",
+"amount": "65",
+"description": 1
+}
+],"id":600,
+"content":[
+{
+"balance": "59689",
+"purchase_date": "2012-09-11",
+"amount": "1000",
+"description": 13
+}
+],"id":601,
+"content":[
+{
+"balance": "58689",
+"purchase_date": "2012-09-11",
+"amount": "40",
+"description": 14
+}
+],"id":602,
+"content":[
+{
+"balance": "58649",
+"purchase_date": "2012-09-11",
+"amount": "100",
+"description": 15
+}
+],
+"id":603,
+"content":[
+{
+"balance": "58549",
+"purchase_date": "2012-09-12",
+"amount": "40",
+"description": 10
+}
+],"id":604,
+"content":[
+{
+"balance": "58509",
+"purchase_date": "2012-09-13",
+"amount": "30",
+"description": 4
+}
+],"id":605,
+"content":[
+{
+"balance": "58479",
+"purchase_date": "2012-09-14",
+"amount": "6",
+"description": 11
+}
+],"id":606,
+"content":[
+{
+"balance": "58473",
+"purchase_date": "2012-09-16",
+"amount": "40",
+"description": 6
+}
+],"id":607,
+"content":[
+{
+"balance": "58433",
+"purchase_date": "2012-09-17",
+"amount": "34",
+"description": 1
+}
+],"id":608,
+"content":[
+{
+"balance": "58399",
+"purchase_date": "2012-09-17",
+"amount": "1",
+"description": 8
+}
+],"id":609,
+"content":[
+{
+"balance": "58398",
+"purchase_date": "2012-09-19",
+"amount": "40",
+"description": 10
+}
+],"id":610,
+"content":[
+{
+"balance": "58358",
+"purchase_date": "2012-09-19",
+"amount": "5",
+"description": 12
+}
+],"id":611,
+"content":[
+{
+"balance": "58353",
+"purchase_date": "2012-09-20",
+"amount": "21",
+"description": 5
+}
+],"id":612,
+"content":[
+{
+"balance": "58332",
+"purchase_date": "2012-09-21",
+"amount": "27",
+"description": 11
+}
+],"id":613,
+"content":[
+{
+"balance": "58305",
+"purchase_date": "2012-09-22",
+"amount": "80",
+"description": 16
+}
+],"id":614,
+"content":[
+{
+"balance": "58225",
+"purchase_date": "2012-09-23",
+"amount": "39",
+"description": 6
+}
+],"id":615,
+"content":[
+{
+"balance": "58186",
+"purchase_date": "2012-09-24",
+"amount": "39",
+"description": 1
+}
+],"id":616,
+"content":[
+{
+"balance": "58147",
+"purchase_date": "2012-09-26",
+"amount": "40",
+"description": 10
+}
+],"id":617,
+"content":[
+{
+"balance": "58107",
+"purchase_date": "2012-09-27",
+"amount": "37",
+"description": 4
+}
+],"id":618,
+"content":[
+{
+"balance": "58070",
+"purchase_date": "2012-09-28",
+"amount": "30",
+"description": 11
+}
+],"id":619,
+"content":[
+{
+"balance": "58040",
+"purchase_date": "2012-10-01",
+"amount": "47",
+"description": 5
+}
+],"id":620,
+"content":[
+{
+"balance": "57993",
+"purchase_date": "2012-10-02",
+"amount": "89",
+"description": 1
+}
+],"id":621,
+"content":[
+{
+"balance": "57904",
+"purchase_date": "2012-10-03",
+"amount": "40",
+"description": 9
+}
+],"id":622,
+"content":[
+{
+"balance": "57864",
+"purchase_date": "2012-10-04",
+"amount": "40",
+"description": 10
+}
+],"id":623,
+"content":[
+{
+"balance": "57824",
+"purchase_date": "2012-10-04",
+"amount": "3",
+"description": 12
+}
+],"id":624,
+"content":[
+{
+"balance": "57821",
+"purchase_date": "2012-10-05",
+"amount": "36",
+"description": 3
+}
+],"id":625,
+"content":[
+{
+"balance": "57785",
+"purchase_date": "2012-10-06",
+"amount": "3",
+"description": 11
+}
+],"id":626,
+"content":[
+{
+"balance": "57782",
+"purchase_date": "2012-10-07",
+"amount": "135",
+"description": 8
+}
+],"id":627,
+"content":[
+{
+"balance": "57647",
+"purchase_date": "2012-10-08",
+"amount": "40",
+"description": 7
+}
+],"id":628,
+"content":[
+{
+"balance": "57607",
+"purchase_date": "2012-10-09",
+"amount": "35",
+"description": 1
+}
+],"id":629,
+"content":[
+{
+"balance": "57572",
+"purchase_date": "2012-10-11",
+"amount": "40",
+"description": 10
+}
+],"id":630,
+"content":[
+{
+"balance": "57532",
+"purchase_date": "2012-10-12",
+"amount": "18",
+"description": 7
+}
+],"id":631,
+"content":[
+{
+"balance": "57514",
+"purchase_date": "2012-10-13",
+"amount": "6",
+"description": 11
+}
+],"id":632,
+"content":[
+{
+"balance": "57508",
+"purchase_date": "2012-10-13",
+"amount": "1000",
+"description": 13
+}
+],"id":633,
+"content":[
+{
+"balance": "56508",
+"purchase_date": "2012-10-13",
+"amount": "40",
+"description": 14
+}
+],"id":634,
+"content":[
+{
+"balance": "56468",
+"purchase_date": "2012-10-13",
+"amount": "100",
+"description": 15
+}
+],
+"id":635,
+"content":[
+{
+"balance": "56368",
+"purchase_date": "2012-10-15",
+"amount": "46",
+"description": 4
+}
+],"id":636,
+"content":[
+{
+"balance": "56322",
+"purchase_date": "2012-10-16",
+"amount": "62",
+"description": 1
+}
+],"id":637,
+"content":[
+{
+"balance": "56260",
+"purchase_date": "2012-10-18",
+"amount": "26",
+"description": 8
+}
+],"id":638,
+"content":[
+{
+"balance": "56234",
+"purchase_date": "2012-10-18",
+"amount": "40",
+"description": 10
+}
+],"id":639,
+"content":[
+{
+"balance": "56194",
+"purchase_date": "2012-10-18",
+"amount": "5",
+"description": 12
+}
+],"id":640,
+"content":[
+{
+"balance": "56189",
+"purchase_date": "2012-10-19",
+"amount": "32",
+"description": 6
+}
+],"id":641,
+"content":[
+{
+"balance": "56157",
+"purchase_date": "2012-10-20",
+"amount": "29",
+"description": 11
+}
+],"id":642,
+"content":[
+{
+"balance": "56128",
+"purchase_date": "2012-10-22",
+"amount": "49",
+"description": 7
+}
+],"id":643,
+"content":[
+{
+"balance": "56079",
+"purchase_date": "2012-10-23",
+"amount": "5",
+"description": 1
+}
+],"id":644,
+"content":[
+{
+"balance": "56074",
+"purchase_date": "2012-10-23",
+"amount": "80",
+"description": 16
+}
+],"id":645,
+"content":[
+{
+"balance": "55994",
+"purchase_date": "2012-10-25",
+"amount": "40",
+"description": 10
+}
+],"id":646,
+"content":[
+{
+"balance": "55954",
+"purchase_date": "2012-10-26",
+"amount": "4",
+"description": 7
+}
+],"id":647,
+"content":[
+{
+"balance": "55950",
+"purchase_date": "2012-10-27",
+"amount": "26",
+"description": 11
+}
+],"id":648,
+"content":[
+{
+"balance": "55924",
+"purchase_date": "2012-10-29",
+"amount": "42",
+"description": 5
+}
+],"id":649,
+"content":[
+{
+"balance": "55882",
+"purchase_date": "2012-11-01",
+"amount": "25",
+"description": 1
+}
+],"id":650,
+"content":[
+{
+"balance": "55857",
+"purchase_date": "2012-11-03",
+"amount": "40",
+"description": 10
+}
+],"id":651,
+"content":[
+{
+"balance": "55817",
+"purchase_date": "2012-11-03",
+"amount": "1",
+"description": 12
+}
+],"id":652,
+"content":[
+{
+"balance": "55816",
+"purchase_date": "2012-11-04",
+"amount": "22",
+"description": 7
+}
+],"id":653,
+"content":[
+{
+"balance": "55794",
+"purchase_date": "2012-11-04",
+"amount": "27",
+"description": 9
+}
+],"id":654,
+"content":[
+{
+"balance": "55767",
+"purchase_date": "2012-11-05",
+"amount": "21",
+"description": 11
+}
+],"id":655,
+"content":[
+{
+"balance": "55746",
+"purchase_date": "2012-11-07",
+"amount": "4",
+"description": 5
+}
+],"id":656,
+"content":[
+{
+"balance": "55742",
+"purchase_date": "2012-11-08",
+"amount": "33",
+"description": 1
+}
+],"id":657,
+"content":[
+{
+"balance": "55709",
+"purchase_date": "2012-11-08",
+"amount": "92",
+"description": 8
+}
+],"id":658,
+"content":[
+{
+"balance": "55617",
+"purchase_date": "2012-11-10",
+"amount": "40",
+"description": 10
+}
+],"id":659,
+"content":[
+{
+"balance": "55577",
+"purchase_date": "2012-11-11",
+"amount": "5",
+"description": 5
+}
+],"id":660,
+"content":[
+{
+"balance": "55572",
+"purchase_date": "2012-11-12",
+"amount": "8",
+"description": 11
+}
+],"id":661,
+"content":[
+{
+"balance": "55564",
+"purchase_date": "2012-11-14",
+"amount": "1",
+"description": 7
+}
+],"id":662,
+"content":[
+{
+"balance": "55563",
+"purchase_date": "2012-11-15",
+"amount": "66",
+"description": 1
+}
+],"id":663,
+"content":[
+{
+"balance": "55497",
+"purchase_date": "2012-11-15",
+"amount": "1000",
+"description": 13
+}
+],"id":664,
+"content":[
+{
+"balance": "54497",
+"purchase_date": "2012-11-15",
+"amount": "40",
+"description": 14
+}
+],"id":665,
+"content":[
+{
+"balance": "54457",
+"purchase_date": "2012-11-15",
+"amount": "100",
+"description": 15
+}
+],
+"id":666,
+"content":[
+{
+"balance": "54357",
+"purchase_date": "2012-11-17",
+"amount": "40",
+"description": 10
+}
+],"id":667,
+"content":[
+{
+"balance": "54317",
+"purchase_date": "2012-11-17",
+"amount": "3",
+"description": 12
+}
+],"id":668,
+"content":[
+{
+"balance": "54314",
+"purchase_date": "2012-11-18",
+"amount": "23",
+"description": 7
+}
+],"id":669,
+"content":[
+{
+"balance": "54291",
+"purchase_date": "2012-11-19",
+"amount": "118",
+"description": 8
+}
+],"id":670,
+"content":[
+{
+"balance": "54173",
+"purchase_date": "2012-11-19",
+"amount": "7",
+"description": 11
+}
+],"id":671,
+"content":[
+{
+"balance": "54166",
+"purchase_date": "2012-11-21",
+"amount": "49",
+"description": 5
+}
+],"id":672,
+"content":[
+{
+"balance": "54117",
+"purchase_date": "2012-11-22",
+"amount": "30",
+"description": 1
+}
+],"id":673,
+"content":[
+{
+"balance": "54087",
+"purchase_date": "2012-11-24",
+"amount": "40",
+"description": 10
+}
+],"id":674,
+"content":[
+{
+"balance": "54047",
+"purchase_date": "2012-11-24",
+"amount": "80",
+"description": 16
+}
+],"id":675,
+"content":[
+{
+"balance": "53967",
+"purchase_date": "2012-11-25",
+"amount": "40",
+"description": 6
+}
+],"id":676,
+"content":[
+{
+"balance": "53927",
+"purchase_date": "2012-11-26",
+"amount": "24",
+"description": 11
+}
+],"id":677,
+"content":[
+{
+"balance": "53903",
+"purchase_date": "2012-11-28",
+"amount": "8",
+"description": 4
+}
+],"id":678,
+"content":[
+{
+"balance": "53895",
+"purchase_date": "2012-11-29",
+"amount": "53",
+"description": 1
+}
+],"id":679,
+"content":[
+{
+"balance": "53842",
+"purchase_date": "2012-12-02",
+"amount": "40",
+"description": 10
+}
+],"id":680,
+"content":[
+{
+"balance": "53802",
+"purchase_date": "2012-12-02",
+"amount": "2",
+"description": 12
+}
+],"id":681,
+"content":[
+{
+"balance": "53800",
+"purchase_date": "2012-12-03",
+"amount": "22",
+"description": 5
+}
+],"id":682,
+"content":[
+{
+"balance": "53778",
+"purchase_date": "2012-12-04",
+"amount": "27",
+"description": 11
+}
+],"id":683,
+"content":[
+{
+"balance": "53751",
+"purchase_date": "2012-12-05",
+"amount": "36",
+"description": 9
+}
+],"id":684,
+"content":[
+{
+"balance": "53715",
+"purchase_date": "2012-12-06",
+"amount": "31",
+"description": 7
+}
+],"id":685,
+"content":[
+{
+"balance": "53684",
+"purchase_date": "2012-12-07",
+"amount": "56",
+"description": 1
+}
+],"id":686,
+"content":[
+{
+"balance": "53628",
+"purchase_date": "2012-12-09",
+"amount": "122",
+"description": 8
+}
+],"id":687,
+"content":[
+{
+"balance": "53506",
+"purchase_date": "2012-12-09",
+"amount": "40",
+"description": 10
+}
+],"id":688,
+"content":[
+{
+"balance": "53466",
+"purchase_date": "2012-12-10",
+"amount": "13",
+"description": 6
+}
+],"id":689,
+"content":[
+{
+"balance": "53453",
+"purchase_date": "2012-12-11",
+"amount": "18",
+"description": 11
+}
+],"id":690,
+"content":[
+{
+"balance": "53435",
+"purchase_date": "2012-12-13",
+"amount": "33",
+"description": 7
+}
+],"id":691,
+"content":[
+{
+"balance": "53402",
+"purchase_date": "2012-12-14",
+"amount": "92",
+"description": 1
+}
+],"id":692,
+"content":[
+{
+"balance": "53310",
+"purchase_date": "2012-12-16",
+"amount": "40",
+"description": 10
+}
+],"id":693,
+"content":[
+{
+"balance": "53270",
+"purchase_date": "2012-12-16",
+"amount": "4",
+"description": 12
+}
+],"id":694,
+"content":[
+{
+"balance": "53266",
+"purchase_date": "2012-12-17",
+"amount": "3",
+"description": 4
+}
+],"id":695,
+"content":[
+{
+"balance": "53263",
+"purchase_date": "2012-12-17",
+"amount": "1000",
+"description": 13
+}
+],"id":696,
+"content":[
+{
+"balance": "52263",
+"purchase_date": "2012-12-17",
+"amount": "40",
+"description": 14
+}
+],"id":697,
+"content":[
+{
+"balance": "52223",
+"purchase_date": "2012-12-17",
+"amount": "100",
+"description": 15
+}
+],
+"id":698,
+"content":[
+{
+"balance": "52123",
+"purchase_date": "2012-12-18",
+"amount": "11",
+"description": 11
+}
+],"id":699,
+"content":[
+{
+"balance": "52112",
+"purchase_date": "2012-12-20",
+"amount": "4",
+"description": 7
+}
+],"id":700,
+"content":[
+{
+"balance": "52108",
+"purchase_date": "2012-12-20",
+"amount": "15",
+"description": 8
+}
+],"id":701,
+"content":[
+{
+"balance": "52093",
+"purchase_date": "2012-12-21",
+"amount": "100",
+"description": 1
+}
+],"id":702,
+"content":[
+{
+"balance": "51993",
+"purchase_date": "2012-12-23",
+"amount": "40",
+"description": 10
+}
+],"id":703,
+"content":[
+{
+"balance": "51953",
+"purchase_date": "2012-12-24",
+"amount": "17",
+"description": 3
+}
+],"id":704,
+"content":[
+{
+"balance": "51936",
+"purchase_date": "2012-12-25",
+"amount": "2",
+"description": 11
+}
+],"id":705,
+"content":[
+{
+"balance": "51934",
+"purchase_date": "2012-12-25",
+"amount": "80",
+"description": 16
+}
+],"id":706,
+"content":[
+{
+"balance": "51854",
+"purchase_date": "2012-12-27",
+"amount": "44",
+"description": 5
+}
+],"id":707,
+"content":[
+{
+"balance": "51810",
+"purchase_date": "2012-12-28",
+"amount": "87",
+"description": 1
+}
+],"id":708,
+"content":[
+{
+"balance": "51723",
+"purchase_date": "2012-01-01",
+"amount": "40",
+"description": 10
+}
+],"id":709,
+"content":[
+{
+"balance": "51683",
+"purchase_date": "2012-01-01",
+"amount": "5",
+"description": 12
+}
+],"id":710,
+"content":[
+{
+"balance": "51678",
+"purchase_date": "2012-01-02",
+"amount": "1",
+"description": 3
+}
+],"id":711,
+"content":[
+{
+"balance": "51677",
+"purchase_date": "2012-01-03",
+"amount": "4",
+"description": 11
+}
+],"id":712,
+"content":[
+{
+"balance": "51673",
+"purchase_date": "2012-01-05",
+"amount": "20",
+"description": 3
+}
+],"id":713,
+"content":[
+{
+"balance": "51653",
+"purchase_date": "2012-01-06",
+"amount": "44",
+"description": 1
+}
+],"id":714,
+"content":[
+{
+"balance": "51609",
+"purchase_date": "2012-01-06",
+"amount": "32",
+"description": 9
+}
+],"id":715,
+"content":[
+{
+"balance": "51577",
+"purchase_date": "2012-01-08",
+"amount": "40",
+"description": 10
+}
+],"id":716,
+"content":[
+{
+"balance": "51537",
+"purchase_date": "2012-01-09",
+"amount": "32",
+"description": 5
+}
+],"id":717,
+"content":[
+{
+"balance": "51505",
+"purchase_date": "2012-01-10",
+"amount": "117",
+"description": 8
+}
+],"id":718,
+"content":[
+{
+"balance": "51388",
+"purchase_date": "2012-01-10",
+"amount": "20",
+"description": 11
+}
+],"id":719,
+"content":[
+{
+"balance": "51368",
+"purchase_date": "2012-01-12",
+"amount": "22",
+"description": 7
+}
+],"id":720,
+"content":[
+{
+"balance": "51346",
+"purchase_date": "2012-01-13",
+"amount": "71",
+"description": 1
+}
+],"id":721,
+"content":[
+{
+"balance": "51275",
+"purchase_date": "2012-01-15",
+"amount": "40",
+"description": 10
+}
+],"id":722,
+"content":[
+{
+"balance": "51235",
+"purchase_date": "2012-01-15",
+"amount": "2",
+"description": 12
+}
+],"id":723,
+"content":[
+{
+"balance": "51233",
+"purchase_date": "2012-01-16",
+"amount": "42",
+"description": 5
+}
+],"id":724,
+"content":[
+{
+"balance": "51191",
+"purchase_date": "2012-01-17",
+"amount": "4",
+"description": 11
+}
+],"id":725,
+"content":[
+{
+"balance": "51187",
+"purchase_date": "2012-01-19",
+"amount": "29",
+"description": 5
+}
+],"id":726,
+"content":[
+{
+"balance": "51158",
+"purchase_date": "2012-01-19",
+"amount": "1000",
+"description": 13
+}
+],"id":727,
+"content":[
+{
+"balance": "50158",
+"purchase_date": "2012-01-19",
+"amount": "40",
+"description": 14
+}
+],"id":728,
+"content":[
+{
+"balance": "50118",
+"purchase_date": "2012-01-19",
+"amount": "100",
+"description": 15
+}
+],
+"id":729,
+"content":[
+{
+"balance": "50018",
+"purchase_date": "2012-01-20",
+"amount": "11",
+"description": 1
+}
+],"id":730,
+"content":[
+{
+"balance": "50007",
+"purchase_date": "2012-01-21",
+"amount": "84",
+"description": 8
+}
+],"id":731,
+"content":[
+{
+"balance": "49923",
+"purchase_date": "2012-01-22",
+"amount": "40",
+"description": 10
+}
+],"id":732,
+"content":[
+{
+"balance": "49883",
+"purchase_date": "2012-01-23",
+"amount": "27",
+"description": 7
+}
+],"id":733,
+"content":[
+{
+"balance": "49856",
+"purchase_date": "2012-01-24",
+"amount": "22",
+"description": 11
+}
+],"id":734,
+"content":[
+{
+"balance": "49834",
+"purchase_date": "2012-01-26",
+"amount": "35",
+"description": 4
+}
+],"id":735,
+"content":[
+{
+"balance": "49799",
+"purchase_date": "2012-01-26",
+"amount": "80",
+"description": 16
+}
+],"id":736,
+"content":[
+{
+"balance": "49719",
+"purchase_date": "2012-01-27",
+"amount": "5",
+"description": 1
+}
+],"id":737,
+"content":[
+{
+"balance": "49714",
+"purchase_date": "2012-01-29",
+"amount": "40",
+"description": 10
+}
+],"id":738,
+"content":[
+{
+"balance": "49674",
+"purchase_date": "2012-01-29",
+"amount": "2",
+"description": 12
+}
+],"id":739,
+"content":[
+{
+"balance": "49672",
+"purchase_date": "2012-02-01",
+"amount": "42",
+"description": 3
+}
+],"id":740,
+"content":[
+{
+"balance": "49630",
+"purchase_date": "2012-02-02",
+"amount": "23",
+"description": 11
+}
+],"id":741,
+"content":[
+{
+"balance": "49607",
+"purchase_date": "2012-02-04",
+"amount": "15",
+"description": 3
+}
+],"id":742,
+"content":[
+{
+"balance": "49592",
+"purchase_date": "2012-02-05",
+"amount": "85",
+"description": 1
+}
+],"id":743,
+"content":[
+{
+"balance": "49507",
+"purchase_date": "2013-02-07",
+"amount": "14",
+"description": 9
+}
+],"id":744,
+"content":[
+{
+"balance": "49493",
+"purchase_date": "2013-02-07",
+"amount": "40",
+"description": 10
+}
+],"id":745,
+"content":[
+{
+"balance": "49453",
+"purchase_date": "2013-02-08",
+"amount": "42",
+"description": 5
+}
+],"id":746,
+"content":[
+{
+"balance": "49411",
+"purchase_date": "2013-02-09",
+"amount": "10",
+"description": 11
+}
+],"id":747,
+"content":[
+{
+"balance": "49401",
+"purchase_date": "2013-02-11",
+"amount": "35",
+"description": 5
+}
+],"id":748,
+"content":[
+{
+"balance": "49366",
+"purchase_date": "2013-02-11",
+"amount": "71",
+"description": 8
+}
+],"id":749,
+"content":[
+{
+"balance": "49295",
+"purchase_date": "2013-02-12",
+"amount": "62",
+"description": 1
+}
+],"id":750,
+"content":[
+{
+"balance": "49233",
+"purchase_date": "2013-02-14",
+"amount": "40",
+"description": 10
+}
+],"id":751,
+"content":[
+{
+"balance": "49193",
+"purchase_date": "2013-02-14",
+"amount": "2",
+"description": 12
+}
+],"id":752,
+"content":[
+{
+"balance": "49191",
+"purchase_date": "2013-02-15",
+"amount": "16",
+"description": 5
+}
+],"id":753,
+"content":[
+{
+"balance": "49175",
+"purchase_date": "2013-02-16",
+"amount": "23",
+"description": 11
+}
+],"id":754,
+"content":[
+{
+"balance": "49152",
+"purchase_date": "2013-02-18",
+"amount": "33",
+"description": 7
+}
+],"id":755,
+"content":[
+{
+"balance": "49119",
+"purchase_date": "2013-02-19",
+"amount": "60",
+"description": 1
+}
+],"id":756,
+"content":[
+{
+"balance": "49059",
+"purchase_date": "2013-02-21",
+"amount": "40",
+"description": 10
+}
+],"id":757,
+"content":[
+{
+"balance": "49019",
+"purchase_date": "2013-02-21",
+"amount": "1000",
+"description": 13
+}
+],"id":758,
+"content":[
+{
+"balance": "48019",
+"purchase_date": "2013-02-21",
+"amount": "40",
+"description": 14
+}
+],"id":759,
+"content":[
+{
+"balance": "47979",
+"purchase_date": "2013-02-21",
+"amount": "100",
+"description": 15
+}
+],
+"id":760,
+"content":[
+{
+"balance": "47879",
+"purchase_date": "2013-02-22",
+"amount": "48",
+"description": 5
+}
+],"id":761,
+"content":[
+{
+"balance": "47831",
+"purchase_date": "2013-02-22",
+"amount": "63",
+"description": 8
+}
+],"id":762,
+"content":[
+{
+"balance": "47768",
+"purchase_date": "2013-02-23",
+"amount": "21",
+"description": 11
+}
+],"id":763,
+"content":[
+{
+"balance": "47747",
+"purchase_date": "2013-02-25",
+"amount": "20",
+"description": 3
+}
+],"id":764,
+"content":[
+{
+"balance": "47727",
+"purchase_date": "2013-02-26",
+"amount": "78",
+"description": 1
+}
+],"id":765,
+"content":[
+{
+"balance": "47649",
+"purchase_date": "2013-02-27",
+"amount": "80",
+"description": 16
+}
+],"id":766,
+"content":[
+{
+"balance": "47569",
+"purchase_date": "2013-02-28",
+"amount": "40",
+"description": 10
+}
+],"id":767,
+"content":[
+{
+"balance": "47529",
+"purchase_date": "2013-02-28",
+"amount": "2",
+"description": 12
+}
+],"id":768,
+"content":[
+{
+"balance": "47527",
+"purchase_date": "2013-02-29",
+"amount": "37",
+"description": 3
+}
+],"id":769,
+"content":[
+{
+"balance": "47490",
+"purchase_date": "2013-03-01",
+"amount": "30",
+"description": 11
+}
+],"id":770,
+"content":[
+{
+"balance": "47460",
+"purchase_date": "2013-03-03",
+"amount": "13",
+"description": 7
+}
+],"id":771,
+"content":[
+{
+"balance": "47447",
+"purchase_date": "2013-03-04",
+"amount": "57",
+"description": 1
+}
+],"id":772,
+"content":[
+{
+"balance": "47390",
+"purchase_date": "2013-03-06",
+"amount": "40",
+"description": 10
+}
+],"id":773,
+"content":[
+{
+"balance": "47350",
+"purchase_date": "2013-03-07",
+"amount": "41",
+"description": 5
+}
+],"id":774,
+"content":[
+{
+"balance": "47309",
+"purchase_date": "2013-03-08",
+"amount": "9",
+"description": 9
+}
+],"id":775,
+"content":[
+{
+"balance": "47300",
+"purchase_date": "2013-03-08",
+"amount": "5",
+"description": 11
+}
+],"id":776,
+"content":[
+{
+"balance": "47295",
+"purchase_date": "2013-03-10",
+"amount": "45",
+"description": 6
+}
+],"id":777,
+"content":[
+{
+"balance": "47250",
+"purchase_date": "2013-03-11",
+"amount": "51",
+"description": 1
+}
+],"id":778,
+"content":[
+{
+"balance": "47199",
+"purchase_date": "2013-03-12",
+"amount": "102",
+"description": 8
+}
+],"id":779,
+"content":[
+{
+"balance": "47097",
+"purchase_date": "2013-03-13",
+"amount": "40",
+"description": 10
+}
+],"id":780,
+"content":[
+{
+"balance": "47057",
+"purchase_date": "2013-03-13",
+"amount": "1",
+"description": 12
+}
+],"id":781,
+"content":[
+{
+"balance": "47056",
+"purchase_date": "2013-03-14",
+"amount": "22",
+"description": 4
+}
+],"id":782,
+"content":[
+{
+"balance": "47034",
+"purchase_date": "2013-03-15",
+"amount": "12",
+"description": 11
+}
+],"id":783,
+"content":[
+{
+"balance": "47022",
+"purchase_date": "2013-03-17",
+"amount": "46",
+"description": 4
+}
+],"id":784,
+"content":[
+{
+"balance": "46976",
+"purchase_date": "2013-03-18",
+"amount": "58",
+"description": 1
+}
+],"id":785,
+"content":[
+{
+"balance": "46918",
+"purchase_date": "2013-03-20",
+"amount": "40",
+"description": 10
+}
+],"id":786,
+"content":[
+{
+"balance": "46878",
+"purchase_date": "2013-03-21",
+"amount": "11",
+"description": 6
+}
+],"id":787,
+"content":[
+{
+"balance": "46867",
+"purchase_date": "2013-03-22",
+"amount": "16",
+"description": 11
+}
+],"id":788,
+"content":[
+{
+"balance": "46851",
+"purchase_date": "2013-03-23",
+"amount": "74",
+"description": 8
+}
+],"id":789,
+"content":[
+{
+"balance": "46777",
+"purchase_date": "2013-03-23",
+"amount": "1000",
+"description": 13
+}
+],"id":790,
+"content":[
+{
+"balance": "45777",
+"purchase_date": "2013-03-23",
+"amount": "40",
+"description": 14
+}
+],"id":791,
+"content":[
+{
+"balance": "45737",
+"purchase_date": "2013-03-23",
+"amount": "100",
+"description": 15
+}
+],
+"id":792,
+"content":[
+{
+"balance": "45637",
+"purchase_date": "2013-03-24",
+"amount": "38",
+"description": 7
+}
+],"id":793,
+"content":[
+{
+"balance": "45599",
+"purchase_date": "2013-03-25",
+"amount": "97",
+"description": 1
+}
+],"id":794,
+"content":[
+{
+"balance": "45502",
+"purchase_date": "2013-03-27",
+"amount": "40",
+"description": 10
+}
+],"id":795,
+"content":[
+{
+"balance": "45462",
+"purchase_date": "2013-03-27",
+"amount": "4",
+"description": 12
+}
+],"id":796,
+"content":[
+{
+"balance": "45458",
+"purchase_date": "2013-03-28",
+"amount": "22",
+"description": 3
+}
+],"id":797,
+"content":[
+{
+"balance": "45436",
+"purchase_date": "2013-03-28",
+"amount": "80",
+"description": 16
+}
+],"id":798,
+"content":[
+{
+"balance": "45356",
+"purchase_date": "2013-03-29",
+"amount": "9",
+"description": 11
+}
+],"id":799,
+"content":[
+{
+"balance": "45347",
+"purchase_date": "2013-04-02",
+"amount": "1",
+"description": 7
+}
+],"id":800,
+"content":[
+{
+"balance": "45346",
+"purchase_date": "2013-04-03",
+"amount": "63",
+"description": 1
+}
+],"id":801,
+"content":[
+{
+"balance": "45283",
+"purchase_date": "2013-04-05",
+"amount": "40",
+"description": 10
+}
+],"id":802,
+"content":[
+{
+"balance": "45243",
+"purchase_date": "2013-04-06",
+"amount": "5",
+"description": 6
+}
+],"id":803,
+"content":[
+{
+"balance": "45238",
+"purchase_date": "2013-04-07",
+"amount": "14",
+"description": 11
+}
+],"id":804,
+"content":[
+{
+"balance": "45224",
+"purchase_date": "2013-04-09",
+"amount": "40",
+"description": 3
+}
+],"id":805,
+"content":[
+{
+"balance": "45184",
+"purchase_date": "2013-04-09",
+"amount": "16",
+"description": 9
+}
+],"id":806,
+"content":[
+{
+"balance": "45168",
+"purchase_date": "2013-04-10",
+"amount": "16",
+"description": 1
+}
+],"id":807,
+"content":[
+{
+"balance": "45152",
+"purchase_date": "2013-04-12",
+"amount": "40",
+"description": 10
+}
+],"id":808,
+"content":[
+{
+"balance": "45112",
+"purchase_date": "2013-04-12",
+"amount": "5",
+"description": 12
+}
+],"id":809,
+"content":[
+{
+"balance": "45107",
+"purchase_date": "2013-04-13",
+"amount": "45",
+"description": 6
+}
+],"id":810,
+"content":[
+{
+"balance": "45062",
+"purchase_date": "2013-04-13",
+"amount": "109",
+"description": 8
+}
+],"id":811,
+"content":[
+{
+"balance": "44953",
+"purchase_date": "2013-04-14",
+"amount": "3",
+"description": 11
+}
+],"id":812,
+"content":[
+{
+"balance": "44950",
+"purchase_date": "2013-04-16",
+"amount": "43",
+"description": 4
+}
+],"id":813,
+"content":[
+{
+"balance": "44907",
+"purchase_date": "2013-04-17",
+"amount": "15",
+"description": 1
+}
+],"id":814,
+"content":[
+{
+"balance": "44892",
+"purchase_date": "2013-04-19",
+"amount": "40",
+"description": 10
+}
+],"id":815,
+"content":[
+{
+"balance": "44852",
+"purchase_date": "2013-04-20",
+"amount": "21",
+"description": 3
+}
+],"id":816,
+"content":[
+{
+"balance": "44831",
+"purchase_date": "2013-04-21",
+"amount": "1",
+"description": 11
+}
+],"id":817,
+"content":[
+{
+"balance": "44830",
+"purchase_date": "2013-04-23",
+"amount": "19",
+"description": 4
+}
+],"id":818,
+"content":[
+{
+"balance": "44811",
+"purchase_date": "2013-04-24",
+"amount": "48",
+"description": 1
+}
+],"id":819,
+"content":[
+{
+"balance": "44763",
+"purchase_date": "2013-04-24",
+"amount": "47",
+"description": 8
+}
+],"id":820,
+"content":[
+{
+"balance": "44716",
+"purchase_date": "2013-04-25",
+"amount": "1000",
+"description": 13
+}
+],"id":821,
+"content":[
+{
+"balance": "43716",
+"purchase_date": "2013-04-25",
+"amount": "40",
+"description": 14
+}
+],"id":822,
+"content":[
+{
+"balance": "43676",
+"purchase_date": "2013-04-25",
+"amount": "100",
+"description": 15
+}
+],
+"id":823,
+"content":[
+{
+"balance": "43576",
+"purchase_date": "2013-04-26",
+"amount": "40",
+"description": 10
+}
+],"id":824,
+"content":[
+{
+"balance": "43536",
+"purchase_date": "2013-04-26",
+"amount": "3",
+"description": 12
+}
+],"id":825,
+"content":[
+{
+"balance": "43533",
+"purchase_date": "2013-04-27",
+"amount": "2",
+"description": 7
+}
+],"id":826,
+"content":[
+{
+"balance": "43531",
+"purchase_date": "2013-04-28",
+"amount": "29",
+"description": 11
+}
+],"id":827,
+"content":[
+{
+"balance": "43502",
+"purchase_date": "2013-04-29",
+"amount": "80",
+"description": 16
+}
+],"id":828,
+"content":[
+{
+"balance": "43422",
+"purchase_date": "2013-05-01",
+"amount": "22",
+"description": 6
+}
+],"id":829,
+"content":[
+{
+"balance": "43400",
+"purchase_date": "2013-05-02",
+"amount": "76",
+"description": 1
+}
+],"id":830,
+"content":[
+{
+"balance": "43324",
+"purchase_date": "2013-05-04",
+"amount": "40",
+"description": 10
+}
+],"id":831,
+"content":[
+{
+"balance": "43284",
+"purchase_date": "2013-05-05",
+"amount": "4",
+"description": 4
+}
+],"id":832,
+"content":[
+{
+"balance": "43280",
+"purchase_date": "2013-05-06",
+"amount": "20",
+"description": 11
+}
+],"id":833,
+"content":[
+{
+"balance": "43260",
+"purchase_date": "2013-05-08",
+"amount": "44",
+"description": 7
+}
+],"id":834,
+"content":[
+{
+"balance": "43216",
+"purchase_date": "2013-05-09",
+"amount": "72",
+"description": 1
+}
+],"id":835,
+"content":[
+{
+"balance": "43144",
+"purchase_date": "2013-05-10",
+"amount": "21",
+"description": 9
+}
+],"id":836,
+"content":[
+{
+"balance": "43123",
+"purchase_date": "2013-05-11",
+"amount": "40",
+"description": 10
+}
+],"id":837,
+"content":[
+{
+"balance": "43083",
+"purchase_date": "2013-05-11",
+"amount": "5",
+"description": 12
+}
+],"id":838,
+"content":[
+{
+"balance": "43078",
+"purchase_date": "2013-05-12",
+"amount": "30",
+"description": 3
+}
+],"id":839,
+"content":[
+{
+"balance": "43048",
+"purchase_date": "2013-05-13",
+"amount": "11",
+"description": 11
+}
+],"id":840,
+"content":[
+{
+"balance": "43037",
+"purchase_date": "2013-05-14",
+"amount": "131",
+"description": 8
+}
+],"id":841,
+"content":[
+{
+"balance": "42906",
+"purchase_date": "2013-05-15",
+"amount": "14",
+"description": 5
+}
+],"id":842,
+"content":[
+{
+"balance": "42892",
+"purchase_date": "2013-05-16",
+"amount": "39",
+"description": 1
+}
+],"id":843,
+"content":[
+{
+"balance": "42853",
+"purchase_date": "2013-05-18",
+"amount": "40",
+"description": 10
+}
+],"id":844,
+"content":[
+{
+"balance": "42813",
+"purchase_date": "2013-05-19",
+"amount": "33",
+"description": 7
+}
+],"id":845,
+"content":[
+{
+"balance": "42780",
+"purchase_date": "2013-05-20",
+"amount": "19",
+"description": 11
+}
+],"id":846,
+"content":[
+{
+"balance": "42761",
+"purchase_date": "2013-05-22",
+"amount": "44",
+"description": 3
+}
+],"id":847,
+"content":[
+{
+"balance": "42717",
+"purchase_date": "2013-05-23",
+"amount": "81",
+"description": 1
+}
+],"id":848,
+"content":[
+{
+"balance": "42636",
+"purchase_date": "2013-05-25",
+"amount": "51",
+"description": 8
+}
+],"id":849,
+"content":[
+{
+"balance": "42585",
+"purchase_date": "2013-05-25",
+"amount": "40",
+"description": 10
+}
+],"id":850,
+"content":[
+{
+"balance": "42545",
+"purchase_date": "2013-05-25",
+"amount": "2",
+"description": 12
+}
+],"id":851,
+"content":[
+{
+"balance": "42543",
+"purchase_date": "2013-05-26",
+"amount": "48",
+"description": 3
+}
+],"id":852,
+"content":[
+{
+"balance": "42495",
+"purchase_date": "2013-05-27",
+"amount": "8",
+"description": 11
+}
+],"id":853,
+"content":[
+{
+"balance": "42487",
+"purchase_date": "2013-05-27",
+"amount": "1000",
+"description": 13
+}
+],"id":854,
+"content":[
+{
+"balance": "41487",
+"purchase_date": "2013-05-27",
+"amount": "40",
+"description": 14
+}
+],"id":855,
+"content":[
+{
+"balance": "41447",
+"purchase_date": "2013-05-27",
+"amount": "100",
+"description": 15
+}
+],
+"id":856,
+"content":[
+{
+"balance": "41347",
+"purchase_date": "2013-05-29",
+"amount": "44",
+"description": 6
+}
+],"id":857,
+"content":[
+{
+"balance": "41303",
+"purchase_date": "2013-06-01",
+"amount": "53",
+"description": 1
+}
+],"id":858,
+"content":[
+{
+"balance": "41250",
+"purchase_date": "2013-06-01",
+"amount": "80",
+"description": 16
+}
+],"id":859,
+"content":[
+{
+"balance": "41170",
+"purchase_date": "2013-06-03",
+"amount": "40",
+"description": 10
+}
+],"id":860,
+"content":[
+{
+"balance": "41130",
+"purchase_date": "2013-06-04",
+"amount": "12",
+"description": 7
+}
+],"id":861,
+"content":[
+{
+"balance": "41118",
+"purchase_date": "2013-06-05",
+"amount": "1",
+"description": 11
+}
+],"id":862,
+"content":[
+{
+"balance": "41117",
+"purchase_date": "2013-06-07",
+"amount": "31",
+"description": 6
+}
+],"id":863,
+"content":[
+{
+"balance": "41086",
+"purchase_date": "2013-06-08",
+"amount": "58",
+"description": 1
+}
+],"id":864,
+"content":[
+{
+"balance": "41028",
+"purchase_date": "2013-06-10",
+"amount": "40",
+"description": 10
+}
+],"id":865,
+"content":[
+{
+"balance": "40988",
+"purchase_date": "2013-06-10",
+"amount": "4",
+"description": 12
+}
+],"id":866,
+"content":[
+{
+"balance": "40984",
+"purchase_date": "2013-06-11",
+"amount": "49",
+"description": 7
+}
+],"id":867,
+"content":[
+{
+"balance": "40935",
+"purchase_date": "2013-06-11",
+"amount": "6",
+"description": 9
+}
+],"id":868,
+"content":[
+{
+"balance": "40929",
+"purchase_date": "2013-06-12",
+"amount": "3",
+"description": 11
+}
+],"id":869,
+"content":[
+{
+"balance": "40926",
+"purchase_date": "2013-06-14",
+"amount": "10",
+"description": 3
+}
+],"id":870,
+"content":[
+{
+"balance": "40916",
+"purchase_date": "2013-06-15",
+"amount": "50",
+"description": 1
+}
+],"id":871,
+"content":[
+{
+"balance": "40866",
+"purchase_date": "2013-06-15",
+"amount": "119",
+"description": 8
+}
+],"id":872,
+"content":[
+{
+"balance": "40747",
+"purchase_date": "2013-06-17",
+"amount": "40",
+"description": 10
+}
+],"id":873,
+"content":[
+{
+"balance": "40707",
+"purchase_date": "2013-06-18",
+"amount": "41",
+"description": 3
+}
+],"id":874,
+"content":[
+{
+"balance": "40666",
+"purchase_date": "2013-06-19",
+"amount": "4",
+"description": 11
+}
+],"id":875,
+"content":[
+{
+"balance": "40662",
+"purchase_date": "2013-06-21",
+"amount": "6",
+"description": 3
+}
+],"id":876,
+"content":[
+{
+"balance": "40656",
+"purchase_date": "2013-06-22",
+"amount": "35",
+"description": 1
+}
+],"id":877,
+"content":[
+{
+"balance": "40621",
+"purchase_date": "2013-06-24",
+"amount": "40",
+"description": 10
+}
+],"id":878,
+"content":[
+{
+"balance": "40581",
+"purchase_date": "2013-06-24",
+"amount": "1",
+"description": 12
+}
+],"id":879,
+"content":[
+{
+"balance": "40580",
+"purchase_date": "2013-06-25",
+"amount": "22",
+"description": 4
+}
+],"id":880,
+"content":[
+{
+"balance": "40558",
+"purchase_date": "2013-06-26",
+"amount": "27",
+"description": 8
+}
+],"id":881,
+"content":[
+{
+"balance": "40531",
+"purchase_date": "2013-06-26",
+"amount": "12",
+"description": 11
+}
+],"id":882,
+"content":[
+{
+"balance": "40519",
+"purchase_date": "2013-06-28",
+"amount": "10",
+"description": 6
+}
+],"id":883,
+"content":[
+{
+"balance": "40509",
+"purchase_date": "2013-06-29",
+"amount": "15",
+"description": 1
+}
+],"id":884,
+"content":[
+{
+"balance": "40494",
+"purchase_date": "2013-06-29",
+"amount": "1000",
+"description": 13
+}
+],"id":885,
+"content":[
+{
+"balance": "39494",
+"purchase_date": "2013-06-29",
+"amount": "40",
+"description": 14
+}
+],"id":886,
+"content":[
+{
+"balance": "39454",
+"purchase_date": "2013-06-29",
+"amount": "100",
+"description": 15
+}
+],
+"id":887,
+"content":[
+{
+"balance": "39354",
+"purchase_date": "2013-07-02",
+"amount": "40",
+"description": 10
+}
+],"id":888,
+"content":[
+{
+"balance": "39314",
+"purchase_date": "2013-07-02",
+"amount": "80",
+"description": 16
+}
+],"id":889,
+"content":[
+{
+"balance": "39234",
+"purchase_date": "2013-07-03",
+"amount": "38",
+"description": 7
+}
+],"id":890,
+"content":[
+{
+"balance": "39196",
+"purchase_date": "2013-07-04",
+"amount": "29",
+"description": 11
+}
+],"id":891,
+"content":[
+{
+"balance": "39167",
+"purchase_date": "2013-07-06",
+"amount": "1",
+"description": 5
+}
+],"id":892,
+"content":[
+{
+"balance": "39166",
+"purchase_date": "2013-07-07",
+"amount": "86",
+"description": 1
+}
+],"id":893,
+"content":[
+{
+"balance": "39080",
+"purchase_date": "2013-07-09",
+"amount": "40",
+"description": 10
+}
+],"id":894,
+"content":[
+{
+"balance": "39040",
+"purchase_date": "2013-07-09",
+"amount": "4",
+"description": 12
+}
+],"id":895,
+"content":[
+{
+"balance": "39036",
+"purchase_date": "2013-07-10",
+"amount": "35",
+"description": 5
+}
+],"id":896,
+"content":[
+{
+"balance": "39001",
+"purchase_date": "2013-07-11",
+"amount": "26",
+"description": 11
+}
+],"id":897,
+"content":[
+{
+"balance": "38975",
+"purchase_date": "2013-07-12",
+"amount": "1",
+"description": 9
+}
+],"id":898,
+"content":[
+{
+"balance": "38974",
+"purchase_date": "2013-07-13",
+"amount": "18",
+"description": 3
+}
+],"id":899,
+"content":[
+{
+"balance": "38956",
+"purchase_date": "2013-07-14",
+"amount": "8",
+"description": 1
+}
+],"id":900,
+"content":[
+{
+"balance": "38948",
+"purchase_date": "2013-07-16",
+"amount": "117",
+"description": 8
+}
+],"id":901,
+"content":[
+{
+"balance": "38831",
+"purchase_date": "2013-07-16",
+"amount": "40",
+"description": 10
+}
+],"id":902,
+"content":[
+{
+"balance": "38791",
+"purchase_date": "2013-07-17",
+"amount": "29",
+"description": 5
+}
+],"id":903,
+"content":[
+{
+"balance": "38762",
+"purchase_date": "2013-07-18",
+"amount": "14",
+"description": 11
+}
+],"id":904,
+"content":[
+{
+"balance": "38748",
+"purchase_date": "2013-07-20",
+"amount": "20",
+"description": 3
+}
+],"id":905,
+"content":[
+{
+"balance": "38728",
+"purchase_date": "2013-07-21",
+"amount": "24",
+"description": 1
+}
+],"id":906,
+"content":[
+{
+"balance": "38704",
+"purchase_date": "2013-07-23",
+"amount": "40",
+"description": 10
+}
+],"id":907,
+"content":[
+{
+"balance": "38664",
+"purchase_date": "2013-07-23",
+"amount": "4",
+"description": 12
+}
+],"id":908,
+"content":[
+{
+"balance": "38660",
+"purchase_date": "2013-07-24",
+"amount": "14",
+"description": 4
+}
+],"id":909,
+"content":[
+{
+"balance": "38646",
+"purchase_date": "2013-07-25",
+"amount": "21",
+"description": 11
+}
+],"id":910,
+"content":[
+{
+"balance": "38625",
+"purchase_date": "2013-07-27",
+"amount": "41",
+"description": 6
+}
+],"id":911,
+"content":[
+{
+"balance": "38584",
+"purchase_date": "2013-07-27",
+"amount": "1",
+"description": 8
+}
+],"id":912,
+"content":[
+{
+"balance": "38583",
+"purchase_date": "2013-07-28",
+"amount": "95",
+"description": 1
+}
+],"id":913,
+"content":[
+{
+"balance": "38488",
+"purchase_date": "2013-08-01",
+"amount": "40",
+"description": 10
+}
+],"id":914,
+"content":[
+{
+"balance": "38448",
+"purchase_date": "2013-08-02",
+"amount": "8",
+"description": 4
+}
+],"id":915,
+"content":[
+{
+"balance": "38440",
+"purchase_date": "2013-08-02",
+"amount": "1000",
+"description": 13
+}
+],"id":916,
+"content":[
+{
+"balance": "37440",
+"purchase_date": "2013-08-02",
+"amount": "40",
+"description": 14
+}
+],"id":917,
+"content":[
+{
+"balance": "37400",
+"purchase_date": "2013-08-02",
+"amount": "100",
+"description": 15
+}
+],
+"id":918,
+"content":[
+{
+"balance": "37300",
+"purchase_date": "2013-08-03",
+"amount": "12",
+"description": 11
+}
+],"id":919,
+"content":[
+{
+"balance": "37288",
+"purchase_date": "2013-08-03",
+"amount": "80",
+"description": 16
+}
+],"id":920,
+"content":[
+{
+"balance": "37208",
+"purchase_date": "2013-08-05",
+"amount": "37",
+"description": 4
+}
+],"id":921,
+"content":[
+{
+"balance": "37171",
+"purchase_date": "2013-08-06",
+"amount": "45",
+"description": 1
+}
+],"id":922,
+"content":[
+{
+"balance": "37126",
+"purchase_date": "2013-08-08",
+"amount": "40",
+"description": 10
+}
+],"id":923,
+"content":[
+{
+"balance": "37086",
+"purchase_date": "2013-08-08",
+"amount": "5",
+"description": 12
+}
+],"id":924,
+"content":[
+{
+"balance": "37081",
+"purchase_date": "2013-08-09",
+"amount": "27",
+"description": 7
+}
+],"id":925,
+"content":[
+{
+"balance": "37054",
+"purchase_date": "2013-08-10",
+"amount": "13",
+"description": 11
+}
+],"id":926,
+"content":[
+{
+"balance": "37041",
+"purchase_date": "2013-08-12",
+"amount": "9",
+"description": 7
+}
+],"id":927,
+"content":[
+{
+"balance": "37032",
+"purchase_date": "2013-08-13",
+"amount": "55",
+"description": 1
+}
+],"id":928,
+"content":[
+{
+"balance": "36977",
+"purchase_date": "2013-08-13",
+"amount": "20",
+"description": 9
+}
+],"id":929,
+"content":[
+{
+"balance": "36957",
+"purchase_date": "2013-08-15",
+"amount": "40",
+"description": 10
+}
+],"id":930,
+"content":[
+{
+"balance": "36917",
+"purchase_date": "2013-08-16",
+"amount": "29",
+"description": 4
+}
+],"id":931,
+"content":[
+{
+"balance": "36888",
+"purchase_date": "2013-08-17",
+"amount": "71",
+"description": 8
+}
+],"id":932,
+"content":[
+{
+"balance": "36817",
+"purchase_date": "2013-08-17",
+"amount": "24",
+"description": 11
+}
+],"id":933,
+"content":[
+{
+"balance": "36793",
+"purchase_date": "2013-08-19",
+"amount": "48",
+"description": 7
+}
+],"id":934,
+"content":[
+{
+"balance": "36745",
+"purchase_date": "2013-08-20",
+"amount": "44",
+"description": 1
+}
+],"id":935,
+"content":[
+{
+"balance": "36701",
+"purchase_date": "2013-08-22",
+"amount": "40",
+"description": 10
+}
+],"id":936,
+"content":[
+{
+"balance": "36661",
+"purchase_date": "2013-08-22",
+"amount": "5",
+"description": 12
+}
+],"id":937,
+"content":[
+{
+"balance": "36656",
+"purchase_date": "2013-08-23",
+"amount": "9",
+"description": 4
+}
+],"id":938,
+"content":[
+{
+"balance": "36647",
+"purchase_date": "2013-08-24",
+"amount": "3",
+"description": 11
+}
+],"id":939,
+"content":[
+{
+"balance": "36644",
+"purchase_date": "2013-08-26",
+"amount": "39",
+"description": 6
+}
+],"id":940,
+"content":[
+{
+"balance": "36605",
+"purchase_date": "2013-08-27",
+"amount": "60",
+"description": 1
+}
+],"id":941,
+"content":[
+{
+"balance": "36545",
+"purchase_date": "2013-08-28",
+"amount": "120",
+"description": 8
+}
+],"id":942,
+"content":[
+{
+"balance": "36425",
+"purchase_date": "2013-08-29",
+"amount": "40",
+"description": 10
+}
+],"id":943,
+"content":[
+{
+"balance": "36385",
+"purchase_date": "2013-09-01",
+"amount": "30",
+"description": 4
+}
+],"id":944,
+"content":[
+{
+"balance": "36355",
+"purchase_date": "2013-09-02",
+"amount": "12",
+"description": 11
+}
+],"id":945,
+"content":[
+{
+"balance": "36343",
+"purchase_date": "2013-09-04",
+"amount": "38",
+"description": 6
+}
+],"id":946,
+"content":[
+{
+"balance": "36305",
+"purchase_date": "2013-09-04",
+"amount": "1000",
+"description": 13
+}
+],"id":947,
+"content":[
+{
+"balance": "35305",
+"purchase_date": "2013-09-04",
+"amount": "40",
+"description": 14
+}
+],"id":948,
+"content":[
+{
+"balance": "35265",
+"purchase_date": "2013-09-04",
+"amount": "100",
+"description": 15
+}
+],
+"id":949,
+"content":[
+{
+"balance": "35165",
+"purchase_date": "2013-09-04",
+"amount": "80",
+"description": 16
+}
+],"id":950,
+"content":[
+{
+"balance": "35085",
+"purchase_date": "2013-09-05",
+"amount": "100",
+"description": 1
+}
+],"id":951,
+"content":[
+{
+"balance": "34985",
+"purchase_date": "2013-09-07",
+"amount": "40",
+"description": 10
+}
+],"id":952,
+"content":[
+{
+"balance": "34945",
+"purchase_date": "2013-09-07",
+"amount": "4",
+"description": 12
+}
+],"id":953,
+"content":[
+{
+"balance": "34941",
+"purchase_date": "2013-09-08",
+"amount": "45",
+"description": 3
+}
+],"id":954,
+"content":[
+{
+"balance": "34896",
+"purchase_date": "2013-09-09",
+"amount": "7",
+"description": 11
+}
+],"id":955,
+"content":[
+{
+"balance": "34889",
+"purchase_date": "2013-09-11",
+"amount": "34",
+"description": 7
+}
+],"id":956,
+"content":[
+{
+"balance": "34855",
+"purchase_date": "2013-09-12",
+"amount": "37",
+"description": 1
+}
+],"id":957,
+"content":[
+{
+"balance": "34818",
+"purchase_date": "2013-09-14",
+"amount": "30",
+"description": 9
+}
+],"id":958,
+"content":[
+{
+"balance": "34788",
+"purchase_date": "2013-09-14",
+"amount": "40",
+"description": 10
+}
+],"id":959,
+"content":[
+{
+"balance": "34748",
+"purchase_date": "2013-09-15",
+"amount": "18",
+"description": 7
+}
+],"id":960,
+"content":[
+{
+"balance": "34730",
+"purchase_date": "2013-09-16",
+"amount": "30",
+"description": 11
+}
+],"id":961,
+"content":[
+{
+"balance": "34700",
+"purchase_date": "2013-09-18",
+"amount": "35",
+"description": 4
+}
+],"id":962,
+"content":[
+{
+"balance": "34665",
+"purchase_date": "2013-09-18",
+"amount": "150",
+"description": 8
+}
+],"id":963,
+"content":[
+{
+"balance": "34515",
+"purchase_date": "2013-09-19",
+"amount": "67",
+"description": 1
+}
+],"id":964,
+"content":[
+{
+"balance": "34448",
+"purchase_date": "2013-09-21",
+"amount": "40",
+"description": 10
+}
+],"id":965,
+"content":[
+{
+"balance": "34408",
+"purchase_date": "2013-09-21",
+"amount": "3",
+"description": 12
+}
+],"id":966,
+"content":[
+{
+"balance": "34405",
+"purchase_date": "2013-09-22",
+"amount": "11",
+"description": 7
+}
+],"id":967,
+"content":[
+{
+"balance": "34394",
+"purchase_date": "2013-09-23",
+"amount": "8",
+"description": 11
+}
+],"id":968,
+"content":[
+{
+"balance": "34386",
+"purchase_date": "2013-09-25",
+"amount": "24",
+"description": 4
+}
+],"id":969,
+"content":[
+{
+"balance": "34362",
+"purchase_date": "2013-09-26",
+"amount": "96",
+"description": 1
+}
+],"id":970,
+"content":[
+{
+"balance": "34266",
+"purchase_date": "2013-09-28",
+"amount": "40",
+"description": 10
+}
+],"id":971,
+"content":[
+{
+"balance": "34226",
+"purchase_date": "2013-09-29",
+"amount": "37",
+"description": 7
+}
+],"id":972,
+"content":[
+{
+"balance": "34189",
+"purchase_date": "2013-09-29",
+"amount": "136",
+"description": 8
+}
+],"id":973,
+"content":[
+{
+"balance": "34053",
+"purchase_date": "2013-10-01",
+"amount": "2",
+"description": 11
+}
+],"id":974,
+"content":[
+{
+"balance": "34051",
+"purchase_date": "2013-10-03",
+"amount": "23",
+"description": 6
+}
+],"id":975,
+"content":[
+{
+"balance": "34028",
+"purchase_date": "2013-10-04",
+"amount": "99",
+"description": 1
+}
+],"id":976,
+"content":[
+{
+"balance": "33929",
+"purchase_date": "2013-10-05",
+"amount": "80",
+"description": 16
+}
+],"id":977,
+"content":[
+{
+"balance": "33849",
+"purchase_date": "2013-10-06",
+"amount": "40",
+"description": 10
+}
+],"id":978,
+"content":[
+{
+"balance": "33809",
+"purchase_date": "2013-10-06",
+"amount": "1",
+"description": 12
+}
+],"id":979,
+"content":[
+{
+"balance": "33808",
+"purchase_date": "2013-10-06",
+"amount": "1000",
+"description": 13
+}
+],"id":980,
+"content":[
+{
+"balance": "32808",
+"purchase_date": "2013-10-06",
+"amount": "40",
+"description": 14
+}
+],"id":981,
+"content":[
+{
+"balance": "32768",
+"purchase_date": "2013-10-06",
+"amount": "100",
+"description": 15
+}
+],
+"id":982,
+"content":[
+{
+"balance": "32668",
+"purchase_date": "2013-10-07",
+"amount": "38",
+"description": 5
+}
+],"id":983,
+"content":[
+{
+"balance": "32630",
+"purchase_date": "2013-10-08",
+"amount": "20",
+"description": 11
+}
+],"id":984,
+"content":[
+{
+"balance": "32610",
+"purchase_date": "2013-10-10",
+"amount": "47",
+"description": 3
+}
+],"id":985,
+"content":[
+{
+"balance": "32563",
+"purchase_date": "2013-10-11",
+"amount": "12",
+"description": 1
+}
+],"id":986,
+"content":[
+{
+"balance": "32551",
+"purchase_date": "2013-10-13",
+"amount": "40",
+"description": 10
+}
+],"id":987,
+"content":[
+{
+"balance": "32511",
+"purchase_date": "2013-10-14",
+"amount": "13",
+"description": 6
+}
+],"id":988,
+"content":[
+{
+"balance": "32498",
+"purchase_date": "2013-10-15",
+"amount": "33",
+"description": 9
+}
+],"id":989,
+"content":[
+{
+"balance": "32465",
+"purchase_date": "2013-10-15",
+"amount": "2",
+"description": 11
+}
+],"id":990,
+"content":[
+{
+"balance": "32463",
+"purchase_date": "2013-10-17",
+"amount": "2",
+"description": 3
+}
+],"id":991,
+"content":[
+{
+"balance": "32461",
+"purchase_date": "2013-10-18",
+"amount": "22",
+"description": 1
+}
+],"id":992,
+"content":[
+{
+"balance": "32439",
+"purchase_date": "2013-10-19",
+"amount": "64",
+"description": 8
+}
+],"id":993,
+"content":[
+{
+"balance": "32375",
+"purchase_date": "2013-10-20",
+"amount": "40",
+"description": 10
+}
+],"id":994,
+"content":[
+{
+"balance": "32335",
+"purchase_date": "2013-10-20",
+"amount": "4",
+"description": 12
+}
+],"id":995,
+"content":[
+{
+"balance": "32331",
+"purchase_date": "2013-10-21",
+"amount": "1",
+"description": 3
+}
+],"id":996,
+"content":[
+{
+"balance": "32330",
+"purchase_date": "2013-10-22",
+"amount": "10",
+"description": 11
+}
+],"id":997,
+"content":[
+{
+"balance": "32320",
+"purchase_date": "2013-10-24",
+"amount": "5",
+"description": 5
+}
+],"id":998,
+"content":[
+{
+"balance": "32315",
+"purchase_date": "2013-10-25",
+"amount": "95",
+"description": 1
+}
+],"id":999,
+"content":[
+{
+"balance": "32220",
+"purchase_date": "2013-10-27",
+"amount": "40",
+"description": 10
+}
+],"id":1000,
+"content":[
+{
+"balance": "32180",
+"purchase_date": "2013-10-28",
+"amount": "31",
+"description": 5
+}
+],"id":1001,
+"content":[
+{
+"balance": "32149",
+"purchase_date": "2013-10-29",
+"amount": "30",
+"description": 11
+}
+],"id":1002,
+"content":[
+{
+"balance": "32119",
+"purchase_date": "2013-11-01",
+"amount": "28",
+"description": 8
+}
+],"id":1003,
+"content":[
+{
+"balance": "32091",
+"purchase_date": "2013-11-02",
+"amount": "30",
+"description": 5
+}
+],"id":1004,
+"content":[
+{
+"balance": "32061",
+"purchase_date": "2013-11-03",
+"amount": "73",
+"description": 1
+}
+],"id":1005,
+"content":[
+{
+"balance": "31988",
+"purchase_date": "2013-11-05",
+"amount": "40",
+"description": 10
+}
+],"id":1006,
+"content":[
+{
+"balance": "31948",
+"purchase_date": "2013-11-05",
+"amount": "4",
+"description": 12
+}
+],"id":1007,
+"content":[
+{
+"balance": "31944",
+"purchase_date": "2013-11-06",
+"amount": "32",
+"description": 6
+}
+],"id":1008,
+"content":[
+{
+"balance": "31912",
+"purchase_date": "2013-11-06",
+"amount": "80",
+"description": 16
+}
+],"id":1009,
+"content":[
+{
+"balance": "31832",
+"purchase_date": "2013-11-07",
+"amount": "3",
+"description": 11
+}
+],"id":1010,
+"content":[
+{
+"balance": "31829",
+"purchase_date": "2013-11-08",
+"amount": "1000",
+"description": 13
+}
+],"id":1011,
+"content":[
+{
+"balance": "30829",
+"purchase_date": "2013-11-08",
+"amount": "40",
+"description": 14
+}
+],"id":1012,
+"content":[
+{
+"balance": "30789",
+"purchase_date": "2013-11-08",
+"amount": "100",
+"description": 15
+}
+],
+"id":1013,
+"content":[
+{
+"balance": "30689",
+"purchase_date": "2013-11-09",
+"amount": "22",
+"description": 4
+}
+],"id":1014,
+"content":[
+{
+"balance": "30667",
+"purchase_date": "2013-11-10",
+"amount": "19",
+"description": 1
+}
+],"id":1015,
+"content":[
+{
+"balance": "30648",
+"purchase_date": "2013-11-12",
+"amount": "40",
+"description": 10
+}
+],"id":1016,
+"content":[
+{
+"balance": "30608",
+"purchase_date": "2013-11-13",
+"amount": "42",
+"description": 3
+}
+],"id":1017,
+"content":[
+{
+"balance": "30566",
+"purchase_date": "2013-11-14",
+"amount": "7",
+"description": 11
+}
+],}
