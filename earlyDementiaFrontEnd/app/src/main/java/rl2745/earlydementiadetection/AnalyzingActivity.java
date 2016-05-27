@@ -4,7 +4,6 @@ import android.Manifest;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
-import android.location.LocationListener;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -107,7 +106,7 @@ public class AnalyzingActivity extends AppCompatActivity implements GoogleApiCli
     }
 
     @Override
-    protected void onStart(){
+    protected void onStart() {
         mGoogleApiClient.connect();
         super.onStart();
     }
@@ -119,15 +118,15 @@ public class AnalyzingActivity extends AppCompatActivity implements GoogleApiCli
     }
 
 
-
     protected void createLocationRequest() {
         LocationRequest mLocationRequest = new LocationRequest();
-        mLocationRequest.setInterval(10000);
-        mLocationRequest.setFastestInterval(5000);
+        mLocationRequest.setInterval(1000);
+        mLocationRequest.setFastestInterval(1000);
         mLocationRequest.setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY);
 
         LocationServices.FusedLocationApi.requestLocationUpdates(
                 mGoogleApiClient, mLocationRequest, this);
+
     }
 
     @Override
